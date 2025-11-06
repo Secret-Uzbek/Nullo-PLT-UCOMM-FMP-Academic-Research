@@ -1,4 +1,4 @@
-﻿Перейти к содержимому
+Перейти к содержимому
 SciSpace сказал:
 The uploaded documents together form a cohesive publication package for “The Fractal Metascience Paradigm (FMP)” — a theoretical and applied framework proposing a fractal, recursive model of knowledge and science itself. Here’s a concise synthesis of what each file contains and how they interrelate:
 
