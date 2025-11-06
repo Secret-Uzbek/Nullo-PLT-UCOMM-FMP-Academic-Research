@@ -1,4 +1,4 @@
-﻿
+
 # The Fractal Metascience Paradigm: A Next-Generation Epistemological Framework for Complex Knowledge in the 21st Century
 
 **Abstract**
