@@ -1,4 +1,4 @@
-﻿# Nullo-PLT-UCOMM-FMP Onto-Epistemic Navigator v1.0
+# Nullo-PLT-UCOMM-FMP Onto-Epistemic Navigator v1.0
 **Living Chronicle – Scientific Work – DOI Ready**  
 Author: Abdurashid A. Abdukarimov (ORCID: 0009-0000-6394-4912)  
 License: GPL-3.0  
