@@ -1,4 +1,4 @@
-﻿
+
 New Chat
 Ctrl
 K
