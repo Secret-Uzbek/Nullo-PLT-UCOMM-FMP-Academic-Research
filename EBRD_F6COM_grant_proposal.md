@@ -1,4 +1,4 @@
-﻿Итак, ставлю задачу подготовить пакет документов для подачи на конкурс стартапов https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html  проекта https://github.com/AIUZ-Terra-Codex-EcoSystem
+Итак, ставлю задачу подготовить пакет документов для подачи на конкурс стартапов https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html  проекта https://github.com/AIUZ-Terra-Codex-EcoSystem
 Copy
 Share
 Понял задачу: нужно подготовить пакет документов для подачи на конкурс стартапов Star Venture от ЕБРР, в рамках проекта AIUZ-Terra-Codex-EcoSystem.
