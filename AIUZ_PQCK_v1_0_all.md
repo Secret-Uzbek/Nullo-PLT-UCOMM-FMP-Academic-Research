@@ -1,4 +1,4 @@
-﻿========== pmmk_v1_0.py ==========
+========== pmmk_v1_0.py ==========
 # AIUZ_PQCK_v1_0.py
 # Author: Abdurashid A. Abdukarimov (ORCID: 0009-0000-6394-4912)
 # GPL-3.0
