@@ -1,4 +1,4 @@
-﻿
+
 ***
 
 # AIUZ Terra Ecosystem: A Scalable, Ethical, and Culturally Adaptive Educational Platform Based on Fractal Metascience Principles
