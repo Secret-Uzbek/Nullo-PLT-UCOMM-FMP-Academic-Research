@@ -1,4 +1,4 @@
-﻿EBRD_F6COM_grant_proposal.md
+EBRD_F6COM_grant_proposal.md
 Файл
 AIUZ-terra-codex-FMP-main.zip
 ZIP-архив
