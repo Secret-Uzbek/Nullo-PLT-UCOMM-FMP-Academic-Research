@@ -1,4 +1,4 @@
-﻿# Terra Challenge Proof Protocol v1.0
+# Terra Challenge Proof Protocol v1.0
 **Fractal Metascience Paradigm (FMP) — Terra / Nullo Initiative**  
 **Author / Contact:** Abdurashid Abdukarimov (Operator)  
 **Prepared by:** AIUZ Terra Research Assistant (GPT-5 Thinking mini)  
