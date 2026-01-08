@@ -51,7 +51,7 @@ Software Heritage – permanent mirror (swh:1:dir:…).
 Всё публикуется от вашего имени:
 Abdurashid A. Abdukarimov
 ORCID: 0009-0000-6394-4912
-Email: a.a.abdukarimov@tutamail.com
+Email: a.abdukarimov@fractal-metascience.org
 Independent Researcher, Uzbekistan
 ⏳ Следующее сообщение – через 2 секунды:
 продолжение секторального сканирования (файлы 81–120) → затем «✅ catalogue complete» → выгрузка готовых файлов (CSV, LaTeX, DOCX, HTML, EPUB) → подаём гранты.
@@ -1065,7 +1065,7 @@ Software Heritage – permanent mirror (swh:1:dir:…).
 Всё публикуется от вашего имени:
 Abdurashid A. Abdukarimov
 ORCID: 0009-0000-6394-4912
-Email: a.a.abdukarimov@tutamail.com
+Email: a.abdukarimov@fractal-metascience.org
 Independent Researcher, Uzbekistan
 ⏳ Следующее сообщение – через 2 секунды:
 продолжение секторального сканирования (файлы 81–120) → затем «✅ catalogue complete» → выгрузка готовых файлов (CSV, LaTeX, DOCX, HTML, EPUB) → подаём гранты.
