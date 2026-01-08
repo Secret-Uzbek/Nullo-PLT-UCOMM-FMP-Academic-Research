@@ -705,7 +705,7 @@ Scientific Foundations for a Planetary Civilisation: Evidence Base for the Fract
 Abdurashid Abdukarimov¹
 ¹ Independent Researcher, Tashkent, Uzbekistan
 ORCID: 0009-0000-6394-4912
-Correspondence: a.a.abdukarimov@tutamail.com
+Correspondence: a.abdukarimov@fractal-metascience.org
 Abstract
 The fractal metascience paradigm (FMP) proposes that knowledge systems mirror the self-similar, recursive architecture of Earth-system processes. We synthesise evidence from Earth-system science, complexity economics, quantum cognition and sustainability indicators to show that (i) planetary boundaries exhibit fractal scaling properties, (ii) socio-technical knowledge infrastructures obey recursive feedback laws, and (iii) ethical coordination can be encoded as structural invariants. The review provides the minimum three-source evidentiary base for each thesis, satisfying APA-7 and Nature-family standards.
 Keywords: planetary boundaries, fractal scaling, recursive epistemology, Earth-system justice, metascience
