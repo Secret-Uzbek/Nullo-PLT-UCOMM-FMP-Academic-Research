@@ -4,7 +4,7 @@
 **Prepared for:** Lion Projects GmbH  
 **Date:** October 2025  
 **Contact:** Abdurashid Abdukarimov  
-**Email:** a.a.abdukarimov@tutamail.com  
+**Email:** a.abdukarimov@fractal-metascience.org  
 **ORCID:** 0009-0000-6394-4912
 
 ---
@@ -795,7 +795,7 @@ All parties agree to:
 Abdurashid Abdukarimov  
 Founder & CEO, Fractal Silk Route Hub  
 
-📧 **Email:** a.a.abdukarimov@tutamail.com  
+📧 **Email:** a.abdukarimov@fractal-metascience.org  
 🔗 **ORCID:** 0009-0000-6394-4912  
 📍 **Location:** Tashkent, Uzbekistan  
 🌐 **Website:** [To be launched Q1 2026]  
