@@ -9416,7 +9416,7 @@ const TerraUbique = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4" />
-                  <span>info@terraubique.uz</span>
+                  <span>a.abdukarimov@fractal-metascience.org</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <MapPin className="w-4 h-4" />
@@ -11655,7 +11655,7 @@ const TerraUbique = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4" />
-                  <span>info@terraubique.uz</span>
+                  <span>a.abdukarimov@fractal-metascience.org</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <MapPin className="w-4 h-4" />
@@ -17724,7 +17724,7 @@ Abdurashid Abdukarimov\\
 Independent Researcher\\
 Tashkent, Uzbekistan\\
 ORCID: 0009-0000-6394-4912\\
-\texttt{a.a.abdukarimov@tutamail.com}
+\texttt{a.abdukarimov@fractal-metascience.org}
 }
 
 \date{2025}
@@ -18701,7 +18701,7 @@ ChatGPT сказал:
 **Prepared for:** Lion Projects GmbH
 **Date:** October 2025
 **Contact:** Abdurashid Abdukarimov
-**Email:** [a.a.abdukarimov@tutamail.com](mailto:a.a.abdukarimov@tutamail.com)
+**Email:** [a.abdukarimov@fractal-metascience.org](mailto:a.abdukarimov@fractal-metascience.org)
 **ORCID:** 0009-0000-6394-4912
 
 ---
@@ -19574,7 +19574,7 @@ All parties agree to:
 Abdurashid Abdukarimov
 Founder \& CEO, Fractal Silk Route Hub
 
-📧 **Email:** [a.a.abdukarimov@tutamail.com](mailto:a.a.abdukarimov@tutamail.com)
+📧 **Email:** [a.abdukarimov@fractal-metascience.org](mailto:a.abdukarimov@fractal-metascience.org)
 🔗 **ORCID:** 0009-0000-6394-4912
 📍 **Location:** Tashkent, Uzbekistan
 🌐 **Website:** [To be launched Q1 2026]
@@ -21062,7 +21062,7 @@ Connects third
 
 # NULLO: The Ontological Zero-Point and Holographic Emergence of the Fractal Metascience Paradigm
 
-Abdurashid Abdukarimov<br>Independent Researcher<br>Tashkent, Uzbekistan<br>ORCID: 0009-0000-6394-4912<br>a.a.abdukarimov@tutamail.com
+Abdurashid Abdukarimov<br>Independent Researcher<br>Tashkent, Uzbekistan<br>ORCID: 0009-0000-6394-4912<br>a.abdukarimov@fractal-metascience.org
 
 \date{2025}
 
