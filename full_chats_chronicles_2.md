@@ -123,7 +123,7 @@
 
 - ФИО: Абдурашид Дильшодович Абдукаримов
 - Родился 22 марта 1977 года, Ташкент, Узбекистан
-- Контакты: +998950833850, a.a.abdukarimov@tutamail.com
+- Контакты: +998950833850, a.abdukarimov@fractal-metascience.org
 - Профили: [LinkedIn](https://uz.linkedin.com/in/bellamar), [ProZ](https://www.proz.com/interpreter/71262), [F6S](https://www.f6s.com/abdurashid-abdukarimov#about)
 - ORCID: 0009-0000-6394-4912
 
@@ -230,7 +230,7 @@
 - Абдурашид Абдукаримов
 - Родился 22 марта 1977 года, Ташкент, Узбекистан
 - Телефон: +998950833850
-- Email: a.a.abdukarimov@tutamail.com
+- Email: a.abdukarimov@fractal-metascience.org
 - Профили:
     - [LinkedIn](https://uz.linkedin.com/in/bellamar)
     - [ProZ](https://www.proz.com/interpreter/71262)
