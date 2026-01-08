@@ -7,7 +7,7 @@
 ---
 
 **To:** [Lion Projects contact email]  
-**From:** Abdurashid Abdukarimov (a.a.abdukarimov@tutamail.com)  
+**From:** Abdurashid Abdukarimov (a.abdukarimov@fractal-metascience.org)  
 **Date:** [Current date]  
 **Attachments:**  
 - FSR_Hub_Business_Plan_Full.pdf (48 pages)
@@ -300,7 +300,7 @@ Best regards,
 Founder & CEO  
 Fractal Silk Route Hub
 
-📧 a.a.abdukarimov@tutamail.com  
+📧 a.abdukarimov@fractal-metascience.org  
 🔗 ORCID: 0009-0000-6394-4912  
 📍 Tashkent, Uzbekistan  
 🌐 [Website coming Q1 2026]
