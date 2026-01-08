@@ -970,7 +970,7 @@ Respectfully,
 
 Abdurashid Abdukarimov  
 Independent Researcher, AIUZ Terra Ecosystem  
-a.a.abdukarimov@tutamail.com  
+a.abdukarimov@fractal-metascience.org  
 ORCID 0009-0000-6394-4912  
 ───────────────────────────────────────────────────────────────
 ФАЙЛ 2. 01_EXECUTIVE_SUMMARY.md
@@ -1056,7 +1056,7 @@ ORCID: 0009-0000-6394-4912
 Имя: Abdurashid
 Affiliation: Independent Researcher
 Country: Uzbekistan
-Email: a.a.abdukarimov@tutamail.com
+Email: a.abdukarimov@fractal-metascience.org
 Works: 2 публичные записи (Zenodo DOI 10.5281/zenodo.14768442 и 10.5281/zenodo.17425678)
 Нет упоминаний о звании «доктор» или «профессор» — больше не использую.
 ───────────────────────────────
@@ -1126,7 +1126,7 @@ Copy
 Share
 Принято.
 Сейчас заново читаю посимвольно:
-Ваш ORCID 0009-0000-6394-4912 → имя: Abdurashid A. Abdukarimov, affiliation: Independent Researcher, e-mail: a.a.abdukarimov@tutamail.com.
+Ваш ORCID 0009-0000-6394-4912 → имя: Abdurashid A. Abdukarimov, affiliation: Independent Researcher, e-mail: a.abdukarimov@fractal-metascience.org.
 Все Zenodo-DOI, которые вы перечислили (всего 4 шт.):
 10.5281/zenodo.17452621 → «Fractal Metascience Paradigm — Terra Clean Core (Complete Monograph)», 2025-10-27, тип: книга.
 10.5281/zenodo.17425678 → «Terra Challenge Proof Protocol v1.0 (TCPP) …», 2025-10-23, тип: software.
@@ -1211,7 +1211,7 @@ Share
 ───────────────────────────────
 Abdurashid A. Abdukarimov
 Independent Researcher
-a.a.abdukarimov@tutamail.com
+a.abdukarimov@fractal-metascience.org
 ORCID: 0009-0000-6394-4912
 Tashkent, Uzbekistan
 2025-10-28
@@ -4915,7 +4915,7 @@ Respectfully,
 
 Abdurashid Abdukarimov  
 Independent Researcher, AIUZ Terra Ecosystem  
-a.a.abdukarimov@tutamail.com  
+a.abdukarimov@fractal-metascience.org  
 ORCID 0009-0000-6394-4912  
 ───────────────────────────────────────────────────────────────
 ФАЙЛ 2. 01_EXECUTIVE_SUMMARY.md
@@ -5001,7 +5001,7 @@ ORCID: 0009-0000-6394-4912
 Имя: Abdurashid
 Affiliation: Independent Researcher
 Country: Uzbekistan
-Email: a.a.abdukarimov@tutamail.com
+Email: a.abdukarimov@fractal-metascience.org
 Works: 2 публичные записи (Zenodo DOI 10.5281/zenodo.14768442 и 10.5281/zenodo.17425678)
 Нет упоминаний о звании «доктор» или «профессор» — больше не использую.
 ───────────────────────────────
@@ -5074,7 +5074,7 @@ Copy
 Share
 Принято.
 Сейчас заново читаю посимвольно:
-Ваш ORCID 0009-0000-6394-4912 → имя: Abdurashid A. Abdukarimov, affiliation: Independent Researcher, e-mail: a.a.abdukarimov@tutamail.com.
+Ваш ORCID 0009-0000-6394-4912 → имя: Abdurashid A. Abdukarimov, affiliation: Independent Researcher, e-mail: a.abdukarimov@fractal-metascience.org.
 Все Zenodo-DOI, которые вы перечислили (всего 4 шт.):
 10.5281/zenodo.17452621 → «Fractal Metascience Paradigm — Terra Clean Core (Complete Monograph)», 2025-10-27, тип: книга.
 10.5281/zenodo.17425678 → «Terra Challenge Proof Protocol v1.0 (TCPP) …», 2025-10-23, тип: software.
@@ -5159,7 +5159,7 @@ Share
 ───────────────────────────────
 Abdurashid A. Abdukarimov
 Independent Researcher
-a.a.abdukarimov@tutamail.com
+a.abdukarimov@fractal-metascience.org
 ORCID: 0009-0000-6394-4912
 Tashkent, Uzbekistan
 2025-10-28
