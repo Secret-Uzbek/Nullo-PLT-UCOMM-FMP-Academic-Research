@@ -400,7 +400,7 @@ https://github.com/Terra-Ecosystem/Nullo-PLT-FMP-Theory
 **Abdurashid Abdulkhamitovich Abdukarimov**  
 Independent Researcher, Tashkent, Uzbekistan
 
-- 📧 Email: a.a.abdukarimov@tutamail.com  
+- 📧 Email: a.abdukarimov@fractal-metascience.org  
 - 🆔 ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
 - 🐙 GitHub: [@Secret-Uzbek](https://github.com/Secret-Uzbek)
 
@@ -631,7 +631,7 @@ N(z) = z² + c, где c = Nullo (начальное условие)
 
 **Author:** Abdurashid Abdulkhamitovich Abdukarimov  
 **ORCID:** [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
-**Email:** a.a.abdukarimov@tutamail.com  
+**Email:** a.abdukarimov@fractal-metascience.org  
 **Date:** August 10, 2025
 
 ## Abstract
@@ -1002,7 +1002,7 @@ Documentation: CC-BY-SA 4.0
 **Abdurashid Abdulkhamitovich Abdukarimov**  
 Independent Researcher, Tashkent, Uzbekistan
 
-- 📧 Email: a.a.abdukarimov@tutamail.com  
+- 📧 Email: a.abdukarimov@fractal-metascience.org  
 - 🆔 ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
 - 🐙 GitHub: [@Secret-Uzbek](https://github.com/Secret-Uzbek)
 
@@ -1012,7 +1012,7 @@ Independent Researcher, Tashkent, Uzbekistan
 
 - **Issues**: Use GitHub Issues for bug reports
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: a.a.abdukarimov@tutamail.com
+- **Email**: a.abdukarimov@fractal-metascience.org
 - **Telegram**: (Coming soon)
 
 ---
@@ -1112,7 +1112,7 @@ Special thanks to the open-source community and AI research community.
 1. Открой https://github.com/organizations/plan
 2. Choose **Free** план
 3. **Organization name**: `Terra-Ecosystem`
-4. **Contact email**: a.a.abdukarimov@tutamail.com
+4. **Contact email**: a.abdukarimov@fractal-metascience.org
 5. **This organization belongs to**: My personal account
 6. Нажми **Next** → **Complete setup**
 
@@ -1321,7 +1321,7 @@ https://github.com/Terra-Ecosystem/AIUZ-Terra-Ecosystem
 **Abdurashid Abdulkhamitovich Abdukarimov**  
 Independent Researcher, Tashkent, Uzbekistan
 
-- 📧 Email: a.a.abdukarimov@tutamail.com  
+- 📧 Email: a.abdukarimov@fractal-metascience.org  
 - 🆔 ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
 - 🐙 GitHub: [@Secret-Uzbek](https://github.com/Secret-Uzbek)
 
@@ -1379,7 +1379,7 @@ who contribute to democratizing knowledge.
 
 - **GitHub Issues**: For bugs and feature requests
 - **GitHub Discussions**: For questions and ideas
-- **Email**: a.a.abdukarimov@tutamail.com
+- **Email**: a.abdukarimov@fractal-metascience.org
 - **Website**: (Coming soon)
 
 ---
