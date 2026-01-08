@@ -397,7 +397,7 @@ S = системная устойчивость
 
 **Автор и координатор:**  
 **Abdurashid Abdukarimov**  
-📧 Email: a.a.abdukarimov@tutamail.com  
+📧 Email: a.abdukarimov@fractal-metascience.org  
 🆔 ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
 📍 Location: Tashkent, Uzbekistan
 
