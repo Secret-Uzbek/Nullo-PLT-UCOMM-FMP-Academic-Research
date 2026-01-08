@@ -3,7 +3,7 @@
 
 **Prepared for:** Lion Projects GmbH  
 **Date:** October 2025  
-**Contact:** Abdurashid Abdukarimov (a.a.abdukarimov@tutamail.com)  
+**Contact:** Abdurashid Abdukarimov (a.abdukarimov@fractal-metascience.org)  
 **Document:** One-Page Investment Proposal
 
 ---
@@ -330,7 +330,7 @@ Built on **Fractal Metascience Paradigm (FMP)** - mathematical framework where s
 **Abdurashid Abdukarimov**  
 Founder & CEO, Fractal Silk Route Hub
 
-📧 a.a.abdukarimov@tutamail.com  
+📧 a.abdukarimov@fractal-metascience.org  
 🔗 ORCID: 0009-0000-6394-4912  
 📍 Tashkent, Uzbekistan  
 
