@@ -433,7 +433,7 @@ bellamar (форумы, ЖЖ).
 
 ## 7. Контакты и метаданные (исполнитель)
 - **Инициатор / Автор материалов:** Абдукаримов Абдурашид Абдулхамитович
-  - E-mail: a.a.abdukarimov@tutamail.com
+  - E-mail: a.abdukarimov@fractal-metascience.org
   - Телефон: +998950833850
   - ORCID: https://orcid.org/0009-0000-6394-4912
 
@@ -528,7 +528,7 @@ Resume сказал:
 Переводчик • Бизнес-консультант • Аналитик • Культурный медиатор
 ORCID: 0009-0000-6394-4912
  | LinkedIn: bellamar
- | Email: a.a.abdukarimov@tutamail.com
+ | Email: a.abdukarimov@fractal-metascience.org
 
 1990-е — Первые шаги: образование, журналистика, туризм
 
@@ -987,7 +987,7 @@ Resume сказал:
 <div class="contact-item">📞 +998950833850</div>
 
                     
-<div class="contact-item">✉️ a.a.abdukarimovk@tutamail.com</div>
+<div class="contact-item">✉️ a.abdukarimov@fractal-metascience.org</div>
 
                     
 <div class="contact-item">📍 Tashkent, Uzbekistan</div>
@@ -1218,7 +1218,7 @@ Seasoned professional with <strong>29+ years of diverse experience</strong> span
                     <p style="font-size: 1.2em; margin-bottom: 20px;">
                         Available for consulting, translation, research collaboration, and project management
                     </p>
-                    <button class="cta-button" onclick="window.location.href='mailto:secret.uzbek@tutamail.com'">
+                    <button class="cta-button" onclick="window.location.href='mailto:a.abdukarimov@fractal-metascience.org'">
                         Get in Touch
                     </button>
                 </div>
@@ -1247,7 +1247,7 @@ Seasoned professional with <strong>29+ years of diverse experience</strong> span
 ПЕРСОНАЛЬНАЯ ИНФОРМАЦИЯ
 Желаемая должность: Менеджер проектов, переводчик, бизнес-консультант, аналитик
 Телефон: +998950833850
-E-mail: a.a.abdukarimov[@tutamail.com](mailto:secret.uzbek@tutamail.com)
+E-mail: a.a.abdukarimov[@tutamail.com](mailto:a.abdukarimov@fractal-metascience.org)
 Место проживания: г. Ташкент, Узбекистан (готов к переезду)
 Дата рождения: 22 марта 1977 г. (48 лет)
 Семейное положение: Женат, есть дети
@@ -1547,7 +1547,7 @@ AI-инструменты: современные технологии иску
 
 **ABDURASHID ABDUKARIMOV** Professional Tarjimon va Madaniyatlararo Muloqot Mutaxassisi
 
-**Kontakt ma'lumotlari:** 📞 +998950833850 📧 [a.a.abdukarimov@tutamail.com](mailto:a.a.abdukarimov@tutamail.com) 📍 Toshkent, O'zbekiston 🎂 22 mart 1977 yil 🆔 ORCID: 0009-0000-6394-4912 (QR-kod) 🌐 F6S: [https://www.f6s.com/member/abdurashid-abdukarimov](https://www.f6s.com/member/abdurashid-abdukarimov) (QR-kod) 📋 ProZ: [https://www.proz.com/interpreter/71262](https://www.proz.com/interpreter/71262) (QR-kod)
+**Kontakt ma'lumotlari:** 📞 +998950833850 📧 [a.abdukarimov@fractal-metascience.org](mailto:a.abdukarimov@fractal-metascience.org) 📍 Toshkent, O'zbekiston 🎂 22 mart 1977 yil 🆔 ORCID: 0009-0000-6394-4912 (QR-kod) 🌐 F6S: [https://www.f6s.com/member/abdurashid-abdukarimov](https://www.f6s.com/member/abdurashid-abdukarimov) (QR-kod) 📋 ProZ: [https://www.proz.com/interpreter/71262](https://www.proz.com/interpreter/71262) (QR-kod)
 
 **PROFESSIONAL PROFIL** Sizning loyihangiz uchun ideal yechim! 30 yildan ortiq tajribaga ega professional mutaxassis. Har qanday murakkab vazifani muvaffaqiyat bilan amalga oshirishga qodir. Barcha mijozlar 100% natijadan mamnun qolishadi.
 
@@ -1565,7 +1565,7 @@ AI-инструменты: современные технологии иску
 
 **АБДУРАШИД АБДУКАРИМОВ** Профессиональный переводчик и специалист по межкультурной коммуникации
 
-**Контактная информация:** 📞 +998950833850 📧 [a.a.abdukarimov@tutamail.com](mailto:a.a.abdukarimov@tutamail.com) 📍 Ташкент, Узбекистан 🎂 22 марта 1977 года 🆔 ORCID: 0009-0000-6394-4912 (QR-код) 🌐 F6S: [https://www.f6s.com/member/abdurashid-abdukarimov](https://www.f6s.com/member/abdurashid-abdukarimov) (QR-код) 📋 ProZ: [https://www.proz.com/interpreter/71262](https://www.proz.com/interpreter/71262) (QR-код)
+**Контактная информация:** 📞 +998950833850 📧 [a.abdukarimov@fractal-metascience.org](mailto:a.abdukarimov@fractal-metascience.org) 📍 Ташкент, Узбекистан 🎂 22 марта 1977 года 🆔 ORCID: 0009-0000-6394-4912 (QR-код) 🌐 F6S: [https://www.f6s.com/member/abdurashid-abdukarimov](https://www.f6s.com/member/abdurashid-abdukarimov) (QR-код) 📋 ProZ: [https://www.proz.com/interpreter/71262](https://www.proz.com/interpreter/71262) (QR-код)
 
 **ПРОФЕССИОНАЛЬНЫЙ ПРОФИЛЬ** Идеальное решение для вашего проекта! Профессиональный специалист с более чем 30-летним опытом. Способен успешно выполнить любую сложную задачу. Все клиенты остаются на 100% довольны результатом.
 
@@ -1583,7 +1583,7 @@ AI-инструменты: современные технологии иску
 
 **ABDURASHID ABDUKARIMOV** Professioneller Übersetzer und Spezialist für interkulturelle Kommunikation
 
-**Kontaktinformationen:** 📞 +998950833850 📧 [a.a.abdukarimov@tutamail.com](mailto:a.a.abdukarimov@tutamail.com) 📍 Taschkent, Usbekistan 🎂 22. März 1977 🆔 ORCID: 0009-0000-6394-4912 (QR-Code) 🌐 F6S: [https://www.f6s.com/member/abdurashid-abdukarimov](https://www.f6s.com/member/abdurashid-abdukarimov) (QR-Code) 📋 ProZ: [https://www.proz.com/interpreter/71262](https://www.proz.com/interpreter/71262) (QR-Code)
+**Kontaktinformationen:** 📞 +998950833850 📧 [a.abdukarimov@fractal-metascience.org](mailto:a.abdukarimov@fractal-metascience.org) 📍 Taschkent, Usbekistan 🎂 22. März 1977 🆔 ORCID: 0009-0000-6394-4912 (QR-Code) 🌐 F6S: [https://www.f6s.com/member/abdurashid-abdukarimov](https://www.f6s.com/member/abdurashid-abdukarimov) (QR-Code) 📋 ProZ: [https://www.proz.com/interpreter/71262](https://www.proz.com/interpreter/71262) (QR-Code)
 
 **BERUFSPROFIL** Die ideale Lösung für Ihr Projekt! Professioneller Spezialist mit über 30 Jahren Erfahrung. Fähig, jede komplexe Aufgabe erfolgreich zu bewältigen. Alle Kunden sind zu 100% mit dem Ergebnis zufrieden.
 
@@ -1601,7 +1601,7 @@ AI-инструменты: современные технологии иску
 
 **ABDURASHID ABDUKARIMOV** Professional Translator and Intercultural Communication Specialist
 
-**Contact Information:** 📞 +998950833850 📧 [a.a.abdukarimov@tutamail.com](mailto:a.a.abdukarimov@tutamail.com) 📍 Tashkent, Uzbekistan 🎂 March 22, 1977 🆔 ORCID: 0009-0000-6394-4912 (QR-code) 🌐 F6S: [https://www.f6s.com/member/abdurashid-abdukarimov](https://www.f6s.com/member/abdurashid-abdukarimov) (QR-code) 📋 ProZ: [https://www.proz.com/interpreter/71262](https://www.proz.com/interpreter/71262) (QR-code)
+**Contact Information:** 📞 +998950833850 📧 [a.abdukarimov@fractal-metascience.org](mailto:a.abdukarimov@fractal-metascience.org) 📍 Tashkent, Uzbekistan 🎂 March 22, 1977 🆔 ORCID: 0009-0000-6394-4912 (QR-code) 🌐 F6S: [https://www.f6s.com/member/abdurashid-abdukarimov](https://www.f6s.com/member/abdurashid-abdukarimov) (QR-code) 📋 ProZ: [https://www.proz.com/interpreter/71262](https://www.proz.com/interpreter/71262) (QR-code)
 
 **PROFESSIONAL PROFILE** The ideal solution for your project! Professional specialist with over 30 years of experience. Capable of successfully completing any complex task. All clients are 100% satisfied with the results.
 
@@ -2215,7 +2215,7 @@ AI-инструменты: современные технологии иску
 ### Контактная информация
 
 Телефон: +998950833850
-Email: a.a.abdukarimov@tutamail.com
+Email: a.abdukarimov@fractal-metascience.org
 Место проживания: г. Ташкент, Узбекистан (готов к переезду)
 Дата рождения: 22 марта 1977 г.
 ORCID: 0009-0000-6394-4912
@@ -2422,7 +2422,7 @@ ProZ: proz.com/interpreter/71262
 ## Контактные данные | Kontaktinformationen | Contact Information | Aloqa ma'lumotlari
 
 - 📞 +998950833850
-- ✉️ a.a.abdukarimov@tutamail.com
+- ✉️ a.abdukarimov@fractal-metascience.org
 - 📍 Ташкент, Узбекистан | Taschkent, Usbekistan
 - 🎂 22 марта 1977
 - ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
@@ -2643,7 +2643,7 @@ ProZ: proz.com/interpreter/71262
 ## Контактные данные
 
 📞 +998950833850
-✉️ a.a.abdukarimov@tutamail.com
+✉️ a.abdukarimov@fractal-metascience.org
 📍 Ташкент, Узбекистан
 Дата рождения: 22 марта 1977
 ORCID: 0009-0000-6394-4912
@@ -2766,7 +2766,7 @@ ProZ: proz.com/interpreter/71262
 ## Контакты | Kontakt | Contact | Aloqa
 
 - Телефон: +998950833850
-- Email: a.a.abdukarimov@tutamail.com
+- Email: a.abdukarimov@fractal-metascience.org
 - Место жительства: Ташкент, Узбекистан
 - Дата рождения: 22 марта 1977
 - ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
@@ -2957,7 +2957,7 @@ ProZ: proz.com/interpreter/71262
 ## Контактная информация
 
 - Телефон: +998950833850
-- Email: a.a.abdukarimov@tutamail.com
+- Email: a.abdukarimov@fractal-metascience.org
 - Место жительства: Ташкент, Узбекистан
 - Дата рождения: 22 марта 1977
 - ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
@@ -3445,7 +3445,7 @@ https://de.wikipedia.org/wiki/Philipp_Meuser
 ## Контакты
 
 - Телефон: +998950833850
-- Email: a.a.abdukarimov@tutamail.com
+- Email: a.abdukarimov@fractal-metascience.org
 - Ташкент, Узбекистан
 - ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
 - LinkedIn: [uz.linkedin.com/in/bellamar](https://uz.linkedin.com/in/bellamar)
@@ -3852,7 +3852,7 @@ https://de.wikipedia.org/wiki/Philipp_Meuser
 
 - ФИО: Абдурашид Дильшодович Абдукаримов
 - Родился 22 марта 1977 года, Ташкент, Узбекистан
-- Контакты: +998950833850, a.a.abdukarimov@tutamail.com
+- Контакты: +998950833850, a.abdukarimov@fractal-metascience.org
 - Профили: [LinkedIn](https://uz.linkedin.com/in/bellamar), [ProZ](https://www.proz.com/interpreter/71262), [F6S](https://www.f6s.com/abdurashid-abdukarimov#about)
 - ORCID: 0009-0000-6394-4912
 
@@ -3959,7 +3959,7 @@ https://de.wikipedia.org/wiki/Philipp_Meuser
 - Абдурашид Абдукаримов
 - Родился 22 марта 1977 года, Ташкент, Узбекистан
 - Телефон: +998950833850
-- Email: a.a.abdukarimov@tutamail.com
+- Email: a.abdukarimov@fractal-metascience.org
 - Профили:
     - [LinkedIn](https://uz.linkedin.com/in/bellamar)
     - [ProZ](https://www.proz.com/interpreter/71262)
