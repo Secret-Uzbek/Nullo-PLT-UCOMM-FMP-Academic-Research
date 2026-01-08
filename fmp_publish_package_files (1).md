@@ -105,7 +105,7 @@ FMP "Terra Clean Core" — publish pack
 \onehalfspacing
 
 \title{The Fractal Metascience Paradigm and the Terra Clean Core:\NULLO — PLT — FMP Integrated Monograph (Clean Core Edition)}
-\author{Abdurashid Abdukarimov \\\ Independent Researcher, AIUZ / Terra Codex\\ ORCID: 0009-0000-6394-4912\\ \texttt{a.a.abdukarimov@tutamail.com}}
+\author{Abdurashid Abdukarimov \\\ Independent Researcher, AIUZ / Terra Codex\\ ORCID: 0009-0000-6394-4912\\ \texttt{a.abdukarimov@fractal-metascience.org}}
 \date{October 24, 2025}
 
 \begin{document}
