@@ -49,7 +49,7 @@ protocols/terra.kernel_v4.0.spec.md → theory/plt/terra_kernel_spec.md
 
 **Author:** Abdurashid Abdulkhamitovich Abdukarimov  
 **ORCID:** [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
-**Email:** a.a.abdukarimov@tutamail.com  
+**Email:** a.abdukarimov@fractal-metascience.org  
 **Date:** August 10, 2025
 
 ## Abstract
