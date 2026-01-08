@@ -9706,7 +9706,7 @@ Timeline: 6-12 месяцев
 Мой конкретный вопрос: Какие разделы монографии вы считаете наиболее сильными/важными для первой статьи? Или начнём с того, что я предложу структуру на основе Parts I-III?RetryAAЧТо то в этом роде: 
 Fractal Metascience as a Universal Epistemological Framework: Foundations of the Terra Paradigm
 Author: Abdurashid Abdukarimov
-Contact: a.a.abdukarimov@tutamail.com
+Contact: a.abdukarimov@fractal-metascience.org
 Status: Draft v1.0 (for peer-review)
 Abstract:
 This article introduces Fractal Metascience (FM) as the epistemological backbone of the Terra Paradigm, a post-disciplinary model unifying ethics, knowledge, and planetary-scale systems. Based on recursive coherence and semantic symmetry, FM enables integration across science, education, AI, and ecological policy.
@@ -10565,7 +10565,7 @@ Rejection только если:
 Множество независимых исследователей публикуются без institutional affiliation:
 Author: John Smith
 Independent Researcher
-Email: john@gmail.com
+Email: a.abdukarimov@fractal-metascience.org
 Это нормально и принято.
 Что может пойти не так:
 Причина 1: Категория требует endorsement
@@ -11410,7 +11410,7 @@ Timeline: 6-12 месяцев
 Мой конкретный вопрос: Какие разделы монографии вы считаете наиболее сильными/важными для первой статьи? Или начнём с того, что я предложу структуру на основе Parts I-III?RetryAAЧТо то в этом роде: 
 Fractal Metascience as a Universal Epistemological Framework: Foundations of the Terra Paradigm
 Author: Abdurashid Abdukarimov
-Contact: a.a.abdukarimov@tutamail.com
+Contact: a.abdukarimov@fractal-metascience.org
 Status: Draft v1.0 (for peer-review)
 Abstract:
 This article introduces Fractal Metascience (FM) as the epistemological backbone of the Terra Paradigm, a post-disciplinary model unifying ethics, knowledge, and planetary-scale systems. Based on recursive coherence and semantic symmetry, FM enables integration across science, education, AI, and ecological policy.
@@ -12269,7 +12269,7 @@ Rejection только если:
 Множество независимых исследователей публикуются без institutional affiliation:
 Author: John Smith
 Independent Researcher
-Email: john@gmail.com
+Email: a.abdukarimov@fractal-metascience.org
 Это нормально и принято.
 Что может пойти не так:
 Причина 1: Категория требует endorsement
@@ -13114,7 +13114,7 @@ Timeline: 6-12 месяцев
 Мой конкретный вопрос: Какие разделы монографии вы считаете наиболее сильными/важными для первой статьи? Или начнём с того, что я предложу структуру на основе Parts I-III?RetryAAЧТо то в этом роде: 
 Fractal Metascience as a Universal Epistemological Framework: Foundations of the Terra Paradigm
 Author: Abdurashid Abdukarimov
-Contact: a.a.abdukarimov@tutamail.com
+Contact: a.abdukarimov@fractal-metascience.org
 Status: Draft v1.0 (for peer-review)
 Abstract:
 This article introduces Fractal Metascience (FM) as the epistemological backbone of the Terra Paradigm, a post-disciplinary model unifying ethics, knowledge, and planetary-scale systems. Based on recursive coherence and semantic symmetry, FM enables integration across science, education, AI, and ecological policy.
@@ -13973,7 +13973,7 @@ Rejection только если:
 Множество независимых исследователей публикуются без institutional affiliation:
 Author: John Smith
 Independent Researcher
-Email: john@gmail.com
+Email: a.abdukarimov@fractal-metascience.org
 Это нормально и принято.
 Что может пойти не так:
 Причина 1: Категория требует endorsement
