@@ -5,7 +5,7 @@
 **Version:** 2.0 (Verified Data Edition)  
 **Date:** October 2025  
 **Author:** Abdurashid Abdukarimov  
-**Contact:** a.a.abdukarimov@tutamail.com  
+**Contact:** a.abdukarimov@fractal-metascience.org  
 **ORCID:** 0009-0000-6394-4912  
 **Status:** Confidential - For Investment Review Only
 
