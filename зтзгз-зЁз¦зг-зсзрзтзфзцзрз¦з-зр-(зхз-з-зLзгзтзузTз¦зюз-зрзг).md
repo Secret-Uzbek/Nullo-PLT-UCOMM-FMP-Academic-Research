@@ -4,7 +4,7 @@
 
 **ABDURASHID ABDUKARIMOV** Professional Tarjimon va Madaniyatlararo Muloqot Mutaxassisi
 
-**Kontakt ma'lumotlari:** 📞 +998950833850 📧 <a.a.abdukarimov@tutamail.com> 📍 Toshkent, O'zbekiston 🎂 22 mart 1977 yil 🆔 ORCID: 0009-0000-6394-4912 (QR-kod) 🌐 F6S: <https://www.f6s.com/member/abdurashid-abdukarimov> (QR-kod) 📋 ProZ: <https://www.proz.com/interpreter/71262> (QR-kod)
+**Kontakt ma'lumotlari:** 📞 +998950833850 📧 <a.abdukarimov@fractal-metascience.org> 📍 Toshkent, O'zbekiston 🎂 22 mart 1977 yil 🆔 ORCID: 0009-0000-6394-4912 (QR-kod) 🌐 F6S: <https://www.f6s.com/member/abdurashid-abdukarimov> (QR-kod) 📋 ProZ: <https://www.proz.com/interpreter/71262> (QR-kod)
 
 **PROFESSIONAL PROFIL** Sizning loyihangiz uchun ideal yechim! 30 yildan ortiq tajribaga ega professional mutaxassis. Har qanday murakkab vazifani muvaffaqiyat bilan amalga oshirishga qodir. Barcha mijozlar 100% natijadan mamnun qolishadi.
 
@@ -22,7 +22,7 @@
 
 **АБДУРАШИД АБДУКАРИМОВ** Профессиональный переводчик и специалист по межкультурной коммуникации
 
-**Контактная информация:** 📞 +998950833850 📧 <a.a.abdukarimov@tutamail.com> 📍 Ташкент, Узбекистан 🎂 22 марта 1977 года 🆔 ORCID: 0009-0000-6394-4912 (QR-код) 🌐 F6S: <https://www.f6s.com/member/abdurashid-abdukarimov> (QR-код) 📋 ProZ: <https://www.proz.com/interpreter/71262> (QR-код)
+**Контактная информация:** 📞 +998950833850 📧 <a.abdukarimov@fractal-metascience.org> 📍 Ташкент, Узбекистан 🎂 22 марта 1977 года 🆔 ORCID: 0009-0000-6394-4912 (QR-код) 🌐 F6S: <https://www.f6s.com/member/abdurashid-abdukarimov> (QR-код) 📋 ProZ: <https://www.proz.com/interpreter/71262> (QR-код)
 
 **ПРОФЕССИОНАЛЬНЫЙ ПРОФИЛЬ** Идеальное решение для вашего проекта! Профессиональный специалист с более чем 30-летним опытом. Способен успешно выполнить любую сложную задачу. Все клиенты остаются на 100% довольны результатом.
 
@@ -40,7 +40,7 @@
 
 **ABDURASHID ABDUKARIMOV** Professioneller Übersetzer und Spezialist für interkulturelle Kommunikation
 
-**Kontaktinformationen:** 📞 +998950833850 📧 <a.a.abdukarimov@tutamail.com> 📍 Taschkent, Usbekistan 🎂 22. März 1977 🆔 ORCID: 0009-0000-6394-4912 (QR-Code) 🌐 F6S: <https://www.f6s.com/member/abdurashid-abdukarimov> (QR-Code) 📋 ProZ: <https://www.proz.com/interpreter/71262> (QR-Code)
+**Kontaktinformationen:** 📞 +998950833850 📧 <a.abdukarimov@fractal-metascience.org> 📍 Taschkent, Usbekistan 🎂 22. März 1977 🆔 ORCID: 0009-0000-6394-4912 (QR-Code) 🌐 F6S: <https://www.f6s.com/member/abdurashid-abdukarimov> (QR-Code) 📋 ProZ: <https://www.proz.com/interpreter/71262> (QR-Code)
 
 **BERUFSPROFIL** Die ideale Lösung für Ihr Projekt! Professioneller Spezialist mit über 30 Jahren Erfahrung. Fähig, jede komplexe Aufgabe erfolgreich zu bewältigen. Alle Kunden sind zu 100% mit dem Ergebnis zufrieden.
 
@@ -58,7 +58,7 @@
 
 **ABDURASHID ABDUKARIMOV** Professional Translator and Intercultural Communication Specialist
 
-**Contact Information:** 📞 +998950833850 📧 <a.a.abdukarimov@tutamail.com> 📍 Tashkent, Uzbekistan 🎂 March 22, 1977 🆔 ORCID: 0009-0000-6394-4912 (QR-code) 🌐 F6S: <https://www.f6s.com/member/abdurashid-abdukarimov> (QR-code) 📋 ProZ: <https://www.proz.com/interpreter/71262> (QR-code)
+**Contact Information:** 📞 +998950833850 📧 <a.abdukarimov@fractal-metascience.org> 📍 Tashkent, Uzbekistan 🎂 March 22, 1977 🆔 ORCID: 0009-0000-6394-4912 (QR-code) 🌐 F6S: <https://www.f6s.com/member/abdurashid-abdukarimov> (QR-code) 📋 ProZ: <https://www.proz.com/interpreter/71262> (QR-code)
 
 **PROFESSIONAL PROFILE** The ideal solution for your project! Professional specialist with over 30 years of experience. Capable of successfully completing any complex task. All clients are 100% satisfied with the results.
 
