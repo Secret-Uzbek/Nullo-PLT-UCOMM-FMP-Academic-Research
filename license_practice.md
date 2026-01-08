@@ -50,4 +50,4 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Contact:
 
-Email: a.a.abdukarimov@tutamail.com
+Email: a.abdukarimov@fractal-metascience.org
