@@ -48,4 +48,4 @@ DOI: 10.5281/zenodo.XXXXXXX
 
 Abdurashid Abdukarimov
 ORCID: 0009-0000-6394-4912
-Email: a.a.abdukarimov@tutamail.com
+Email: a.abdukarimov@fractal-metascience.org
