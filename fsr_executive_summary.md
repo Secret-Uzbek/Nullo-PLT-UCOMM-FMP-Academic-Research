@@ -1,7 +1,7 @@
 # 🌍 Fractal Silk Route Hub
 ## One-Page Executive Summary for Lion Projects
 
-**Date:** October 2025 | **Contact:** a.a.abdukarimov@tutamail.com
+**Date:** October 2025 | **Contact:** a.abdukarimov@fractal-metascience.org
 
 ---
 
@@ -194,7 +194,7 @@ Built on **Fractal Metascience Paradigm (FMP)** - proven in Terra Ecosystem proj
 **Abdurashid Abdukarimov**  
 Founder & CEO, Fractal Silk Route Hub
 
-📧 a.a.abdukarimov@tutamail.com  
+📧 a.abdukarimov@fractal-metascience.org  
 🔗 ORCID: 0009-0000-6394-4912  
 📍 Tashkent, Uzbekistan  
 
