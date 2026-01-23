@@ -437,3 +437,8 @@ Tashkent, Uzbekistan
 
 *Документ создан 22 октября 2025 года  
 в рамках Fractal Metascience Paradigm Initiative*
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
