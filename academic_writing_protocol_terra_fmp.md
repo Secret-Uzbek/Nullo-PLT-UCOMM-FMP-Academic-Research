@@ -114,3 +114,8 @@ For each artifact, confirm:
 
 **End of Academic Writing Protocol — Terra / FMP Edition**
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
