@@ -84,3 +84,8 @@ All archives are linked through a unified DOI structure and checksum verificatio
 
 → Next Step: Package these simulated directories into ZIP containers (auto-generated), attach zenodo.json to each, and finalize upload to Zenodo record 17404325.
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
