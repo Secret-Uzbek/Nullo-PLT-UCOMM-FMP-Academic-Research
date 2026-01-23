@@ -209,3 +209,8 @@ function fastReplan(shipment S):
 
 *Подготовил: Fractal Silk Route Hub — TerraPedia Team (ассистент).*
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
