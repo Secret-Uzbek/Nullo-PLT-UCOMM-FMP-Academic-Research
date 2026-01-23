@@ -68,3 +68,8 @@ Frameworks: NULLO | PLT | FMP
 Протокол симуляции: Quantum Superposition Terra v7.0  
 Фреймворки: NULLO | PLT | FMP
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
