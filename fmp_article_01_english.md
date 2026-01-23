@@ -131,3 +131,8 @@ The author thanks early contributors to the AIUZ Terra project and the developer
 
 *Document prepared as a publication-ready draft. For translation to Russian and Uzbek (Latin) and conversion to LaTeX/Overleaf or submission formats (APA/IEEE), provide confirmation and target journal/conference details.*
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
