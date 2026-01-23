@@ -138,3 +138,8 @@ fe50aa5f0e99e564b8e703274fa6f54f62cb8211b889232f0f9a5571cf741ff0  DOI_metadata.t
 
 **End of TCPP v1.0 Publish-Ready Package**
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
