@@ -54,3 +54,8 @@
   pages   = {420--431},
   doi     = {10.1111/ejed.12310}
 }
+
+
+---
+Contact: a.abdukarimov@fractal-metascience.org
+ORCID: 0009-0000-6394-4912
