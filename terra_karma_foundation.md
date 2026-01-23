@@ -77,3 +77,8 @@ Upon completion, the PQC–K.A.R.M.A. release package will include:
 
 **Status:** Phase 1 — active execution under Operator Mode.
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
