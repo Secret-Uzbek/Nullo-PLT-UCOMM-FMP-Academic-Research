@@ -112,3 +112,8 @@ Kalit so‘zlar: Fraktal metailm, AIUZ Terra, Nullo prinsipi, Post-Lingua Trace,
 
 **End of Fractal Metascience Paradigm — Bilingual Monograph**
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
