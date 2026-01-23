@@ -108,3 +108,8 @@ fe50aa5f0e99e564b8e703274fa6f54f62cb8211b889232f0f9a5571cf741ff0  PQCK_Installat
 6f3d10e8c84d4c8dc6d4bb0c4e73a798ab6cf4ac979924741d2bd349052dfdec  PQCK_Security_Audit.md
 7e91b23d2e31fa64c81bce7e7040c2b960d84e4f157b4e5200ef84ef7cf30656  PQCK_ESG_Compliance.md
 8fe26cdb45652b3216a4efb2bdfedcb31a02260f79633ef2c40a4bfa8f13a77e  SHA256SUMS.txt
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
