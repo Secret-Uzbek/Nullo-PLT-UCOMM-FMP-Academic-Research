@@ -56,3 +56,8 @@ _Составлен: 2025-09-30 11:13 UTC_
 
 ---
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
