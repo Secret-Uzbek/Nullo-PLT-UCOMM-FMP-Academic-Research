@@ -525,3 +525,8 @@
 % To expand: Add more entries as needed
 % Format check: Use `biber --tool --validate-datamodel <file.bib>`
 % ============================================================
+
+
+---
+Contact: a.abdukarimov@fractal-metascience.org
+ORCID: 0009-0000-6394-4912
