@@ -80,3 +80,8 @@ Nguyen, H., et al. (2024). Democratizing knowledge production with AI: Participa
 Smith, A., & Zhao, X. (2025). Meta-ontology for emergent properties in complex systems. *Philosophical Transactions A*, 379(2253), 20220255.
 
 ***
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
