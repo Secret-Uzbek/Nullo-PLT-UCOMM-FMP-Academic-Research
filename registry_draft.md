@@ -68,3 +68,8 @@
 data (licenses, registration numbers, ownership, financial indicators)
 must be integrated from state registers, corporate disclosures, and
 market reports.
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
