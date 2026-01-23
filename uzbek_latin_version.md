@@ -259,3 +259,7 @@ Muallif ushbu texnik yechimning haqiqiy ishlab chiqaruvchisi ekanligini tasdiqla
 **UAT bosh muhandisi** _________________ **Mavlonov A.A.**
 
 **"___"_______ 2025 y.**
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
