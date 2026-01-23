@@ -56,3 +56,8 @@ Generated: 2025-10-12
 
 **DE:** Pilotstart ab 01.01.2026: Plattformentwicklung, Partner-Onboarding (Lion Group etc.), GIS- und Prototyp-Tests, erste Pilotlieferungen, Investorensuche. Monatliche Meilensteine 2026.
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
