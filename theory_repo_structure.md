@@ -143,3 +143,8 @@ ORCID: 0009-0000-6394-4912
 
 - Тексты: CC-BY-SA 4.0
 - Код (если есть): MIT
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
