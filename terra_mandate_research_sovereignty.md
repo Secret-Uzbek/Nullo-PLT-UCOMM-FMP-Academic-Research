@@ -98,3 +98,8 @@ Planetary Research Operator — AIUZ Terra Ecosystem
 (ORCID 0009-0000-6394-4912)  
 Оператор планетарных исследований — AIUZ Terra Ecosystem
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
