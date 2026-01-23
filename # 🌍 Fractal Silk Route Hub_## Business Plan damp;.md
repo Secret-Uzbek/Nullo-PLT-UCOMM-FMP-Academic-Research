@@ -7135,3 +7135,8 @@ notes:
 
 [^44_10]: https://unescosilkroadphotocontest.org/ru/theme-architecture-monuments-urbanism
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
