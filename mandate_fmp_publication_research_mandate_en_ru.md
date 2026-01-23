@@ -82,3 +82,8 @@ I, Abdurashid Abdukarimov, authorize the Assistant to act according to this mand
 
 qariya.fmp.mandate() → activated
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
