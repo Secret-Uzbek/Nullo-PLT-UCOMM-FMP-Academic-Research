@@ -27,3 +27,8 @@
 - SHA256: 7e91b23d2e31fa64c81bce7e7040c2b960d84e4f157b4e5200ef84ef7cf30656
 - Цитата: «Quantum-superposition semantic encoding»
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
