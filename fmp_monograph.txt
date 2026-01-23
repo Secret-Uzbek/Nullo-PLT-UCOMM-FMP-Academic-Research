@@ -75,3 +75,8 @@ The Fractal Metascience Paradigm thus stands as both a philosophy and a technolo
 \bibliography{references}
 
 \end{document}
+
+
+---
+Contact: a.abdukarimov@fractal-metascience.org
+ORCID: 0009-0000-6394-4912
