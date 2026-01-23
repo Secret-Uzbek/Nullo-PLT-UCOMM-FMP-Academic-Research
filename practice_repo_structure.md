@@ -160,3 +160,8 @@ open http://localhost:3000
 
 - Код: MIT
 - Документация: CC-BY-SA 4.0
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
