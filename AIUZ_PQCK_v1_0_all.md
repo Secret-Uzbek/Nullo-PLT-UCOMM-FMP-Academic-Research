@@ -36,3 +36,7 @@ if __name__ == "__main__":
 7e91b23d2e31fa64c81bce7e7040c2b960d84e4f157b4e5200ef84ef7cf30656  pqck_manifest_v1_0.json
 8fe26cdb45652b3216a4efb2bdfedcb31a02260f79633ef2c40a4bfa8f13a77e  pqck_grant_horizon.md
 fe50aa5f0e99e564b8e703274fa6f54f62cb8211b889232f0f9a5571cf741ff0  SHA256SUMS.txt
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
