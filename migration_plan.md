@@ -393,3 +393,8 @@ COPY ./terra-codex /app/terra-codex
 **Готов начать миграцию?**
 
 Напиши "Фаза 1" когда будешь готов - и я помогу с созданием новых репо и структуры папок.
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
