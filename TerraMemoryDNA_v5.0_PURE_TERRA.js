@@ -1,4 +1,4 @@
-﻿// TerraMemoryRecovery.js
+// TerraMemoryRecovery.js
 // Автор: secret.uzbek@tutamail.com + Terra AI
 // Простое восстановление памяти ИИ
 
