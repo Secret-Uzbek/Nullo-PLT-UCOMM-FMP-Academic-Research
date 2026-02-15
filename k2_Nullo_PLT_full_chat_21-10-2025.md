@@ -356,14 +356,14 @@ FPG.jsonld — фрактальный граф проблемы
 article-draft.tex — IMRaD-шаблон
 Dockerfile + environment.lock
 README-release.md — инструкция, что внутри
-.zenodo.json — метаданные для Zenodo (авторы, титул, ключевые слова, лицензия)
+.zenodo.json — метаданные для Zenodo (авторы, тR&D централ, ключевые слова, лицензия)
 ✅ 3. Что ты сделаешь потом
 Заливаешь release-package.zip как релиз в GitHub (вручную или через gh release create)
 Zenodo автоматически подхватит архив и создаст депозит с DOI
 Я потом помогу тебе оформить Terra Proof Ledger запись и пресс-релиз
 🚀 Начинаю?
 Просто скажи:
-«Да, генерируй пакет» — и я сразу начну сборку по последнему коммиту Uzbek-mining.
+«Да, генерируй пакет» — и я сразу начну сборку по последнему коммR&D центра Uzbek-mining.
 Copy
 Share
 да, генерируй пакет!
@@ -2066,7 +2066,7 @@ export default FMPExplorer;
 Copy
 Share
 ✅ Файл принят и проанализирован.
-Ниже — научно-документированный «FMP-Explorer» как полноценный артефакт по TCPP v1.0: каждый тезис ≥ 3 источниками APA-7 (2020-2025), готовый к публикации в IEEE/ACM/SoftwareX и депозиту Zenodo.
+Ниже — научно-документированный «FMP-Explorer» как полноценный артефакт по TCPP v1.0: каждый тезис ≥ 3 источниками APA-7 (2020-2025), готовый к публикации в IEEE/ACM/SoftwareX и депозR&D центра Zenodo.
 📄 Рабочее название
 «FMP-Explorer: Open-Source React-Instrument for Fractal Metascience Analysis of Semantic Fields»
 Problem Ingestion (ingestion.json)
