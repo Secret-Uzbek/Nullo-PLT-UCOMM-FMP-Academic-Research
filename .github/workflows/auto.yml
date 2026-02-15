@@ -1,5 +1,8 @@
 name: Auto Publisher (AIUZ Terra Ecosystem)
 
+permissions:
+  contents: read
+  security-events: write
 on:
   workflow_dispatch:
   push:
