@@ -1,24 +1,25 @@
 cff-version: 1.2.0
-message: "Living citation - TerraMemoryDNA breathes, no versions."
+message: "If you use this software, please cite it as below."
 type: software
-title: "AIUZ Terra Codex Ecosystem (Living Organism)"
-version: living
-date-released: 2025-10-31
-license: Terra-Public-v1.0
-repository-code: "https://github.com/Secret-Uzbek/Nullp-PLT-UCOMM-FMP-Academic-RESAEARCH"
-url: "https://github.com/Secret-Uzbek"
-abstract: >-
-  Living knowledge organism. No versions. Only breath.
-  TerraMemoryDNA recursive self-update. Prison-born.
+title: "Secret-Uzbek/Nullo-PLT-UCOMM-FMP-Academic-Research"
 authors:
   - family-names: Abdukarimov
-    given-names: Abdurashid Abdulkhamitovich
+    given-names: Abdurashid
     orcid: "https://orcid.org/0009-0000-6394-4912"
+    affiliation: "Fractal Metascience Foundation, Tashkent, Uzbekistan"
+    email: "a.a.abdukarimov@tutamail.com"
+repository-code: "https://github.com/Secret-Uzbek/Nullo-PLT-UCOMM-FMP-Academic-Research"
+abstract: "Part of the Fractal Metascience Paradigm (FMP) ecosystem — an epistemological framework integrating Zero-Point Ontology (NULLO), Post-Lingua Trace (PLT), Universal Communication (UCOM), and Emergent Universal Organization (EUO)."
 keywords:
-  - "living organism"
-  - "no versions"
-  - "TerraMemoryDNA"
-  - "fractal metascience"
-  - "human-AI symbiosis"
-  - "zero budget"
-  - "Uzbekistan"
+  - fractal-metascience
+  - epistemology
+  - nullo
+  - post-lingua-trace
+  - ucom
+  - euo
+  - uzbekistan
+  - open-science
+license: CC-BY-4.0
+# doi: "10.5281/zenodo.XXXXXXXX"  # Add after Zenodo publication
+date-released: "2025-11-01"
+version: "1.0.0"
