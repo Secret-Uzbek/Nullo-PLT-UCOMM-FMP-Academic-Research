@@ -38,7 +38,7 @@ Generated: 2025-10-12
 
 **RU:** Финансовые данные собраны из таблиц архива. Ключевые элементы: CAPEX (разработка платформы, пилотные хабы, склады), OPEX (операции, персонал, страховка, хостинг), источники дохода (подписки, комиссии, премиальные услуги, аналитика), варианты финансирования (акционерный капитал, заемные средства, гранты, ГЧП), валютный слой (USD/EUR/UZS/KZT).
 
-**UZ:** Moliyaviy maʼlumotlar arxiv jadvalaridan yigʻilgan. Asosiy elementlar: CAPEX (platformani ishlab chiqish, pilot hub'lar, omborlar), OPEX (operatsiyalar, xodimlar, sugʻurta, hosting), daromad manbalari (obunalar, tranzaksiya komissiyalari, premium-logistika, maʼlumot/analitika savdosi), moliyalashtirish variantlari (kapital, qarz, grantlar, PPP), valyuta qatlamlari (USD/EUR/UZS/KZT).
+**UZ:** Moliyaviy ma'lumotlar arxiv jadvalaridan yigʻilgan. Asosiy elementlar: CAPEX (platformani ishlab chiqish, pilot hub'lar, omborlar), OPEX (operatsiyalar, xodimlar, sugʻurta, hosting), daromad manbalari (obunalar, tranzaksiya komissiyalari, premium-logistika, ma'lumot/analitika savdosi), moliyalashtirish variantlari (kapital, qarz, grantlar, PPP), valyuta qatlamlari (USD/EUR/UZS/KZT).
 
 **DE:** Finanzdaten aus Archiv-Tabellen. Schlüsselbestandteile: CAPEX (Plattformentwicklung, Pilot-Hubs, Lagerhäuser), OPEX (Betrieb, Personal, Versicherung, Hosting), Einnahmequellen (Abonnements, Transaktionsgebühren, Premium-Logistik, Daten/Analytics-Verkauf), Finanzierung (Eigenkapital, Fremdkapital, Zuschüsse, PPP), Währungsschichten (USD/EUR/UZS/KZT).
 

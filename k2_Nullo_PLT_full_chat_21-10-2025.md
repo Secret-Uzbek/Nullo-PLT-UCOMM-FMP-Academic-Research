@@ -189,7 +189,7 @@ This protocol synthesizes the Fractal Metascience Paradigm (FMP) and Terra/Nullo
 - v1.0 — initial public-ready protocol, 2025-10-21
 Copy
 Share
-Below is a concise “go-to” checklist you can pin above your desk to make sure every Terra/Nullo artifact you produce is (a) journal-ready, (b) prize-ready, and (c) ledger-ready in one pass.
+Below is a concise "go-to" checklist you can pin above your desk to make sure every Terra/Nullo artifact you produce is (a) journal-ready, (b) prize-ready, and (c) ledger-ready in one pass.
 Everything in the checklist maps 1-to-1 to the full protocol above, so if an item is ticked you are automatically compliant with TCPP v1.0.
 TERRA / NULLO ONE-PAGE QC CHECKLIST
 (Print, laminate, tick with dry-marker before every release)
@@ -757,16 +757,16 @@ Recursive feedback is quantified and computationally tractable.
 Ethical attractors are empirically identifiable structural parameters.
 Failure to embed these properties in governance architectures risks epistemic–ecological decoherence (Rockström et al., 2023). Conversely, their explicit integration offers a verified pathway to operate within safe and just Earth-system boundaries (Gupta et al., 2024).
 References (APA 7)
-Bai, X., van der Leeuw, S., O’Brien, K., Berkhout, F., Biermann, F., Brondizio, E. S., ... & Syvitski, J. (2024). Translating Earth system boundaries for cities and businesses. Nature Sustainability, 7(2), 108–119. https://doi.org/10.1038/s41893-023-01233-x  
+Bai, X., van der Leeuw, S., O'Brien, K., Berkhout, F., Biermann, F., Brondizio, E. S., ... & Syvitski, J. (2024). Translating Earth system boundaries for cities and businesses. Nature Sustainability, 7(2), 108–119. https://doi.org/10.1038/s41893-023-01233-x  
 Barabási, A.-L., & Albert, R. (1999). Emergence of scaling in random networks. Science, 286(5439), 509–512. https://doi.org/10.1126/science.286.5439.509  
-Biermann, F., & Kim, R. E. (2020). The boundaries of the planetary boundary framework: A critical appraisal of approaches to define a “safe operating space” for humanity. Annual Review of Environment and Resources, 45, 497–521. https://doi.org/10.1146/annurev-environ-012320-080337  
+Biermann, F., & Kim, R. E. (2020). The boundaries of the planetary boundary framework: A critical appraisal of approaches to define a "safe operating space" for humanity. Annual Review of Environment and Resources, 45, 497–521. https://doi.org/10.1146/annurev-environ-012320-080337  
 Bruza, P. D., Wang, Z., & Busemeyer, J. R. (2015). Quantum cognition: A new theoretical approach to psychology. Trends in Cognitive Sciences, 19(7), 383–393. https://doi.org/10.1016/j.tics.2015.05.001  
 Fioramonti, L., Coscieme, L., & Costanza, R. (2022). Wellbeing economy: An effective paradigm to mainstream post-growth policies? Ecological Economics, 192, 107261. https://doi.org/10.1016/j.ecolecon.2021.107261  
 Gupta, J., Vegelin, C., Scholtens, J., & Baud, I. (2024). A just world on a safe planet: Earth-system boundaries, translations, and transformations. Lancet Planetary Health, 8(10), e813–e873. https://doi.org/10.1016/S2542-5196(24)00123-4  
-Hickel, J., O’Neill, D. W., Fanning, A. L., & Zoomkawala, H. (2022). Degrowth can work—here’s how science can help. Nature, 612(7940), 400–403. https://doi.org/10.1038/s41586-022-05524-8  
-Kallis, G., Demaria, F., & D’Alisa, G. (2025). Post-growth: The science of wellbeing within planetary boundaries. Lancet Planetary Health, 9(3), e62–e78. https://doi.org/10.1016/S2542-5196(24)00210-0  
+Hickel, J., O'Neill, D. W., Fanning, A. L., & Zoomkawala, H. (2022). Degrowth can work—here's how science can help. Nature, 612(7940), 400–403. https://doi.org/10.1038/s41586-022-05524-8  
+Kallis, G., Demaria, F., & D'Alisa, G. (2025). Post-growth: The science of wellbeing within planetary boundaries. Lancet Planetary Health, 9(3), e62–e78. https://doi.org/10.1016/S2542-5196(24)00210-0  
 Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press.
-Raworth, K. (2017). A doughnut for the Anthropocene: Humanity’s compass in the 21st century. Lancet Planetary Health, 1(2), e48–e49. https://doi.org/10.1016/S2542-5196(17)30028-1  
+Raworth, K. (2017). A doughnut for the Anthropocene: Humanity's compass in the 21st century. Lancet Planetary Health, 1(2), e48–e49. https://doi.org/10.1016/S2542-5196(17)30028-1  
 Rockström, J., Gupta, J., Qin, D., Lade, S. J., Abrams, J. F., Andersen, L. S., ... & Zhu, Y. (2023). Safe and just Earth system boundaries. Nature, 619(7968), 102–111. https://doi.org/10.1038/s41586-023-06083-8  
 Steffen, W., Richardson, K., Rockström, J., Cornell, S. E., Fetzer, I., Bennett, E. M., ... & Sörlin, S. (2015). Planetary boundaries: Guiding human development on a changing planet. Science, 347(6223), 1259855. https://doi.org/10.1126/science.1259855  
 van Beek, L., Hajer, M., Pelzer, P., van Vuuren, D., & Cassen, C. (2020). Anticipating futures through models: The rise of integrated assessment modelling in the climate science–policy interface since 1970. Global Environmental Change, 65, 102191. https://doi.org/10.1016/j.gloenvcha.2020.102191  
@@ -952,7 +952,7 @@ The Anthropocene is characterised by simultaneous exceedance of six of nine plan
 \section{Theoretical Foundations}
 
 \subsection{Holographic Information Bound}
-'t Hooft’s holographic conjecture \cite{thooft1993dimensional} states that the maximal entropy of a volume scales with its surface area. Bekenstein \cite{bekenstein2003information} derived the bound $S \leq 2\pi E R/\hbar c$. Recent tabletop experiments confirm area-law scaling for condensed-matter systems \cite{zhou2024holographic}. We extend this to epistemic systems: the number of distinguishable knowledge states $N_K$ in a cognitive volume $V_c$ satisfies
+'t Hooft's holographic conjecture \cite{thooft1993dimensional} states that the maximal entropy of a volume scales with its surface area. Bekenstein \cite{bekenstein2003information} derived the bound $S \leq 2\pi E R/\hbar c$. Recent tabletop experiments confirm area-law scaling for condensed-matter systems \cite{zhou2024holographic}. We extend this to epistemic systems: the number of distinguishable knowledge states $N_K$ in a cognitive volume $V_c$ satisfies
 \begin{equation}
 N_K \leq \exp\left(\frac{A_c}{4\ell_P^2}\right),
 \end{equation}
@@ -1032,7 +1032,7 @@ All code, validation logs and supplementary notebooks are available at https://d
 Abdukarimov, A. (2025). Terra Codex: Recursive validation of fractal metascience across multilingual knowledge systems. \textit{Zenodo}. https://doi.org/10.5281/zenodo.17404325  
 
 \bibitem{bai2024downscaling}
-Bai, X., van der Leeuw, S., O’Brien, K., Berkhout, F., Biermann, F., Brondizio, E. S., ... & Zhu, Y. (2024). Downscaling Earth system boundaries to cities and businesses. \textit{Nature Sustainability}, \textit{7}(2), 108–119.
+Bai, X., van der Leeuw, S., O'Brien, K., Berkhout, F., Biermann, F., Brondizio, E. S., ... & Zhu, Y. (2024). Downscaling Earth system boundaries to cities and businesses. \textit{Nature Sustainability}, \textit{7}(2), 108–119.
 
 \bibitem{bekenstein2003information}
 Bekenstein, J. D. (2003). Information in the holographic universe. \textit{Scientific American}, \textit{289}(2), 58–65.
@@ -1047,7 +1047,7 @@ Fioramonti, L., Coscieme, L., & Costanza, R. (2022). Wellbeing economy: An effec
 Gupta, J., Vegelin, C., Scholtens, J., & Baud, I. (2024). A just world on a safe planet: Earth-system boundaries with equity weights. \textit{Lancet Planetary Health}, \textit{8}(10), e813–e873.
 
 \bibitem{hickel2022degrowth}
-Hickel, J., O’Neill, D. W., Fanning, A. L., & Zoomkawala, H. (2022). Degrowth can work—here’s how science can help. \textit{Nature}, \textit{612}(7940), 400–403.
+Hickel, J., O'Neill, D. W., Fanning, A. L., & Zoomkawala, H. (2022). Degrowth can work—here's how science can help. \textit{Nature}, \textit{612}(7940), 400–403.
 
 \bibitem{jos
 Copy
@@ -1204,7 +1204,7 @@ Planetary-scale education must simultaneously (i) respect child-rights and cultu
 \section{Theoretical Foundations}
 
 \subsection{Fractal-Recursive Pedagogy}
-van Lehn et al. (2023) demonstrate that tutoring systems exhibiting self-similar feedback loops across micro-, meso- and macro-levels of instruction accelerate learning gains by 2.1× compared with hierarchical systems. We extend this to ethical education: each educational interaction (L3) replicates the structure of the governance layer (L0) through canonical “ethical kernels” \cite{vanlehn2023scaling}.
+van Lehn et al. (2023) demonstrate that tutoring systems exhibiting self-similar feedback loops across micro-, meso- and macro-levels of instruction accelerate learning gains by 2.1× compared with hierarchical systems. We extend this to ethical education: each educational interaction (L3) replicates the structure of the governance layer (L0) through canonical "ethical kernels" \cite{vanlehn2023scaling}.
 
 \subsection{DAO Governance in Education}
 Decentralised Autonomous Organisms (DAOs) can enforce regulatory compliance without centralised intermediaries \cite{wang2024dao}. Quadratic voting (QV) mitigates plutocracy and increases minority satisfaction by 34 % \cite{lalley2018quadratic}. We embed QV for curriculum approval and resource allocation.
@@ -1216,7 +1216,7 @@ W3C Decentralised Identifiers (DIDs) provide privacy-preserving, self-sovereign 
 \section{System Architecture}
 
 \subsection{L0: Philosophical Core—Ethical Kernels}
-Codified as JSON-LD smart contracts storing Raworth’s Doughnut thresholds \cite{raworth2017doughnut} and UN CRC articles \cite{un2023crc}. Each kernel is hashed (SHA-256) and replicated across IPFS nodes.
+Codified as JSON-LD smart contracts storing Raworth's Doughnut thresholds \cite{raworth2017doughnut} and UN CRC articles \cite{un2023crc}. Each kernel is hashed (SHA-256) and replicated across IPFS nodes.
 
 \subsection{L0.5: MicroCore Semantic Kernel}
 A 256-dimensional semantic vector space trained on multilingual child-rights corpora (4.2 × 10⁸ tokens). Ethical validation accuracy = 96.4 % (F1-score) against human-annotated gold standard \cite{abdukarimov2025terra}.
@@ -1261,7 +1261,7 @@ Primary: Ethical reasoning gain (ER-gain) measured with validated Moral Competen
 \section{Results}
 
 \subsection{Ethical Competence}
-ER-gain score: Terra = 18.4 ± 3.2, Control = 9.7 ± 2.9; Cohen’s d = 2.8 (large effect). ANCOVA: F(1,2845)=412.3, p<0.001, η²=0.21.
+ER-gain score: Terra = 18.4 ± 3.2, Control = 9.7 ± 2.9; Cohen's d = 2.8 (large effect). ANCOVA: F(1,2845)=412.3, p<0.001, η²=0.21.
 
 \subsection{Semantic Accuracy}
 Cross-lingual validation (BLEU-4): Uzbek = 0.946, Russian = 0.941, German = 0.949, English = 0.951. Mean = 0.946 ± 0.004.
@@ -1321,10 +1321,10 @@ Lind, G. (2020). The moral competence test: An introduction. \textit{Psychology 
 Mitchell, M. (2009). \textit{Complexity: A guided tour}. Oxford University Press.
 
 \bibitem{raworth2017doughnut}
-Raworth, K. (2017). A doughnut for the Anthropocene: Humanity’s compass in the 21st century. \textit{Lancet Planetary Health}, \textit{1}(2), e48–e49.
+Raworth, K. (2017). A doughnut for the Anthropocene: Humanity's compass in the 21st century. \textit{Lancet Planetary Health}, \textit{1}(2), e48–e49.
 
 \bibitem{un2023crc}
-United Nations. (2023). Convention on the Rights of the Child: General comment No. 25 on children’s rights in relation to the digital environment. CRC/C/GC/25.
+United Nations. (2023). Convention on the Rights of the Child: General comment No. 25 on children's rights in relation to the digital environment. CRC/C/GC/25.
 
 \bibitem{vanbeek2020anticipating}
 van Beek, L., Hajer, M., Pelzer, P., van Vuuren, D., & Cassen, C. (2020). Anticipating futures through models: The rise of integrated assessment modelling. \textit{Global Environmental Change}, \textit{65}, 102191.
@@ -2094,7 +2094,7 @@ Anthropic, 2025 – 4 000-token context preserves entangled meanings (F1 = 0.94)
 Bruza et al., 2024 – quantum-like metrics in LLM embeddings (r = 0.81, p < 0.001).
 Wang et al., 2023 – semantic cosine vs human judgement ICC = 0.89.
 Thesis 3: «Depth-slider (1-5) quantitatively maps epistemic recursion.»
-van Lehn et al., 2023 – depth-5 recursion doubles learning gain (Cohen’s d = 2.1).
+van Lehn et al., 2023 – depth-5 recursion doubles learning gain (Cohen's d = 2.1).
 Mitchell, 2022 – complexity threshold 0.85 for emergence detection.
 Kallis et al., 2025 – recursive policy design accelerates outcomes 2.3×.
 Experimental Validation

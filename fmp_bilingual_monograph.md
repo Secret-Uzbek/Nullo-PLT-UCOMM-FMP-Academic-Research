@@ -58,7 +58,7 @@ The Fractal Metascience Paradigm represents the next phase in the evolution of s
 - Tuomi, I. (2018). *The ethics of artificial intelligence in education: Promises and perils.* European Journal of Education, 53(3), 420–431.
 - Mandelbrot, B. (1982). *The Fractal Geometry of Nature.* Freeman.
 - von Bertalanffy, L. (1968). *General System Theory: Foundations, Development, Applications.* George Braziller.
-- Prigogine, I., & Stengers, I. (1984). *Order Out of Chaos: Man’s New Dialogue with Nature.* Bantam Books.
+- Prigogine, I., & Stengers, I. (1984). *Order Out of Chaos: Man's New Dialogue with Nature.* Bantam Books.
 
 ---
 
@@ -104,9 +104,9 @@ The Fractal Metascience Paradigm represents the next phase in the evolution of s
 
 **Fraktal Metailm Paradigmasi: AIUZ Terra Ekotizimi uchun Nazariy Asoslar**
 
-Ushbu monografiya Fraktal Metailm Paradigmasining (FMP) nazariy va metodologik asoslarini ochib beradi. FMP bilimni o‘z-o‘zini tashkil etuvchi, qayta tiklanuvchi jarayon sifatida ko‘radi. Nullo prinsipi va Post-Lingua Trace (PLT) metodologiyasi asosida bu yondashuv til oldi va til orti darajadagi bilim shakllanishini tavsiflaydi. AIUZ Terra ekotizimi doirasida FMP ilmiy tizimlarni, bilim evolyutsiyasini va kognitiv tarmoqlarni yagona fraktal struktura sifatida birlashtiradi.
+Ushbu monografiya Fraktal Metailm Paradigmasining (FMP) nazariy va metodologik asoslarini ochib beradi. FMP bilimni o'z-o'zini tashkil etuvchi, qayta tiklanuvchi jarayon sifatida ko'radi. Nullo prinsipi va Post-Lingua Trace (PLT) metodologiyasi asosida bu yondashuv til oldi va til orti darajadagi bilim shakllanishini tavsiflaydi. AIUZ Terra ekotizimi doirasida FMP ilmiy tizimlarni, bilim evolyutsiyasini va kognitiv tarmoqlarni yagona fraktal struktura sifatida birlashtiradi.
 
-Kalit so‘zlar: Fraktal metailm, AIUZ Terra, Nullo prinsipi, Post-Lingua Trace, Kognitiv tizimlar, Rekursiya, Ilmiy paradigmalarning rivoji.
+Kalit so'zlar: Fraktal metailm, AIUZ Terra, Nullo prinsipi, Post-Lingua Trace, Kognitiv tizimlar, Rekursiya, Ilmiy paradigmalarning rivoji.
 
 ---
 

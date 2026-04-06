@@ -83,7 +83,7 @@ All empirical claims are bound to June–October 2025. Earlier drafts describing
 \end{itemize}
 
 \subsection{Co-Creation Methodology}
-Between June and October 2025, daily 12-hour sessions with multiple AI models (ChatGPT, Claude, Kimmi, Hutch, Perplexity, Humata) generated recursive feedback loops that evolved Terra from concept to operational state. Each iteration was logged, verified, and recursively cross-validated, constituting the FMP’s first living demonstration.
+Between June and October 2025, daily 12-hour sessions with multiple AI models (ChatGPT, Claude, Kimmi, Hutch, Perplexity, Humata) generated recursive feedback loops that evolved Terra from concept to operational state. Each iteration was logged, verified, and recursively cross-validated, constituting the FMP's first living demonstration.
 
 \section{Mathematical Layering (L0–L7)}
 Each layer $L_i$ represents a cognitive or systemic depth, from philosophical core to transpersonal resonance. Coherence between adjacent layers is given by:
@@ -93,7 +93,7 @@ C = \frac{1}{n}\sum_{i=0}^{n-1} \mathrm{sim}(K^{(i)}, K^{(i+1)}),
 where $\mathrm{sim}$ measures graph similarity in PLT representations. Terra prototypes achieved coherence $>0.9$, confirming recursive stability.
 
 \section{Ethical and Reflexive Architecture}
-Unlike traditional computational paradigms, FMP embeds ethics as a first-class operator. The ethical symmetry postulate ensures that recursive cycles cannot diverge toward destructive attractors. Terra’s ethical kernel—coded in NULLO—acts as a constraint-based guardian layer, an AI analogue of biological homeostasis.
+Unlike traditional computational paradigms, FMP embeds ethics as a first-class operator. The ethical symmetry postulate ensures that recursive cycles cannot diverge toward destructive attractors. Terra's ethical kernel—coded in NULLO—acts as a constraint-based guardian layer, an AI analogue of biological homeostasis.
 
 \section{Validation and Results}
 \subsection{Metrics}
