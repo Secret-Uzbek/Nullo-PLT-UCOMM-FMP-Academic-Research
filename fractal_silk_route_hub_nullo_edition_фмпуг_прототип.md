@@ -199,7 +199,7 @@ body{background:linear-gradient(135deg,var(--nullo-bg),#07102a);color:var(--whit
 </div>
 <script>
 let lang='en';
-const t={en:{title:'Fractal Silk Route Hub — NULLO',calcTitle:'Fractal Route Calculator',agentTitle:'Agent: Hamburg Hub (Observer)'},ru:{title:'Хаб Фрактального Шёлкового Пути — NULLO',calcTitle:'Фрактальный калькулятор маршрута',agentTitle:'Агент: Хаб Гамбург (Обозреватель)'},uz:{title:'Fraktal Ipak Yo‘li Markazi — NULLO',calcTitle:"Fraktal Yo'l Kalkulyatori",agentTitle:'Agent: GAMBURG Hub (Observer)'},de:{title:'Fraktales Seidenstraßen‑Hub — NULLO',calcTitle:'Fraktaler Routenrechner',agentTitle:'Agent: Hamburg Hub (Observer)'}};
+const t={en:{title:'Fractal Silk Route Hub — NULLO',calcTitle:'Fractal Route Calculator',agentTitle:'Agent: Hamburg Hub (Observer)'},ru:{title:'Хаб Фрактального Шёлкового Пути — NULLO',calcTitle:'Фрактальный калькулятор маршрута',agentTitle:'Агент: Хаб Гамбург (Обозреватель)'},uz:{title:'Fraktal Ipak Yo'li Markazi — NULLO',calcTitle:"Fraktal Yo'l Kalkulyatori",agentTitle:'Agent: GAMBURG Hub (Observer)'},de:{title:'Fraktales Seidenstraßen‑Hub — NULLO',calcTitle:'Fraktaler Routenrechner',agentTitle:'Agent: Hamburg Hub (Observer)'}};
 function setLang(l){lang=l;document.getElementById('title').innerText=t[l].title;document.getElementById('calcTitle').innerText=t[l].calcTitle;document.getElementById('agentTitle').innerText=t[l].agentTitle}
 function calc(){const w=document.getElementById('weight').value||1000;const d=8500;const cost=(w*d*0.12).toFixed(2);document.getElementById('calcRes').style.display='block';document.getElementById('calcRes').innerHTML=`Distance: ${d} km<br>Weight: ${w} kg<br>Est cost: $${cost}`}
 setLang('en');

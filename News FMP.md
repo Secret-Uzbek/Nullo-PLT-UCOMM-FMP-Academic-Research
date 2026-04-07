@@ -15,7 +15,7 @@ The 21st century confronts a confluence of systemic crises and emergent opportun
 
 The Fractal Metascience Paradigm (FMP) responds by synthesizing traditional fractal geometry insights with cutting-edge generative AI models (Jones et al., 2025), advances in meta-ontology (Smith & Zhao, 2025), and participatory, equitable science frameworks (Nguyen et al., 2024). It constructs knowledge not as static objectivity but as a recursively co-created, fractally structured process spanning scales from neurons to institutions, local contexts to planetary systems.
 
-FMP also integrates critical advances in metascientific infrastructures—such as AI-supported reflexive evaluation (Garcia et al., 2025) and blockchain-enabled research transparency (Kumar & Lee, 2025)—thereby operationalizing its epistemological principles in practical scientific ecosystems.
+FMP also integrates critical advances in metascientific infrastructuresвЂ”such as AI-supported reflexive evaluation (Garcia et al., 2025) and blockchain-enabled research transparency (Kumar & Lee, 2025)вЂ”thereby operationalizing its epistemological principles in practical scientific ecosystems.
 
 ***
 
@@ -23,11 +23,11 @@ FMP also integrates critical advances in metascientific infrastructures—such a
 
 ### Fractal Generative Models: Expanding Complexity Science
 
-Recent work in fractal generative modeling for artificial intelligence (Lee et al., 2025) augments FMP’s theoretical base by providing mechanistic accounts of multi-scale pattern emergence. Unlike earlier descriptive fractals (Mandelbrot, 1983), these generative models leverage deep learning and algorithmic information theory to explicitly model recursive pattern formation and context-adaptive self-similarity, thereby enhancing predictive and explanatory power across domains.
+Recent work in fractal generative modeling for artificial intelligence (Lee et al., 2025) augments FMP's theoretical base by providing mechanistic accounts of multi-scale pattern emergence. Unlike earlier descriptive fractals (Mandelbrot, 1983), these generative models leverage deep learning and algorithmic information theory to explicitly model recursive pattern formation and context-adaptive self-similarity, thereby enhancing predictive and explanatory power across domains.
 
 ### Meta-Ontological Advances and Onto-Epistemic Integration
 
-Contemporary meta-ontologies (Smith & Zhao, 2025) propose dynamic ontological frameworks that evolve via feedback from epistemic engagement, aligning closely with FMP’s principle of onto-epistemic co-construction. This alignment dissolves rigid separations between reality and knowledge, positing a relational ontology where existence and knowing are mutually constitutive in fractal cycles of emergence.
+Contemporary meta-ontologies (Smith & Zhao, 2025) propose dynamic ontological frameworks that evolve via feedback from epistemic engagement, aligning closely with FMP's principle of onto-epistemic co-construction. This alignment dissolves rigid separations between reality and knowledge, positing a relational ontology where existence and knowing are mutually constitutive in fractal cycles of emergence.
 
 ### AI-Driven Reflexivity and Participatory Science
 
@@ -39,7 +39,7 @@ The explosion of AI tools fostering reflexivity in research practices (Garcia et
 
 ### Multi-Scale and Fractal Validation
 
-FMP advances validate knowledge through fractal coherence rather than conventional linear validation. Emerging techniques including fractal time series analysis (Kantelhardt et al., 2002), multidimensional pattern triangulation, and AI-facilitated meta-pattern detection (Nguyen et al., 2024) exemplify methodology consonant with FMP’s ontological commitments.
+FMP advances validate knowledge through fractal coherence rather than conventional linear validation. Emerging techniques including fractal time series analysis (Kantelhardt et al., 2002), multidimensional pattern triangulation, and AI-facilitated meta-pattern detection (Nguyen et al., 2024) exemplify methodology consonant with FMP's ontological commitments.
 
 ### Integrative Transdisciplinarity with AI Support
 
