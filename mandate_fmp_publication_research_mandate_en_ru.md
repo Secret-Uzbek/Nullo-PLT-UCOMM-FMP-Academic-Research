@@ -65,7 +65,7 @@ This mandate authorizes the Assistant to access, analyze, synthesize, and prepar
 
 ## Reporting & Approval / Отчётность
 * The Assistant will report completed deliverables in the chat and attach files or provide download links.
-* Major decisions and any use of private archives will be reported and require Grantor’s digital confirmation before public release.
+* Major decisions and any use of private archives will be reported and require Grantor's digital confirmation before public release.
 
 * Ассистент отчитывается в чате и прикладывает файлы/ссылки.
 * Использование приватных архивов и публикация требует цифрового подтверждения Уполномочителя.

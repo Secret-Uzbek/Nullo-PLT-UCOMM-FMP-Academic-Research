@@ -31,7 +31,7 @@
 This monograph formulates the theoretical, epistemological, and methodological foundations of the \textit{Fractal Metascience Paradigm (FMP)}. The FMP introduces a recursive, self-similar framework for understanding the evolution of knowledge systems, integrating principles from systems theory, cognitive science, artificial intelligence, and quantum epistemology. It forms the theoretical backbone of the \textit{AIUZ Terra Ecosystem}, a living scientific infrastructure designed to sustain collective intelligence, reproducible research, and planetary-scale cognition.
 
 \chapter{Introduction}
-The twentieth centuryвЂ™s linear models of scientific reasoning have proven insufficient for describing the reflexive and non-linear dynamics of modern knowledge systems. The \textbf{Fractal Metascience Paradigm (FMP)} redefines science as a recursive process: every act of observation transforms the observer and the observed alike. Knowledge thus becomes a living system, self-generating and self-validating.
+The twentieth century's linear models of scientific reasoning have proven insufficient for describing the reflexive and non-linear dynamics of modern knowledge systems. The \textbf{Fractal Metascience Paradigm (FMP)} redefines science as a recursive process: every act of observation transforms the observer and the observed alike. Knowledge thus becomes a living system, self-generating and self-validating.
 
 The FMP emerges at the intersection of \citet{vonBertalanffy1968}, \citet{Mandelbrot1982}, and \citet{Prigogine1984}, connecting General Systems Theory, Fractal Geometry, and the thermodynamics of open systems. It adopts recursion as a universal epistemological operator.
 

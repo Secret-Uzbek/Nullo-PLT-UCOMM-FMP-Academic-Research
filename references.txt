@@ -16,7 +16,7 @@
 
 @book{Prigogine1984,
   author    = {Ilya Prigogine and Isabelle Stengers},
-  title     = {Order Out of Chaos: ManвЂ™s New Dialogue with Nature},
+  title     = {Order Out of Chaos: Man's New Dialogue with Nature},
   publisher = {Bantam Books},
   year      = {1984},
   address   = {New York}
