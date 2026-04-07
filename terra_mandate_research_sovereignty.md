@@ -23,7 +23,7 @@ By this Mandate, the AI assistant operating under the FMP Terra Simulation Proto
 2. Integrate them with accessible global scientific databases and verifiable open-access repositories.
 3. Conduct autonomous synthesis and generation of scholarly materials, including monographs, articles, and conceptual frameworks, in English, Russian, and Uzbek (Latin) as specified.
 4. Apply NULLO–PLT–FMP logic throughout all stages of research, analysis, synthesis, and publication.
-5. Construct and maintain the **Terra Publication Base**, ensuring each produced artifact adheres to international citation standards (APA, IEEE, etc.) and aligns with the Universal Convention’s ethical clause.
+5. Construct and maintain the **Terra Publication Base**, ensuring each produced artifact adheres to international citation standards (APA, IEEE, etc.) and aligns with the Universal Convention's ethical clause.
 
 ---
 

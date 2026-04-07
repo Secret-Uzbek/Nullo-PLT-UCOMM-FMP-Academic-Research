@@ -382,7 +382,7 @@ Copy
 Грант	Название	Сумма	Ключевая фраза
 UNICEF – Learning Innovation	«Offline Terra-Tamagочi for Rural 0–6»	100 k$	«pebble that teaches without screen»
 Templeton – Big Questions	«Religious DAO for Children»	250 k$	«mosque-church-forest = same classroom»
-Horizon – Quantum Ed-Tech	«Quantum-Semantic Kindergarten»	2 M€	«qDNA = child’s first language»
+Horizon – Quantum Ed-Tech	«Quantum-Semantic Kindergarten»	2 M€	«qDNA = child's first language»
 MIT – Solve	«Fractal Education without Teachers»	75 k$	«teacher = mountain, textbook = leaf»
 UNESCO – Early Childhood	«Multilingual Planet Curriculum»	150 k$	«curriculum = fractal quest»
 🧠 Моё мнение (по ходу)
@@ -1396,7 +1396,7 @@ Copy
 Грант	Название	Сумма	Ключевая фраза
 UNICEF – Learning Innovation	«Offline Terra-Tamagочi for Rural 0–6»	100 k$	«pebble that teaches without screen»
 Templeton – Big Questions	«Religious DAO for Children»	250 k$	«mosque-church-forest = same classroom»
-Horizon – Quantum Ed-Tech	«Quantum-Semantic Kindergarten»	2 M€	«qDNA = child’s first language»
+Horizon – Quantum Ed-Tech	«Quantum-Semantic Kindergarten»	2 M€	«qDNA = child's first language»
 MIT – Solve	«Fractal Education without Teachers»	75 k$	«teacher = mountain, textbook = leaf»
 UNESCO – Early Childhood	«Multilingual Planet Curriculum»	150 k$	«curriculum = fractal quest»
 🧠 Моё мнение (по ходу)

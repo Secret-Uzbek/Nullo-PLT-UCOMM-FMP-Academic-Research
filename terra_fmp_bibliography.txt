@@ -3,7 +3,7 @@
 % ============================================================
 % Compiled: 2025-10-22
 % Format: BibTeX (APA-7 compatible)
-% Sources: ≥2020, peer-reviewed, DOI-linked
+% Sources: в‰Ґ2020, peer-reviewed, DOI-linked
 % Total entries: 50+ (expandable)
 % ============================================================
 
@@ -73,7 +73,7 @@
 
 @article{bru2022fractal,
   title={Fractal geometry of tumor vascular networks predicts metastatic potential},
-  author={Bru, Antonio and Pastor, Jos{\'e} M and Fernaud, Isabel and Brú, Ignacio and Melle, Sonia and Berenguer, Carlos},
+  author={Bru, Antonio and Pastor, Jos{\'e} M and Fernaud, Isabel and BrГє, Ignacio and Melle, Sonia and Berenguer, Carlos},
   journal={Nature Biomedical Engineering},
   volume={6},
   number={4},
@@ -337,7 +337,7 @@
 
 @article{sandom2022quantum,
   title={Quantum trophic cascades},
-  author={Sandom, Christopher and Dalby, Lars and Fløjgaard, Camilla and Svenning, Jens-Christian},
+  author={Sandom, Christopher and Dalby, Lars and FlГёjgaard, Camilla and Svenning, Jens-Christian},
   journal={Nature Ecology \& Evolution},
   volume={6},
   number={8},

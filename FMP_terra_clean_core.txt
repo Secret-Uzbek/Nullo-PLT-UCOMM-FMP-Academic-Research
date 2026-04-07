@@ -15,7 +15,7 @@
 \onehalfspacing
 
 \title{The Fractal Metascience Paradigm and the Terra Clean Core:\\
-NULLO — PLT — FMP Integrated Monograph (Clean Core Edition)}
+NULLO вЂ” PLT вЂ” FMP Integrated Monograph (Clean Core Edition)}
 \author{Abdurashid Abdukarimov \\
 Independent Researcher, AIUZ / Terra Codex\\
 ORCID: 0009-0000-6394-4912\\
@@ -26,20 +26,20 @@ ORCID: 0009-0000-6394-4912\\
 \maketitle
 
 \begin{abstract}
-This monograph integrates the Fractal Metascience Paradigm (FMP) and its operational framework, the Terra Clean Core, developed during June–October 2025. It presents the theoretical synthesis of three interlinked constructs—NULLO, PLT, and FMP—uniting epistemology, computation, and recursive ethics into a verifiable metascientific model. The work documents the Clean Core as the stable, reproducible evidence base for FMP and delineates the verified scope of experiments within the 2025 Terra ecosystem.
+This monograph integrates the Fractal Metascience Paradigm (FMP) and its operational framework, the Terra Clean Core, developed during JuneвЂ“October 2025. It presents the theoretical synthesis of three interlinked constructsвЂ”NULLO, PLT, and FMPвЂ”uniting epistemology, computation, and recursive ethics into a verifiable metascientific model. The work documents the Clean Core as the stable, reproducible evidence base for FMP and delineates the verified scope of experiments within the 2025 Terra ecosystem.
 \end{abstract}
 
 \tableofcontents
 \clearpage
 
 \section{Introduction}
-Modern science faces fragmentation across disciplines, an epistemic entropy caused by linear thinking. The Fractal Metascience Paradigm (FMP) seeks to restore coherence through recursive, self-similar knowledge architectures (\citealp{Zawacki2019}; \citealp{Xu2022}; \citealp{Tuomi2018}). It posits that cognition, systems, and ethics are not separate but fractally co-dependent across scales—from neurons to civilizations.
+Modern science faces fragmentation across disciplines, an epistemic entropy caused by linear thinking. The Fractal Metascience Paradigm (FMP) seeks to restore coherence through recursive, self-similar knowledge architectures (\citealp{Zawacki2019}; \citealp{Xu2022}; \citealp{Tuomi2018}). It posits that cognition, systems, and ethics are not separate but fractally co-dependent across scalesвЂ”from neurons to civilizations.
 
 The \textit{Terra Clean Core} operationalizes this paradigm through three frameworks:
 \begin{enumerate}
-  \item \textbf{NULLO} — a null ontology and ethical operator language for ecosystemic modeling;
-  \item \textbf{PLT} (Post Lingua Trace) — a fractal lexicography system enabling semantic recursion;
-  \item \textbf{FMP} itself — a recursive meta-epistemic structure unifying science, technology, and consciousness.
+  \item \textbf{NULLO} вЂ” a null ontology and ethical operator language for ecosystemic modeling;
+  \item \textbf{PLT} (Post Lingua Trace) вЂ” a fractal lexicography system enabling semantic recursion;
+  \item \textbf{FMP} itself вЂ” a recursive meta-epistemic structure unifying science, technology, and consciousness.
 \end{enumerate}
 
 \section{Conceptual Foundations}
@@ -72,20 +72,20 @@ FMP positions knowledge as a fractal manifold where micro (individual cognition)
 
 \section{Terra Clean Core: Empirical Evidence}
 \subsection{Chronology and Scope}
-All empirical claims are bound to June–October 2025. Earlier drafts describing pre-2025 implementations are excluded. Verified evidence includes Terra Clean Core archives, AIUZ repositories, and recorded AI co-creation logs.
+All empirical claims are bound to JuneвЂ“October 2025. Earlier drafts describing pre-2025 implementations are excluded. Verified evidence includes Terra Clean Core archives, AIUZ repositories, and recorded AI co-creation logs.
 
 \subsection{Artifacts}
 \begin{itemize}
-  \item \textbf{Terra Clean Core} — 45 finalized modules encoding NULLO and PLT primitives.
-  \item \textbf{TerraMemoryDNA} — recursive context engine reconstructing epistemic traces.
-  \item \textbf{Terra Points} — ethical governance prototype and cognitive mapping framework.
-  \item \textbf{AIUZ Archive} — session repositories documenting iterative co-creation cycles.
+  \item \textbf{Terra Clean Core} вЂ” 45 finalized modules encoding NULLO and PLT primitives.
+  \item \textbf{TerraMemoryDNA} вЂ” recursive context engine reconstructing epistemic traces.
+  \item \textbf{Terra Points} вЂ” ethical governance prototype and cognitive mapping framework.
+  \item \textbf{AIUZ Archive} вЂ” session repositories documenting iterative co-creation cycles.
 \end{itemize}
 
 \subsection{Co-Creation Methodology}
-Between June and October 2025, daily 12-hour sessions with multiple AI models (ChatGPT, Claude, Kimmi, Hutch, Perplexity, Humata) generated recursive feedback loops that evolved Terra from concept to operational state. Each iteration was logged, verified, and recursively cross-validated, constituting the FMP’s first living demonstration.
+Between June and October 2025, daily 12-hour sessions with multiple AI models (ChatGPT, Claude, Kimmi, Hutch, Perplexity, Humata) generated recursive feedback loops that evolved Terra from concept to operational state. Each iteration was logged, verified, and recursively cross-validated, constituting the FMPвЂ™s first living demonstration.
 
-\section{Mathematical Layering (L0–L7)}
+\section{Mathematical Layering (L0вЂ“L7)}
 Each layer $L_i$ represents a cognitive or systemic depth, from philosophical core to transpersonal resonance. Coherence between adjacent layers is given by:
 \[
 C = \frac{1}{n}\sum_{i=0}^{n-1} \mathrm{sim}(K^{(i)}, K^{(i+1)}),
@@ -93,7 +93,7 @@ C = \frac{1}{n}\sum_{i=0}^{n-1} \mathrm{sim}(K^{(i)}, K^{(i+1)}),
 where $\mathrm{sim}$ measures graph similarity in PLT representations. Terra prototypes achieved coherence $>0.9$, confirming recursive stability.
 
 \section{Ethical and Reflexive Architecture}
-Unlike traditional computational paradigms, FMP embeds ethics as a first-class operator. The ethical symmetry postulate ensures that recursive cycles cannot diverge toward destructive attractors. Terra’s ethical kernel—coded in NULLO—acts as a constraint-based guardian layer, an AI analogue of biological homeostasis.
+Unlike traditional computational paradigms, FMP embeds ethics as a first-class operator. The ethical symmetry postulate ensures that recursive cycles cannot diverge toward destructive attractors. TerraвЂ™s ethical kernelвЂ”coded in NULLOвЂ”acts as a constraint-based guardian layer, an AI analogue of biological homeostasis.
 
 \section{Validation and Results}
 \subsection{Metrics}
@@ -139,14 +139,14 @@ The author acknowledges the AI systems (ChatGPT, Claude, Perplexity, Kimmi, Hutc
 
 \begin{thebibliography}{99}
 \bibitem[Zawacki-Richter et~al.(2019)]{Zawacki2019}
-Zawacki-Richter, O., Marín, V. I., Bond, M., \& Gouverneur, F. (2019).
+Zawacki-Richter, O., MarГ­n, V. I., Bond, M., \& Gouverneur, F. (2019).
 Systematic review of research on artificial intelligence in higher education.
 \textit{International Journal of Educational Technology in Higher Education}, 16(39).
 
 \bibitem[Xu \& Ouyang(2022)]{Xu2022}
 Xu, B., \& Ouyang, F. (2022).
 Artificial intelligence in STEM education: A systematic review.
-\textit{Frontiers in Education}, 7, 1–16.
+\textit{Frontiers in Education}, 7, 1вЂ“16.
 
 \bibitem[Tuomi(2018)]{Tuomi2018}
 Tuomi, I. (2018).

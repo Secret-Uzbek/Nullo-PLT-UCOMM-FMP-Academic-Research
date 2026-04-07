@@ -26,9 +26,9 @@ if __name__ == "__main__":
 }
 
 ========== pqck_grant_horizon.md ==========
-# Horizon Europe – Cluster 6
-# «Planetary Quantum-Cybernetic OS for Raw Materials»
-# Budget: 2 M€
+# Horizon Europe вЂ“ Cluster 6
+# В«Planetary Quantum-Cybernetic OS for Raw MaterialsВ»
+# Budget: 2 Mв‚¬
 # PI: Abdurashid A. Abdukarimov (ORCID: 0009-0000-6394-4912)
 
 ========== SHA256SUMS.txt ==========

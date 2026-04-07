@@ -1,4 +1,4 @@
-# Zenodo ↔ GitHub Synchronization Package
+# Zenodo в†” GitHub Synchronization Package
 
 **Purpose:** Establish bidirectional synchronization between Zenodo DOI archives and GitHub repositories for AIUZ Terra Ecosystem and FMP Theory layers, according to Nullo / PLT / FMP principles.
 
@@ -13,7 +13,7 @@ This synchronization package ensures that each DOI release deposited in **Zenodo
 - `Secret-Uzbek/Theory-of-Fractal-Metascience-Paradigm`
 
 ### DOI Example:
-`10.5281/zenodo.17425678` → TCPP v1.0 release.
+`10.5281/zenodo.17425678` в†’ TCPP v1.0 release.
 
 ### GitHub Tag:
 `v1.0-tcpp`
@@ -24,7 +24,7 @@ This synchronization package ensures that each DOI release deposited in **Zenodo
 
 ### `.env.sync`
 ```
-# Zenodo ↔ GitHub Synchronization Environment
+# Zenodo в†” GitHub Synchronization Environment
 SYNC_MODE=bi-directional
 ZENODO_DOI=10.5281/zenodo.17425678
 ZENODO_API=https://zenodo.org/api/deposit/depositions
@@ -39,7 +39,7 @@ GITHUB_TAG=v1.0-tcpp
 ```json
 {
   "sync_id": "SYNC-2025-001",
-  "description": "Zenodo ↔ GitHub synchronization manifest for AIUZ Terra Ecosystem and FMP Theory repositories.",
+  "description": "Zenodo в†” GitHub synchronization manifest for AIUZ Terra Ecosystem and FMP Theory repositories.",
   "version": "v1.0-tcpp",
   "doi": "10.5281/zenodo.17425678",
   "repositories": [
@@ -54,13 +54,13 @@ GITHUB_TAG=v1.0-tcpp
 
 ### `sync_instructions.md`
 ```
-# Zenodo ↔ GitHub Synchronization Steps
+# Zenodo в†” GitHub Synchronization Steps
 
 1. Zenodo records DOI metadata (from `zenodo_upload.json`).
 2. GitHub release with tag `v1.0-tcpp` references the same DOI in its release body.
 3. Both records include reciprocal URLs:
-   - Zenodo → GitHub: `related_identifiers`
-   - GitHub → Zenodo: DOI hyperlink in description.
+   - Zenodo в†’ GitHub: `related_identifiers`
+   - GitHub в†’ Zenodo: DOI hyperlink in description.
 4. Terra Proof Ledger validates checksum equivalence.
 5. Update `sync_manifest.json` with timestamp and set `status` to `verified`.
 
@@ -85,7 +85,7 @@ jobs:
           echo "Syncing Zenodo DOI 10.5281/zenodo.17425678 with GitHub tag v1.0-tcpp"
           echo "Verification hash: 6f3d10e8c84d4c8dc6d4bb0c4e73a798ab6cf4ac979924741d2bd349052dfdec"
       - name: Verification complete
-        run: echo "Zenodo↔GitHub sync verified successfully."
+        run: echo "Zenodoв†”GitHub sync verified successfully."
 ```
 
 ---
@@ -105,11 +105,11 @@ Each synchronization event writes a record to the **Terra Proof Ledger**, refere
 This synchronization follows **Fractal Metascience Principles (FMP)**:
 - **Nullo Principle:** each system self-verifies its own metadata integrity.
 - **Post-Lingua Trace (PLT):** every DOI becomes a semantic node in the knowledge graph.
-- **Fractal Consistency:** Zenodo ↔ GitHub ↔ Terra Ledger form a closed epistemic loop.
+- **Fractal Consistency:** Zenodo в†” GitHub в†” Terra Ledger form a closed epistemic loop.
 
 ---
 
-**End of Zenodo ↔ GitHub Sync Package**
+**End of Zenodo в†” GitHub Sync Package**
 
 
 
