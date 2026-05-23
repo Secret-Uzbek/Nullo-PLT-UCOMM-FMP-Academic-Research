@@ -1,8 +1,25 @@
 name: Terra Audit
-on: [push]
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
 jobs:
-  check:
+  audit:
     runs-on: ubuntu-latest
     steps:
-      - name: Status
-        run: echo 'NULLO-POINT REACHED'
+      - uses: actions/checkout@v4
+      - name: Check governance surface
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "## Terra Audit" >> "$GITHUB_STEP_SUMMARY"
+          for file in README.md CITATION.cff SECURITY.md CONTRIBUTING.md; do
+            if [ -f "$file" ]; then
+              echo "- $file: YES" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "- $file: NO" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
