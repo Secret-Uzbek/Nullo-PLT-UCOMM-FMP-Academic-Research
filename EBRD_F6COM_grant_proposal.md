@@ -3225,8 +3225,8 @@ Share
 ├── svg-oOk_CD.svg
 ├── system-recovery-guide.html
 ├── system-recovery-guide.md
-├── terabox.com-Terabox«í½áτ¡«Ñ σαá¡¿½¿ΘÑ (2).pdf
-├── terabox.com-Terabox«í½áτ¡«Ñ σαá¡¿½¿ΘÑ.pdf
+├── Recovered malformed TeraBox PDF (2)
+├── Recovered malformed TeraBox PDF
 ├── terra fmp llm chronicle.md
 ├── terra fmp llm.md
 ├── terra fmp llm2.md
@@ -3422,12 +3422,12 @@ Share
 ├── validation_protocol_final.yaml
 ├── validation_protocol_updated.yaml
 ├── winmail.dat
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (1).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (2).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (3).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (4).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (5).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (6).pdf
+├── Recovered malformed archived PDF (1)
+├── Recovered malformed archived PDF (2)
+├── Recovered malformed archived PDF (3)
+├── Recovered malformed archived PDF (4)
+├── Recovered malformed archived PDF (5)
+├── Recovered malformed archived PDF (6)
 ├── АРХИВНАЯ ЗАПИСЬ GREEN UZ + CODEX TERRA 05.07.2025 22-54 (UZT).txt
 ├── Автономные зарядные станции дляэлектромобилей Beam, на солнечных батареях,установят по всему миру.pdf
 ├── Анализ базового элемента Terra Ecosystem - Child Safety Validator.md
