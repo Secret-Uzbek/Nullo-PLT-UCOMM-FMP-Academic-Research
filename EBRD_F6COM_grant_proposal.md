@@ -3450,7 +3450,7 @@ Share
 ├── Резюме на русском АИУЗ.txt
 ├── Реквизиты TrackIT.docx
 ├── Рекомендации по улучшению структуры.docx
-├── Стратегия публикации и распространения ПараDIгмы Фрактальной Метанауки (FMP).txt
+├── Стратегия публикации и распространения Парадигмы Фрактальной Метанауки (FMP).txt
 ├── Структура диссертации.docx
 ├── Структура_диссертации_и_БД.docx
 ├── Утверждён перечень проектов по внедрению ИИ в Узбекистане на 2025−2026 годы.txt
@@ -3665,8 +3665,8 @@ Share
 ├── 🗺️-aiuz-terra-os-v3.0-стратегическая-дорожная-карта-(ru).md
 ├── 🗺️-живая-дорожная-карта-terra-archive-manager-2.0.html
 ├── 🗺️-живая-дорожная-карта-terra-archive-manager-2.0.md
-├── 🚀-aiuz-finальный-мета-анализ-революционная-экосистема-этического-будущего.html
-├── 🚀-aiuz-finальный-мета-анализ-революционная-экосистема-этического-будущего.md
+├── 🚀-aiuz-finalnyy-meta-analiz-revolyutsionnaya-ekosistema-eticheskogo-budushchego.html
+├── 🚀-aiuz-finalnyy-meta-analiz-revolyutsionnaya-ekosistema-eticheskogo-budushchego.md
 ├── 🚀-aiuz-terra-os-v3.0-investor-presentation-(en).html
 ├── 🚀-aiuz-terra-os-v3.0-investor-presentation-(en).md
 ├── 🚀-aiuz-terra-os-v3.0-investorlar-prezentatsiyasi-(uz).html
@@ -4064,3 +4064,4 @@ EBRD_F6COM_grant_proposal_chat_log_GPT.md
 574.7 KB
 
 просто чтобы ты знал
+
