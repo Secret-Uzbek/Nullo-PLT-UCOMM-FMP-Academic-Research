@@ -3327,8 +3327,8 @@ Share
 ├── svg-oOk_CD.svg
 ├── system-recovery-guide.html
 ├── system-recovery-guide.md
-├── terabox.com-Terabox«í½áτ¡«Ñ σαá¡¿½¿ΘÑ (2).pdf
-├── terabox.com-Terabox«í½áτ¡«Ñ σαá¡¿½¿ΘÑ.pdf
+├── Recovered TeraBox import PDF — 2.pdf
+├── Recovered TeraBox import PDF — 1.pdf
 ├── terra fmp llm chronicle.md
 ├── terra fmp llm.md
 ├── terra fmp llm2.md
@@ -3524,12 +3524,12 @@ Share
 ├── validation_protocol_final.yaml
 ├── validation_protocol_updated.yaml
 ├── winmail.dat
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (1).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (2).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (3).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (4).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (5).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (6).pdf
+├── Финансовая модель хаба электрозаправок — recovered-1.pdf
+├── Recovered archived PDF — missing-source-2.pdf
+├── Recovered archived PDF — missing-source-3.pdf
+├── Финансовая модель хаба электрозаправок — recovered-2.pdf
+├── Финансовая модель хаба электрозаправок — corrupt-recovered.pdf
+├── Recovered archived PDF — missing-source-6.pdf
 ├── АРХИВНАЯ ЗАПИСЬ GREEN UZ + CODEX TERRA 05.07.2025 22-54 (UZT).txt
 ├── Автономные зарядные станции дляэлектромобилей Beam, на солнечных батареях,установят по всему миру.pdf
 ├── Анализ базового элемента Terra Ecosystem - Child Safety Validator.md
@@ -7284,8 +7284,8 @@ Share
 ├── svg-oOk_CD.svg
 ├── system-recovery-guide.html
 ├── system-recovery-guide.md
-├── terabox.com-Terabox«í½áτ¡«Ñ σαá¡¿½¿ΘÑ (2).pdf
-├── terabox.com-Terabox«í½áτ¡«Ñ σαá¡¿½¿ΘÑ.pdf
+├── Recovered TeraBox import PDF — 2.pdf
+├── Recovered TeraBox import PDF — 1.pdf
 ├── terra fmp llm chronicle.md
 ├── terra fmp llm.md
 ├── terra fmp llm2.md
@@ -7481,12 +7481,12 @@ Share
 ├── validation_protocol_final.yaml
 ├── validation_protocol_updated.yaml
 ├── winmail.dat
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (1).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (2).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (3).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (4).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (5).pdf
-├── ö¿¡á¡ß«óá∩ ¼«ñѽ∞ σáíá φ½Ñ¬Γ஧á»αáó«¬ (6).pdf
+├── Финансовая модель хаба электрозаправок — recovered-1.pdf
+├── Recovered archived PDF — missing-source-2.pdf
+├── Recovered archived PDF — missing-source-3.pdf
+├── Финансовая модель хаба электрозаправок — recovered-2.pdf
+├── Финансовая модель хаба электрозаправок — corrupt-recovered.pdf
+├── Recovered archived PDF — missing-source-6.pdf
 ├── АРХИВНАЯ ЗАПИСЬ GREEN UZ + CODEX TERRA 05.07.2025 22-54 (UZT).txt
 ├── Автономные зарядные станции дляэлектромобилей Beam, на солнечных батареях,установят по всему миру.pdf
 ├── Анализ базового элемента Terra Ecosystem - Child Safety Validator.md
