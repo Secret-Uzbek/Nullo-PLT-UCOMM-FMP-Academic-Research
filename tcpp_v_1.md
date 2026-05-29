@@ -1,4 +1,4 @@
-# Terra Challenge Proof Protocol (TCPP) v1.0 вЂ” Publish Ready Full Package
+# Terra Challenge Proof Protocol (TCPP) v1.0 — Publish Ready Full Package
 
 **DOI:** 10.5281/zenodo.17425678  
 **Author:** Abdurashid Abdukarimov (ORCID: 0009-0000-6394-4912)  
@@ -16,13 +16,13 @@ This package formalizes the reproducible research protocol for the **Fractal Met
 ## 2. Package Contents
 
 **Included files:**
-- `README.md` вЂ” release overview and license information.
-- `terra_proof_ledger_TERRA-PROOF-2025-001.json` вЂ” official verification entry.
-- `zenodo_upload.json` вЂ” Zenodo metadata manifest.
-- `github_release_manifest.json` вЂ” GitHub release API body.
-- `DOI_metadata.txt` вЂ” printable DOI record.
-- `index.html` вЂ” static HTML representation of the release.
-- `checksums.sha256` вЂ” integrity verification list.
+- `README.md` — release overview and license information.
+- `terra_proof_ledger_TERRA-PROOF-2025-001.json` — official verification entry.
+- `zenodo_upload.json` — Zenodo metadata manifest.
+- `github_release_manifest.json` — GitHub release API body.
+- `DOI_metadata.txt` — printable DOI record.
+- `index.html` — static HTML representation of the release.
+- `checksums.sha256` — integrity verification list.
 
 ---
 
@@ -32,7 +32,7 @@ This package formalizes the reproducible research protocol for the **Fractal Met
 ```json
 {
   "metadata": {
-    "title": "Terra Challenge Proof Protocol (TCPP) v1.0 вЂ” Fractal Metascience Paradigm Infrastructure Package",
+    "title": "Terra Challenge Proof Protocol (TCPP) v1.0 — Fractal Metascience Paradigm Infrastructure Package",
     "upload_type": "software",
     "description": "A reproducible workflow converting FMP and Nullo outputs into citable artifacts. Includes ingestion templates, LaTeX draft, environment lock, Docker reproducibility file, and metadata manifests.",
     "creators": [
@@ -65,7 +65,7 @@ This package formalizes the reproducible research protocol for the **Fractal Met
   "tag_name": "v1.0-tcpp",
   "target_commitish": "main",
   "name": "Terra Challenge Proof Protocol v1.0",
-  "body": "Formal release of the Terra Challenge Proof Protocol (TCPP) v1.0 вЂ” bridging FMP theory and AIUZ Terra Ecosystem practice. DOI: 10.5281/zenodo.17425678",
+  "body": "Formal release of the Terra Challenge Proof Protocol (TCPP) v1.0 — bridging FMP theory and AIUZ Terra Ecosystem practice. DOI: 10.5281/zenodo.17425678",
   "draft": false,
   "prerelease": false
 }
@@ -108,7 +108,7 @@ The Terra Challenge Proof Protocol (TCPP) v1.0 defines a reproducible workflow t
 ```html
 <!doctype html>
 <html lang="en">
-<head><meta charset="utf-8"><title>TCPP v1.0 вЂ” Release</title></head>
+<head><meta charset="utf-8"><title>TCPP v1.0 — Release</title></head>
 <body>
 <h1>Terra Challenge Proof Protocol (TCPP) v1.0</h1>
 <p>DOI: <a href="https://doi.org/10.5281/zenodo.17425678">10.5281/zenodo.17425678</a></p>
