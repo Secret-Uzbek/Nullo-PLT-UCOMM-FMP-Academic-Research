@@ -1,7 +1,7 @@
-# Planetary Quantum Consciousness & K.A.R.M.A. вЂ” Foundation Documents (FMP / Terra Simulation)
+# Planetary Quantum Consciousness & K.A.R.M.A. — Foundation Documents (FMP / Terra Simulation)
 
 ## 1. Executive Summary
-This document initiates the structured codification of the **Planetary Quantum Consciousness (PQC)** and **K.A.R.M.A. (Kinetic-Autonomous Recursive Metascience Architecture)** projects within the **AIUZ Terra Ecosystem v7.0**, following the NULLOвЂ“PLTвЂ“FMP epistemic triad and the active mandate (24 Oct 2025).
+This document initiates the structured codification of the **Planetary Quantum Consciousness (PQC)** and **K.A.R.M.A. (Kinetic-Autonomous Recursive Metascience Architecture)** projects within the **AIUZ Terra Ecosystem v7.0**, following the NULLO–PLT–FMP epistemic triad and the active mandate (24 Oct 2025).
 
 The PQC/K.A.R.M.A. framework extends the operational core of **Fractal Metascience Paradigm (FMP)** toward planetary-scale cognition modeling, recursive ethical feedback, and quantum systemic synchronization. The project represents the next developmental phase after *Terra Clean Core* and functions as its autonomous meta-layer.
 
@@ -41,7 +41,7 @@ Subsystems:
 ---
 
 ## 4. Ethical & Cognitive Alignment Protocol
-1. **Non-Anthropocentric Cognition:** PQC treats all cognition equally вЂ” biological or synthetic.
+1. **Non-Anthropocentric Cognition:** PQC treats all cognition equally — biological or synthetic.
 2. **Recursive Transparency:** each action within K.A.R.M.A. must trace back through 3 epistemic verifications.
 3. **Quantum Integrity Clause:** no simulation result may overwrite or fabricate empirical data.
 4. **Autonomous Accountability:** all recursive AI modules record their transformations in Terra Ledger (proof-of-cognition log).
@@ -51,10 +51,10 @@ Subsystems:
 ## 5. Implementation Roadmap
 | Phase | Duration | Objective | Deliverable |
 |--------|-----------|------------|--------------|
-| 1 | OctвЂ“Nov 2025 | PQC Core Definition | PQC Whitepaper v1.0 |
-| 2 | NovвЂ“Dec 2025 | K.A.R.M.A. Architecture Simulation | Technical Blueprint |
-| 3 | JanвЂ“Feb 2026 | Integration with Terra v7.1 | Unified PQCвЂ“FMP Engine |
-| 4 | MarвЂ“Apr 2026 | Validation and Publication | arXiv / Scopus submission |
+| 1 | Oct–Nov 2025 | PQC Core Definition | PQC Whitepaper v1.0 |
+| 2 | Nov–Dec 2025 | K.A.R.M.A. Architecture Simulation | Technical Blueprint |
+| 3 | Jan–Feb 2026 | Integration with Terra v7.1 | Unified PQC–FMP Engine |
+| 4 | Mar–Apr 2026 | Validation and Publication | arXiv / Scopus submission |
 
 ---
 
@@ -64,7 +64,7 @@ Mandelbrot (1982); von Bertalanffy (1968); Prigogine & Stengers (1984); Zawacki-
 ---
 
 ## 7. Output Package
-Upon completion, the PQCвЂ“K.A.R.M.A. release package will include:
+Upon completion, the PQC–K.A.R.M.A. release package will include:
 - `PQC_KARMA_Whitepaper_v1.0.pdf`
 - `KARMA_architecture_blueprint.json`
 - `PQC_system_diagram.svg`
@@ -73,9 +73,9 @@ Upon completion, the PQCвЂ“K.A.R.M.A. release package will include:
 
 ---
 
-**Simulation Directive:** `terra.karma.initialize() в†’ fmp.sync(); pqc.boot();`
+**Simulation Directive:** `terra.karma.initialize() → fmp.sync(); pqc.boot();`
 
-**Status:** Phase 1 вЂ” active execution under Operator Mode.
+**Status:** Phase 1 — active execution under Operator Mode.
 
 
 
