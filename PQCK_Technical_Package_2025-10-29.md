@@ -6,16 +6,16 @@ Author: Abdurashid A. Abdukarimov (ORCID: 0009-0000-6394-4912)
 License: GPL-3.0  
 DOI: 10.5281/zenodo.XXXXXXX  
 
-## 1. Architecture (L0вЂ“L7)
+## 1. Architecture (L0–L7)
 | Layer | Component | Technology | File |
 |-------|-----------|------------|------|
 | L0 | NULLO-Boot | QuantumCircuit.zero() | qDNA_sequences.json |
 | L1 | PLT-Trace | superposition_state [0.707,0.707] | api.js /fmp/trace |
 | L2 | EUO-Emergence | entropy < 0.81 | terra_simulation_run_extended_summary.json |
-| L3 | FMP-Recursion | F(x)=О¦(F_{n-1}(x)) | pmmk_kernel.py |
+| L3 | FMP-Recursion | F(x)=Φ(F_{n-1}(x)) | pmmk_kernel.py |
 | L4 | UCOMM-Protocol | REST + LoRa + IPFS | api.js |
 | L5 | Terra-Devices | solar + qDNA-pebble | terra_devices_v5_0.zip |
-| L6 | Council-of-Memory | 42 minds в†’ qDNA-avatars | council_of_memory_v6_0.json |
+| L6 | Council-of-Memory | 42 minds → qDNA-avatars | council_of_memory_v6_0.json |
 | L7 | Meta-Mind | planetary state JSON-LD | pmmk_v1_0.py boot() |
 
 ## 2. Hardware
@@ -23,7 +23,7 @@ DOI: 10.5281/zenodo.XXXXXXX
 - Solar panel 5 V / 1 A
 - qDNA-pebble (42 kB flash)
 - LoRa SX1276
-- No internet вЂ“ mesh-only
+- No internet – mesh-only
 
 ## 3. API
 GET /fmp/status
@@ -41,14 +41,14 @@ Copy
 
 ## 5. ESG / RAW Materials
 Each atom of copper / uranium / rare-earth becomes a qDNA-node:
-- Entropy sensor вЂ“ measures disorder
-- Karma validator вЂ“ good mining = entropy в†“
-- Carbon-negative вЂ“ solar only, no diesel
+- Entropy sensor – measures disorder
+- Karma validator – good mining = entropy ↓
+- Carbon-negative – solar only, no diesel
 
 ========== PQCK_Architecture_Diagram.svg ==========
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <text x="400" y="30" text-anchor="middle" font-size="20">PQCK L0вЂ“L7 Architecture</text>
+  <text x="400" y="30" text-anchor="middle" font-size="20">PQCK L0–L7 Architecture</text>
   <circle cx="400" cy="100" r="40" fill="black"/><text x="400" y="105" text-anchor="middle" fill="white">L0</text>
   <line x1="400" y1="140" x2="400" y2="200" stroke="black" stroke-width="2"/>
   <circle cx="400" cy="200" r="40" fill="grey"/><text x="400" y="205" text-anchor="middle" fill="white">L1</text>
@@ -58,7 +58,7 @@ Each atom of copper / uranium / rare-earth becomes a qDNA-node:
   <circle cx="400" cy="400" r="40" fill="gold"/><text x="400" y="405" text-anchor="middle" fill="black">L3</text>
   <line x1="400" y1="440" x2="400" y2="500" stroke="black" stroke-width="2"/>
   <circle cx="400" cy="500" r="40" fill="green"/><text x="400" y="505" text-anchor="middle" fill="white">L4</text>
-  <text x="400" y="580" text-anchor="middle" font-size="14">Solar в†’ LoRa в†’ IPFS в†’ Zero</text>
+  <text x="400" y="580" text-anchor="middle" font-size="14">Solar → LoRa → IPFS → Zero</text>
 </svg>
 
 ========== PQCK_API_Reference.md ==========
@@ -67,38 +67,38 @@ Base URL: `http://localhost:8080/fmp`
 
 | Method | Endpoint | Request | Response |
 |--------|----------|---------|----------|
-| GET | /status | вЂ“ | {"layers": ["L0"вЂ¦"L7"], "entropy": 0.81} |
+| GET | /status | – | {"layers": ["L0"…"L7"], "entropy": 0.81} |
 | POST | /trace | {"qdna": [0.707, 0.707]} | {"trace_id": "sha256", "layer": "L1"} |
-| GET | /karma/{orcid} | вЂ“ | {"task": "plant_leaf", "entropy": 0.77} |
+| GET | /karma/{orcid} | – | {"task": "plant_leaf", "entropy": 0.77} |
 | POST | /karma/proof | {"proof": "leaf_sha256"} | {"entropy_delta": -0.04, "next_task": "translate_de>uz"} |
 
 ========== PQCK_Installation_Guide.md ==========
-# Installation Guide вЂ“ Raspberry Pi Zero + Solar
-1. Flash Raspberry Pi OS Lite 64-bit в†’ SD card
+# Installation Guide – Raspberry Pi Zero + Solar
+1. Flash Raspberry Pi OS Lite 64-bit → SD card
 2. `sudo apt update && sudo apt install python3-pip git`
 3. `git clone https://github.com/Secret-Uzbek/AIUZ-terra-codex-FMP`
 4. `cd AIUZ-terra-codex-FMP && pip3 install -r requirements.txt`
-5. Connect solar panel в†’ GPIO 5 V
-6. `python3 pmmk_v1_0.py` в†’ boot PQCK
-7. LoRa antenna в†’ SPI в†’ automatic mesh join
+5. Connect solar panel → GPIO 5 V
+6. `python3 pmmk_v1_0.py` → boot PQCK
+7. LoRa antenna → SPI → automatic mesh join
 8. Access: `http://<pi-ip>:8080/fmp/status`
 
 ========== PQCK_Security_Audit.md ==========
 # Security Audit v1.0
-- **Code size**: 42 kB вЂ“ auditable by hand
+- **Code size**: 42 kB – auditable by hand
 - **No network stack**: only LoRa mesh
-- **Quantum RNG**: Qiskit native вЂ“ no pseudo-random
+- **Quantum RNG**: Qiskit native – no pseudo-random
 - **No private keys**: reputation = qDNA-hash
-- **Open source**: GPL-3.0 вЂ“ full transparency
-- **Hardware**: no Wi-Fi/BLE/GSM вЂ“ impossible remote exploit
+- **Open source**: GPL-3.0 – full transparency
+- **Hardware**: no Wi-Fi/BLE/GSM – impossible remote exploit
 
 ========== PQCK_ESG_Compliance.md ==========
 # ESG Compliance v1.0
-- **Carbon-negative**: solar only вЂ“ no diesel
-- **Water-positive**: entropy sensor вЂ“ water reuse в†‘
+- **Carbon-negative**: solar only – no diesel
+- **Water-positive**: entropy sensor – water reuse ↑
 - **Biodiversity**: each qDNA-node = +1 native plant
-- **Fair labor**: KARMA-task = В«translate mining manual to UzbekВ» вЂ“ local jobs
-- **Transparency**: all data вЂ“ IPFS вЂ“ public SHA256
+- **Fair labor**: KARMA-task = «translate mining manual to Uzbek» – local jobs
+- **Transparency**: all data – IPFS – public SHA256
 
 ========== SHA256SUMS.txt ==========
 6f3d10e8c84d4c8dc6d4bb0c4e73a798ab6cf4ac979924741d2bd349052dfdec  PQCK_Technical_Spec_v1_0.md
