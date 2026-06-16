@@ -37,7 +37,7 @@ The FMP emerges at the intersection of \citet{vonBertalanffy1968}, \citet{Mandel
 
 \chapter{Theoretical Framework}
 \section{The Nullo Principle}
-The \textbf{Nullo Principle} posits that each complete system contains its own zero-reference pointвЂ”an origin of self-similarity. In epistemic terms, this implies that knowledge evolves through recursive nullification: every new layer of meaning emerges from the void left by its predecessor.
+The \textbf{Nullo Principle} posits that each complete system contains its own zero-reference point—an origin of self-similarity. In epistemic terms, this implies that knowledge evolves through recursive nullification: every new layer of meaning emerges from the void left by its predecessor.
 
 \section{Post-Lingua Trace (PLT)}
 The \textbf{Post-Lingua Trace} (PLT) is a methodological lens describing how cognition continues beyond linguistic structures. It captures the transformation of meaning as it propagates through abstraction layers, forming a semantic fractal. Together, Nullo and PLT define the cognitive mechanics of FMP.
@@ -56,7 +56,7 @@ L0: Ontological Null; L1: Perceptual Input; L2: Symbolic Abstraction; L3: Cognit
 Each layer is both autonomous and dependent, mirroring the structure of nested feedback loops.
 
 \section{Terra Codex and Proof Ledger}
-The \textbf{Terra Codex} functions as a living archive of cognitive systems, while the \textbf{Terra Proof Ledger} ensures verifiable epistemic transparency. This dual architecture implements reproducible metascienceвЂ”turning theory into a measurable, auditable process.
+The \textbf{Terra Codex} functions as a living archive of cognitive systems, while the \textbf{Terra Proof Ledger} ensures verifiable epistemic transparency. This dual architecture implements reproducible metascience—turning theory into a measurable, auditable process.
 
 \chapter{Epistemological Implications}
 \section{Fractal Verification}
@@ -69,7 +69,7 @@ The observer in FMP is a node in the knowledge fractal. Observation is participa
 The FMP transforms scientific methodology into a meta-systemic ecology. Its recursive logic aligns with the principles of complex adaptive systems, cognitive neuroscience, and quantum feedback networks. Within the AIUZ Terra Ecosystem, it enables a distributed intelligence model: one that evolves as a fractal network of insight rather than a hierarchy of control.
 
 \chapter{Conclusion}
-The Fractal Metascience Paradigm thus stands as both a philosophy and a technology of cognition. It provides the structural grammar for a planetary science capable of reflexive awareness. In doing so, it lays the foundation for the transition from linear rationality to recursive intelligenceвЂ”the hallmark of post-linguistic civilization.
+The Fractal Metascience Paradigm thus stands as both a philosophy and a technology of cognition. It provides the structural grammar for a planetary science capable of reflexive awareness. In doing so, it lays the foundation for the transition from linear rationality to recursive intelligence—the hallmark of post-linguistic civilization.
 
 \bibliographystyle{apalike}
 \bibliography{references}

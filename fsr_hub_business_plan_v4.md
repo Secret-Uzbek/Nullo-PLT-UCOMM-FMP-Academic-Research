@@ -1,4 +1,4 @@
-# рџЊЌ Fractal Silk Route Hub
+﻿# 🌍 Fractal Silk Route Hub
 ## Comprehensive Business Plan & Investment Memorandum
 
 **Prepared for:** Lion Projects GmbH  
@@ -44,7 +44,7 @@ The USA-Germany-Central Asia trade corridor represents a **$180-195B market oppo
 
 ### 1.2 Our Solution
 
-**Fractal Silk Route Hub (FSR Hub)** is a digital marketplace connecting shippers, carriers, and customs authorities across the USA в†” Germany в†” Central Asia corridor through:
+**Fractal Silk Route Hub (FSR Hub)** is a digital marketplace connecting shippers, carriers, and customs authorities across the USA ↔ Germany ↔ Central Asia corridor through:
 
 вњ… Multi-modal route optimization (AI-powered)  
 вњ… Real-time tracking and transparency  
@@ -85,7 +85,7 @@ The USA-Germany-Central Asia trade corridor represents a **$180-195B market oppo
 | Exit Path | Timeline | Valuation | Lion ROI (в‚¬1M @ 20%) |
 |-----------|----------|-----------|---------------------|
 | Strategic Acquisition | 2028-2030 | в‚¬50-100M | 10-20x (в‚¬10-20M) |
-| Series B в†’ IPO | 2030-2032 | в‚¬200M+ | 40x+ (в‚¬40M+) |
+| Series B → IPO | 2030-2032 | в‚¬200M+ | 40x+ (в‚¬40M+) |
 | Dividend Flow | 2027+ | Ongoing | 15-25% annual yield |
 
 ---
@@ -165,19 +165,19 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 в”‚                      User Interface Layer                    в”‚
 в”‚   Web App (React) | Mobile (React Native) | API (REST)     в”‚
 в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
-                              в†“
+                              ↓
 в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
 в”‚                    Business Logic Layer                      в”‚
 в”‚  Route Optimizer | Booking Engine | Payment Processor      в”‚
 в”‚  Tracking System | Customs Auto | Analytics Engine         в”‚
 в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
-                              в†“
+                              ↓
 в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
 в”‚                    Integration Layer                         в”‚
 в”‚  Carrier APIs | Customs APIs | Payment Gateways            в”‚
 в”‚  GPS Tracking | Blockchain | Currency Exchange             в”‚
 в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
-                              в†“
+                              ↓
 в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
 в”‚                      Data Layer                              в”‚
 в”‚  PostgreSQL (Transactional) | MongoDB (Documents)          в”‚
@@ -405,7 +405,7 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 - Year 3: 35% subscribe (standard practice)
 
 **Average subscription revenue:**
-- 30% Г— в‚¬499 (weighted average) = в‚¬150/customer/year
+- 30% × в‚¬499 (weighted average) = в‚¬150/customer/year
 - On top of transaction fees
 
 ### 5.4 Premium Services (15% of revenue)
@@ -506,24 +506,24 @@ Average shipper profile:
 ### 5.8 Revenue Projections
 
 **Year 1 (2026):**
-- 850 shipments Г— в‚¬100K avg Г— 4% = в‚¬3.4M transaction fees
-- 170 subscribers Г— в‚¬499 Г— 12 = в‚¬1.0M subscriptions (annual)
-- 850 shipments Г— 30% Г— в‚¬800 = в‚¬204K premium services
+- 850 shipments × в‚¬100K avg × 4% = в‚¬3.4M transaction fees
+- 170 subscribers × в‚¬499 × 12 = в‚¬1.0M subscriptions (annual)
+- 850 shipments × 30% × в‚¬800 = в‚¬204K premium services
 - Data/API: в‚¬50K
 - **Total: в‚¬3.8M**
 
 **Year 2 (2027):**
-- 3,200 Г— в‚¬100K Г— 4% = в‚¬12.8M transaction fees
-- 960 Г— в‚¬499 Г— 12 = в‚¬5.7M subscriptions
-- 3,200 Г— 35% Г— в‚¬900 = в‚¬1.0M premium services
+- 3,200 × в‚¬100K × 4% = в‚¬12.8M transaction fees
+- 960 × в‚¬499 × 12 = в‚¬5.7M subscriptions
+- 3,200 × 35% × в‚¬900 = в‚¬1.0M premium services
 - Data/API: в‚¬300K
 - **Total: в‚¬14.1M**
 
 **Year 3 (2028):**
-- 8,500 Г— в‚¬100K Г— 4% = в‚¬34.0M transaction fees
-- 2,975 Г— в‚¬499 Г— 12 = в‚¬17.8M subscriptions (overlap - net adds)
-- Actually subscription: в‚¬1.5M (30% of shippers Г— avg sub)
-- 8,500 Г— 40% Г— в‚¬1,000 = в‚¬3.4M premium services
+- 8,500 × в‚¬100K × 4% = в‚¬34.0M transaction fees
+- 2,975 × в‚¬499 × 12 = в‚¬17.8M subscriptions (overlap - net adds)
+- Actually subscription: в‚¬1.5M (30% of shippers × avg sub)
+- 8,500 × 40% × в‚¬1,000 = в‚¬3.4M premium services
 - Data/API: в‚¬1.2M
 - **Total: в‚¬36.6M**
 
@@ -881,17 +881,17 @@ Average shipment: в‚¬100,000
 - Air freight premium: $200K+
 
 Target shipments Year 1: 850
-- 15 carriers Г— 5-7 shipments/month each
-- 200 shippers Г— 3-5 shipments/year average
+- 15 carriers × 5-7 shipments/month each
+- 200 shippers × 3-5 shipments/year average
 - Pilot converts at 60% rate
 
 GMV Year 1: в‚¬85M
-- 850 shipments Г— в‚¬100K average
+- 850 shipments × в‚¬100K average
 - Conservative vs industry (most do в‚¬150K+ average)
 
 **Top-Down Validation:**
 
-$45B SAM Г— 0.14% = $63M в‰€ в‚¬85M вњ“
+$45B SAM × 0.14% = $63M ≈ в‚¬85M ✓
 Checks out independently
 
 ---
@@ -980,7 +980,7 @@ One platform, entire corridor, end-to-end visibility, guaranteed outcomes
 - **Scenario modeling:** "What-if" analysis for planning
 
 #### 3.4.2 Unified Booking Platform
-- **Single quote request** в†’ multiple carrier bids
+- **Single quote request** → multiple carrier bids
 - **Instant booking** with payment hold
 - **Automated documentation** generation
 - **Digital contracts** with escrow protection

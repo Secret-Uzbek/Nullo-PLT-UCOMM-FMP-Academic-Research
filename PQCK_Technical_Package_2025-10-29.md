@@ -1,4 +1,4 @@
-Text
+﻿Text
 Copy
 ========== PQCK_Technical_Spec_v1_0.md ==========
 # PQCK Technical Specification v1.0
@@ -97,7 +97,7 @@ Base URL: `http://localhost:8080/fmp`
 - **Carbon-negative**: solar only – no diesel
 - **Water-positive**: entropy sensor – water reuse ↑
 - **Biodiversity**: each qDNA-node = +1 native plant
-- **Fair labor**: KARMA-task = «translate mining manual to Uzbek» – local jobs
+- **Fair labor**: KARMA-task = В«translate mining manual to UzbekВ» – local jobs
 - **Transparency**: all data – IPFS – public SHA256
 
 ========== SHA256SUMS.txt ==========

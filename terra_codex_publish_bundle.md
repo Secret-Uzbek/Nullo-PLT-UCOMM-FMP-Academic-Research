@@ -1,9 +1,9 @@
-=== AIUZ TerraCodex v1.0 вЂ” Publication-Ready Archive ===
+=== AIUZ TerraCodex v1.0 — Publication-Ready Archive ===
 
 This Canvas document contains the full simulated structure of three interconnected publication archives, formatted for Zenodo upload under the AIUZ Terra Ecosystem / Fractal Metascience Paradigm program.
 
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
-рџ“¦ ARCHIVE 1: FMP_Monograph_v1.0_publish
+📦 ARCHIVE 1: FMP_Monograph_v1.0_publish
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
 Structure:
   /FMP_Monograph_v1.0/
@@ -22,7 +22,7 @@ Structure:
   в”њв”Ђв”Ђ Manifest_FMP_v1.0.json
 
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
-рџ“¦ ARCHIVE 2: TCPP_v1.0_publish (Terra Codex Publication Protocol)
+📦 ARCHIVE 2: TCPP_v1.0_publish (Terra Codex Publication Protocol)
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
 Structure:
   /TCPP_v1.0/
@@ -38,7 +38,7 @@ Structure:
   в”њв”Ђв”Ђ TCPP_Signature_Block.json
 
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
-рџ“¦ ARCHIVE 3: AIUZ_TerraCodex_v1.0_publish
+📦 ARCHIVE 3: AIUZ_TerraCodex_v1.0_publish
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
 Structure:
   /AIUZ_TerraCodex_v1.0/
@@ -62,7 +62,7 @@ Structure:
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
 рџ“‘ ZENODO METADATA PACKAGE
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
-  zenodo.json в†’ auto-generated dataset metadata for DOI registration
+  zenodo.json → auto-generated dataset metadata for DOI registration
 
 Fields:
   {
@@ -78,11 +78,11 @@ Fields:
   }
 
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
-рџ“њ FINAL NOTE
+📜 FINAL NOTE
 в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђ
 All archives are linked through a unified DOI structure and checksum verification chain. Each document is compatible with Zenodo dataset standards, ready for direct upload and citable under Terra Ecosystem governance.
 
-в†’ Next Step: Package these simulated directories into ZIP containers (auto-generated), attach zenodo.json to each, and finalize upload to Zenodo record 17404325.
+→ Next Step: Package these simulated directories into ZIP containers (auto-generated), attach zenodo.json to each, and finalize upload to Zenodo record 17404325.
 
 
 

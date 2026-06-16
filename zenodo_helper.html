@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Zenodo Helper вЂ” AIUZ Terra Publish Assistant</title>
+<title>Zenodo Helper — AIUZ Terra Publish Assistant</title>
 <style>
   body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;background:#f6f8fb;color:#111;margin:0;padding:20px}
   .card{background:#fff;border-radius:10px;padding:18px;box-shadow:0 6px 18px rgba(0,0,0,.06);max-width:980px;margin:18px auto}
@@ -23,7 +23,7 @@
 </head>
 <body>
 <div class="card">
-  <h1>Zenodo Helper вЂ” AIUZ Terra Publish Assistant</h1>
+  <h1>Zenodo Helper — AIUZ Terra Publish Assistant</h1>
   <p><small>Open this file in your browser (double-click). Fill the form, drop the prepared ZIP or PDF file(s) and paste your Zenodo token only when you are ready. Your token stays in your browser session and is not sent to any third party by this page.</small></p>
 
   <label for="package">Choose package (prefilled metadata)</label>
@@ -68,7 +68,7 @@
   <div id="filelist" style="margin-top:10px"></div>
 
   <label for="token">Zenodo token (paste here when ready)</label>
-  <input id="token" type="text" placeholder="Paste your Zenodo token here вЂ” stays in your browser only" />
+  <input id="token" type="text" placeholder="Paste your Zenodo token here — stays in your browser only" />
 
   <div style="margin-top:12px;display:flex;gap:8px;align-items:center">
     <button id="publish">Create deposition & Upload</button>
@@ -80,15 +80,15 @@
   <div id="status" style="margin-top:12px"></div>
 
   <h3 style="margin-top:18px">Notes & Fallback</h3>
-  <p><small>This helper attempts to create a Zenodo deposition and upload your files via the Zenodo REST API using your token. If your browser blocks the request (CORS) or the upload fails, use the "curl" command provided in the Preview JSON step вЂ” paste your token there and run locally. Your token is never transmitted to me; it stays in your browser session.</small></p>
+  <p><small>This helper attempts to create a Zenodo deposition and upload your files via the Zenodo REST API using your token. If your browser blocks the request (CORS) or the upload fails, use the "curl" command provided in the Preview JSON step — paste your token there and run locally. Your token is never transmitted to me; it stays in your browser session.</small></p>
 </div>
 
 <script>
 const samples = {
   monograph: {
-    title: 'Fractal Metascience Paradigm вЂ” Terra Clean Core (Complete Monograph)',
+    title: 'Fractal Metascience Paradigm — Terra Clean Core (Complete Monograph)',
     creators: 'Abdurashid A. Abdukarimov | 0009-0000-6394-4912',
-    description: 'The Fractal Metascience Paradigm (FMP) presents a recursive framework for planetary-scale, reproducible science. This monograph (Terra Clean Core) formalizes NULLO, PLT and the operational FMP stack within the AIUZ Terra ecosystem. Includes canonical text, provenance manifests, Terra Proof Ledger recipes and reproducible environment specs (JuneвЂ“October 2025).',
+    description: 'The Fractal Metascience Paradigm (FMP) presents a recursive framework for planetary-scale, reproducible science. This monograph (Terra Clean Core) formalizes NULLO, PLT and the operational FMP stack within the AIUZ Terra ecosystem. Includes canonical text, provenance manifests, Terra Proof Ledger recipes and reproducible environment specs (June–October 2025).',
     keywords: 'Fractal Metascience, Nullo, Post-Lingua Trace, Reproducibility, AIUZ Terra, Ledger',
     license: 'CC-BY-4.0'
   },
@@ -100,9 +100,9 @@ const samples = {
     license: 'CC-BY-4.0'
   },
   codex: {
-    title: 'AIUZ Terra Codex Archive v1.0 вЂ” TerraMemoryDNA & Documentation Suite',
+    title: 'AIUZ Terra Codex Archive v1.0 — TerraMemoryDNA & Documentation Suite',
     creators: 'Abdurashid A. Abdukarimov | 0009-0000-6394-4912',
-    description: 'Planetary archive unifying educational, ethical and scientific documentation of the AIUZ Terra Ecosystem and TerraMemoryDNA. Includes documentation standards, microkernel specs, pitch materials, and archival manifests вЂ” ready for reuse and verification.',
+    description: 'Planetary archive unifying educational, ethical and scientific documentation of the AIUZ Terra Ecosystem and TerraMemoryDNA. Includes documentation standards, microkernel specs, pitch materials, and archival manifests — ready for reuse and verification.',
     keywords: 'AIUZ Terra, TerraMemoryDNA, documentation, education, ethics, Fractal Metascience',
     license: 'GPL-3.0'
   }
@@ -218,7 +218,7 @@ document.getElementById('publish').addEventListener('click', async ()=>{
 
     status.innerHTML = '<div class="success">All files uploaded. Publishing deposition...</div>';
     const published = await publishDeposition(depId, token);
-    status.innerHTML = '<div class="success">Published вЂ” DOI: '+published.doi+'</div>';
+    status.innerHTML = '<div class="success">Published — DOI: '+published.doi+'</div>';
 
   }catch(err){
     console.error(err);

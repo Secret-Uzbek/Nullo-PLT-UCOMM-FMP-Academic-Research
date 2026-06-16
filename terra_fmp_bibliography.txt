@@ -3,7 +3,7 @@
 % ============================================================
 % Compiled: 2025-10-22
 % Format: BibTeX (APA-7 compatible)
-% Sources: в‰Ґ2020, peer-reviewed, DOI-linked
+% Sources: ≥2020, peer-reviewed, DOI-linked
 % Total entries: 50+ (expandable)
 % ============================================================
 

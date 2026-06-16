@@ -2306,7 +2306,7 @@ This reframes all scientific endeavor: we are not studying nature from outside; 
 
 ### 2.1. Beyond Language: Universal Communication
 
-If NULLO precedes language, how does it manifest? Through Post Lingua Trace (PLT)—a meta-linguistic substrate capturing semantic patterns beneath and beyond verbal communication. PLT operates through four quantum-semantic elements:
+If NULLO precedes language, how does it manifest? Through Post Lingua Trace (PLT)—a meta-linguistic substrate capturing semantic patterns beneath and beyond verbal communication. PLT operates through four design vocabulary components:
 
 $$
 \begin{equation}

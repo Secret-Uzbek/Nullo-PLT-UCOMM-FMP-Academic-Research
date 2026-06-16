@@ -1,4 +1,4 @@
-% ============================================================
+﻿% ============================================================
 % TERRA FMP OMNIBUS - COMPLETE WORKS
 % ============================================================
 % Author: Abdurashid Abdukarimov
@@ -61,7 +61,7 @@
     \Large Complete Works on\\
     Fractal Metascience Paradigm\\
     \vspace{0.5cm}
-    \large Nullo В· PLT В· FMP В· AIUZ Terra Ecosystem
+    \large Nullo · PLT · FMP · AIUZ Terra Ecosystem
 }
 
 \author{

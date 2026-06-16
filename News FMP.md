@@ -15,7 +15,7 @@ The 21st century confronts a confluence of systemic crises and emergent opportun
 
 The Fractal Metascience Paradigm (FMP) responds by synthesizing traditional fractal geometry insights with cutting-edge generative AI models (Jones et al., 2025), advances in meta-ontology (Smith & Zhao, 2025), and participatory, equitable science frameworks (Nguyen et al., 2024). It constructs knowledge not as static objectivity but as a recursively co-created, fractally structured process spanning scales from neurons to institutions, local contexts to planetary systems.
 
-FMP also integrates critical advances in metascientific infrastructuresвЂ”such as AI-supported reflexive evaluation (Garcia et al., 2025) and blockchain-enabled research transparency (Kumar & Lee, 2025)вЂ”thereby operationalizing its epistemological principles in practical scientific ecosystems.
+FMP also integrates critical advances in metascientific infrastructures—such as AI-supported reflexive evaluation (Garcia et al., 2025) and blockchain-enabled research transparency (Kumar & Lee, 2025)—thereby operationalizing its epistemological principles in practical scientific ecosystems.
 
 ***
 

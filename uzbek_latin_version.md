@@ -52,7 +52,7 @@ Taklif qilinadigan yechimning asosi "Navoiy" EIZ zonasida sinovdan o'tkazilgan "
 #### Havodan suv ajratish bloki:
 - **Asosiy texnologiya:** "Akvadjenka" (rossiyalik ishlanma, O'zbekistonda sinovdan o'tgan)
 - **Unumdorlik:** kuniga 2500 l (har biri 1000 l dan 2 ta o'rnatma + zaxira)
-- **Ish sharoitlari:** harorat -10В°C dan +70В°C gacha, namlik 4 g/mВі dan
+- **Ish sharoitlari:** harorat -10°C dan +70°C gacha, namlik 4 g/mВі dan
 - **Energiya iste'moli:** 1 litr suvga 5-6 kVtв‹…soat
 - **Afzalliklar:** Qizilqum cho'lining haddan tashqari quruq iqlimida ishlash
 
@@ -116,8 +116,8 @@ UAT markaziy ta'mir bazasi quyidagiga kengaytirish imkoniyati bilan:
 
 #### Mavjud tizim:
 **Suv ta'minoti bo'yicha asosiy xarajatlar:**
-- OESVES dan suv narxi: 730 mВі/yil Г— 45,000 so'm/mВі = 32,850,000 so'm
-- Tarmoqlar bo'ylab transport uchun to'lov: 730 mВі/yil Г— 15,000 so'm/mВі = 10,950,000 so'm
+- OESVES dan suv narxi: 730 mВі/yil × 45,000 so'm/mВі = 32,850,000 so'm
+- Tarmoqlar bo'ylab transport uchun to'lov: 730 mВі/yil × 15,000 so'm/mВі = 10,950,000 so'm
 - Tarmoqlardagi yo'qotishlar va ortiqcha to'lovlar (25%): 10,950,000 so'm/yil
 - UAT suv uzatish tarmoqlarini xizmat ko'rsatish: 8,500,000 so'm/yil
 - Limitlarni oshirganlik uchun jarimalar: 4,200,000 so'm/yil
@@ -127,7 +127,7 @@ UAT markaziy ta'mir bazasi quyidagiga kengaytirish imkoniyati bilan:
 
 #### Taklif qilinadigan tizim:
 **Ekspluatatsiya xarajatlari:**
-- Elektr energiya: 18,250 kVtв‹…soat/yil Г— 950 so'm/kVtв‹…soat = 17,337,500 so'm/yil
+- Elektr energiya: 18,250 kVtв‹…soat/yil × 950 so'm/kVtв‹…soat = 17,337,500 so'm/yil
 - Uskunalarga xizmat ko'rsatish va ta'mirlash: 12,500,000 so'm/yil
 - Filtrlar va sarflanuvchi materiallarni almashtirish: 8,200,000 so'm/yil
 - Xizmat ko'rsatuvchi xodim maoshi (1 kishi): 36,000,000 so'm/yil
@@ -143,7 +143,7 @@ UAT markaziy ta'mir bazasi quyidagiga kengaytirish imkoniyati bilan:
 - **Suv uzatish tarmoqlarini texnik xizmat ko'rsatish xarajatlarini kamaytirish:** 15,000,000 so'm/yil
 
 #### Iqtisodiy baholash bilan ESG-effektlar:
-- **Tabiiy suv tejash:** 550 mВі/yil Г— 75,000 so'm/mВі = 41,250,000 so'm/yil
+- **Tabiiy suv tejash:** 550 mВі/yil × 75,000 so'm/mВі = 41,250,000 so'm/yil
 - **Ekologik to'lovlarni kamaytirish:** 8,500,000 so'm/yil
 - **ESG-reytingni yaxshilash** (kredit narxini 0.1% ga kamaytirish): 15,000,000 so'm/yil
 
@@ -158,17 +158,17 @@ UAT markaziy ta'mir bazasi quyidagiga kengaytirish imkoniyati bilan:
 - **Sof yillik tejamkorlik:** 103,662,500 so'm/yil
 
 #### O'zini qoplash muddati (yangilangan):
-**Kapital xarajatlari Г· Yillik tejamkorlik = 4,750,000,000 Г· 103,662,500 = 4.6 yil**
+**Kapital xarajatlari ÷ Yillik tejamkorlik = 4,750,000,000 ÷ 103,662,500 = 4.6 yil**
 
 ### Muallif mukofotini hisoblash bo'yicha tavsiyalar
 
 NGMK ratsionalizatorlik faoliyati to'g'risidagi Nizomga ko'ra, yillik tejamkorlik 103,662,500 so'm (BEH = 202,730 so'm da 511.3 BEH) bo'lganda:
 
 **Muallif mukofoti formulasi bo'yicha hisoblanadi:**
-M = Iq. ef. Г— 0,5% + 23,9 Г— BEH
-M = 103,662,500 Г— 0,5% + 23,9 Г— 202,730 = 518,312 + 4,845,247 = **5,363,559 so'm**
+M = Iq. ef. × 0,5% + 23,9 × BEH
+M = 103,662,500 × 0,5% + 23,9 × 202,730 = 518,312 + 4,845,247 = **5,363,559 so'm**
 
-**Ratsionalizatsiyaga ko'maklashganlik uchun mukofot:** 5,363,559 Г— 20% = **1,072,712 so'm**
+**Ratsionalizatsiyaga ko'maklashganlik uchun mukofot:** 5,363,559 × 20% = **1,072,712 so'm**
 
 ---
 
