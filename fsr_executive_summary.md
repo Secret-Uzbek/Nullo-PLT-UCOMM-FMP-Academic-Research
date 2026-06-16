@@ -1,4 +1,4 @@
-﻿# 🌍 Fractal Silk Route Hub
+# 🌍 Fractal Silk Route Hub
 ## One-Page Executive Summary for Lion Projects
 
 **Date:** October 2025 | **Contact:** a.abdukarimov@fractal-metascience.org

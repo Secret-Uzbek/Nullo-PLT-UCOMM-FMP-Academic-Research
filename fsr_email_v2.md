@@ -1,4 +1,4 @@
-﻿# Email to Lion Projects GmbH
+# Email to Lion Projects GmbH
 
 ---
 

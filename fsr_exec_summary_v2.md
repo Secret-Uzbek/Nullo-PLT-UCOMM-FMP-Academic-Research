@@ -1,4 +1,4 @@
-﻿# 🌍 Fractal Silk Route Hub
+# 🌍 Fractal Silk Route Hub
 ## Executive Summary (Verified Data Edition)
 
 **Prepared for:** Lion Projects GmbH  

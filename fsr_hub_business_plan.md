@@ -1,4 +1,4 @@
-﻿# 🌍 Fractal Silk Route Hub
+# 🌍 Fractal Silk Route Hub
 ## Business Plan & Investment Proposal
 
 **Prepared for:** Lion Projects GmbH  

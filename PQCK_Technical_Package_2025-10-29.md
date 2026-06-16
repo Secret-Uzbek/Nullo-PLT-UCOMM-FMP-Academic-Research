@@ -1,4 +1,4 @@
-﻿Text
+Text
 Copy
 ========== PQCK_Technical_Spec_v1_0.md ==========
 # PQCK Technical Specification v1.0
