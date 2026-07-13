@@ -27,7 +27,7 @@
 5. **Fractal scalability** - tested architecture for exponential growth
 
 ### Investment Ask
-- **в‚¬2.5M Seed Round** for platform development + pilot operations
+- **€2.5M Seed Round** for platform development + pilot operations
 - **12-month timeline** to revenue generation
 - **Exit options:** Strategic acquisition, IPO (2028-2030), or dividend flow
 
@@ -111,11 +111,11 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 | Segment | Annual Volume | Avg Shipment | Our Target |
 |---------|---------------|--------------|------------|
-| Machinery & Equipment | $45B | в‚¬250K | 0.5% = $225M |
-| Textiles & Apparel | $28B | в‚¬80K | 1.0% = $280M |
-| Agricultural Products | $22B | в‚¬120K | 0.8% = $176M |
-| Automotive Parts | $18B | в‚¬180K | 0.4% = $72M |
-| Electronics | $15B | в‚¬150K | 0.6% = $90M |
+| Machinery & Equipment | $45B | €250K | 0.5% = $225M |
+| Textiles & Apparel | $28B | €80K | 1.0% = $280M |
+| Agricultural Products | $22B | €120K | 0.8% = $176M |
+| Automotive Parts | $18B | €180K | 0.4% = $72M |
+| Electronics | $15B | €150K | 0.6% = $90M |
 | **TOTAL** | **$128B** | - | **$843M** |
 
 **Conservative market capture:** 0.66% in Year 1 → 2.1% in Year 3
@@ -146,74 +146,74 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 1. **Transaction Fees:** 3-5% of shipment value
    - Shippers pay 2-3%
    - Carriers pay 1-2%
-   - Average ticket: в‚¬100K × 4% = в‚¬4K per shipment
+   - Average ticket: €100K × 4% = €4K per shipment
 
 2. **Subscription Plans:**
-   - Basic: в‚¬99/month (unlimited quotes, basic tracking)
-   - Professional: в‚¬499/month (priority support, analytics, API access)
-   - Enterprise: в‚¬2,999/month (dedicated account manager, custom integrations)
+   - Basic: €99/month (unlimited quotes, basic tracking)
+   - Professional: €499/month (priority support, analytics, API access)
+   - Enterprise: €2,999/month (dedicated account manager, custom integrations)
 
 #### **Secondary (20% of revenue)**
 3. **Premium Services:**
-   - Expedited customs clearance: в‚¬500-2,000 per shipment
+   - Expedited customs clearance: €500-2,000 per shipment
    - Insurance: 0.5-1.5% of cargo value
-   - Cargo inspection: в‚¬300-800 per container
-   - Warehousing/consolidation: в‚¬50-200 per day
+   - Cargo inspection: €300-800 per container
+   - Warehousing/consolidation: €50-200 per day
 
 4. **Data & Analytics:**
-   - Market reports: в‚¬5,000-50,000 per report
-   - API access for third parties: в‚¬10,000-100,000/year
-   - White-label platform licensing: в‚¬200,000-500,000/year
+   - Market reports: €5,000-50,000 per report
+   - API access for third parties: €10,000-100,000/year
+   - White-label platform licensing: €200,000-500,000/year
 
 5. **Financial Services:**
    - Currency conversion spread: 0.3-0.5%
    - Trade finance commission: 1-2% of financed amount
    - Payment processing: 0.8-1.2% of transaction
 
-### Financial Projections (в‚¬ thousands)
+### Financial Projections (€ thousands)
 
 | Metric | Year 1 (2026) | Year 2 (2027) | Year 3 (2028) |
 |--------|---------------|---------------|---------------|
 | **Shipments processed** | 850 | 3,200 | 8,500 |
-| **GMV (shipment value)** | в‚¬85,000 | в‚¬320,000 | в‚¬850,000 |
-| **Revenue** | в‚¬3,825 | в‚¬14,080 | в‚¬36,550 |
-| **COGS** | в‚¬1,148 | в‚¬3,520 | в‚¬8,032 |
-| **Gross Profit** | в‚¬2,677 | в‚¬10,560 | в‚¬28,518 |
-| **Operating Expenses** | в‚¬2,950 | в‚¬5,632 | в‚¬10,965 |
-| **EBITDA** | **(в‚¬273)** | в‚¬4,928 | в‚¬17,553 |
-| **Net Profit** | **(в‚¬420)** | в‚¬3,695 | в‚¬13,165 |
+| **GMV (shipment value)** | €85,000 | €320,000 | €850,000 |
+| **Revenue** | €3,825 | €14,080 | €36,550 |
+| **COGS** | €1,148 | €3,520 | €8,032 |
+| **Gross Profit** | €2,677 | €10,560 | €28,518 |
+| **Operating Expenses** | €2,950 | €5,632 | €10,965 |
+| **EBITDA** | **(€273)** | €4,928 | €17,553 |
+| **Net Profit** | **(€420)** | €3,695 | €13,165 |
 | **Net Margin** | -11% | 26% | 36% |
 
 ### Capital Requirements
 
-#### **CAPEX (в‚¬2.5M total)**
+#### **CAPEX (€2.5M total)**
 
 | Category | Amount | Purpose |
 |----------|--------|---------|
-| **Platform Development** | в‚¬900K | Core platform, mobile apps, integrations |
-| **Infrastructure** | в‚¬400K | Servers, security, GIS/AI systems |
-| **Pilot Operations** | в‚¬350K | First 100 shipments, customer acquisition |
-| **Legal & Licensing** | в‚¬250K | Multi-country registrations, compliance |
-| **Pilot Hub (Tashkent)** | в‚¬300K | Office, warehouse, equipment |
-| **Marketing & Sales** | в‚¬200K | Brand launch, lead generation |
-| **Working Capital** | в‚¬100K | Buffer for initial operations |
+| **Platform Development** | €900K | Core platform, mobile apps, integrations |
+| **Infrastructure** | €400K | Servers, security, GIS/AI systems |
+| **Pilot Operations** | €350K | First 100 shipments, customer acquisition |
+| **Legal & Licensing** | €250K | Multi-country registrations, compliance |
+| **Pilot Hub (Tashkent)** | €300K | Office, warehouse, equipment |
+| **Marketing & Sales** | €200K | Brand launch, lead generation |
+| **Working Capital** | €100K | Buffer for initial operations |
 
-#### **OPEX (Year 1: в‚¬2.95M)**
+#### **OPEX (Year 1: €2.95M)**
 
 | Category | Monthly | Annual |
 |----------|---------|--------|
-| **Personnel** (18 staff) | в‚¬95K | в‚¬1,140K |
-| **Technology** (hosting, licenses) | в‚¬35K | в‚¬420K |
-| **Operations** (insurance, logistics) | в‚¬55K | в‚¬660K |
-| **Marketing** | в‚¬25K | в‚¬300K |
-| **General & Admin** | в‚¬35K | в‚¬420K |
-| **Contingency** (10%) | - | в‚¬295K |
-| **TOTAL** | в‚¬245K | в‚¬2,950K |
+| **Personnel** (18 staff) | €95K | €1,140K |
+| **Technology** (hosting, licenses) | €35K | €420K |
+| **Operations** (insurance, logistics) | €55K | €660K |
+| **Marketing** | €25K | €300K |
+| **General & Admin** | €35K | €420K |
+| **Contingency** (10%) | - | €295K |
+| **TOTAL** | €245K | €2,950K |
 
 ### Break-even Analysis
 - **Break-even point:** Month 14 (Q2 2027)
-- **At:** 320 shipments/month, в‚¬3.2M monthly GMV
-- **Cumulative investment to break-even:** в‚¬3.2M
+- **At:** 320 shipments/month, €3.2M monthly GMV
+- **Cumulative investment to break-even:** €3.2M
 
 ---
 
@@ -229,16 +229,16 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 - Lion Projects partnership finalized
 
 **Deliverables:**
-вњ… Core booking platform (web + mobile)  
-вњ… Basic route calculator with 3 corridors  
-вњ… Shipper/carrier registration and KYC  
-вњ… Payment processing integration  
-вњ… Company registration (Germany, Uzbekistan)  
-вњ… Banking relationships established  
-вњ… 5 verified carrier partnerships signed  
-вњ… Beta testing with 3 friendly shippers  
+✅ Core booking platform (web + mobile)  
+✅ Basic route calculator with 3 corridors  
+✅ Shipper/carrier registration and KYC  
+✅ Payment processing integration  
+✅ Company registration (Germany, Uzbekistan)  
+✅ Banking relationships established  
+✅ 5 verified carrier partnerships signed  
+✅ Beta testing with 3 friendly shippers  
 
-**Budget:** в‚¬850K  
+**Budget:** €850K  
 **Team:** 8 people (4 dev, 2 ops, 1 sales, 1 admin)
 
 ---
@@ -253,23 +253,23 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 - Marketing launch
 
 **Deliverables:**
-вњ… 50 shipments processed (target: в‚¬5M GMV)  
-вњ… Average customer satisfaction: 4.2/5.0  
-вњ… 15 verified carriers onboarded  
-вњ… Customs integration (Germany, Uzbekistan)  
-вњ… Real-time tracking operational  
-вњ… Marketing campaign (digital, trade shows)  
-вњ… First 20 subscription customers  
-вњ… Data analytics dashboard v1  
+✅ 50 shipments processed (target: €5M GMV)  
+✅ Average customer satisfaction: 4.2/5.0  
+✅ 15 verified carriers onboarded  
+✅ Customs integration (Germany, Uzbekistan)  
+✅ Real-time tracking operational  
+✅ Marketing campaign (digital, trade shows)  
+✅ First 20 subscription customers  
+✅ Data analytics dashboard v1  
 
-**Budget:** в‚¬680K  
+**Budget:** €680K  
 **Team:** 12 people (+4 for sales, support, ops)
 
 **KPIs:**
 - Platform uptime: >99.5%
 - Average quote response time: <2 hours
 - Booking conversion rate: >15%
-- Customer acquisition cost: <в‚¬500
+- Customer acquisition cost: <€500
 
 ---
 
@@ -283,16 +283,16 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 - Secondary corridors activated
 
 **Deliverables:**
-вњ… 750 additional shipments  
-вњ… в‚¬80M+ cumulative GMV  
-вњ… 40+ verified carriers  
-вњ… 200+ active shipper accounts  
-вњ… Poland-CA corridor launched  
-вњ… Trade finance module live  
-вњ… Blockchain documentation pilot  
-вњ… Series A materials prepared  
+✅ 750 additional shipments  
+✅ €80M+ cumulative GMV  
+✅ 40+ verified carriers  
+✅ 200+ active shipper accounts  
+✅ Poland-CA corridor launched  
+✅ Trade finance module live  
+✅ Blockchain documentation pilot  
+✅ Series A materials prepared  
 
-**Budget:** в‚¬1,420K  
+**Budget:** €1,420K  
 **Team:** 18 people (+6 for expansion)
 
 **KPIs:**
@@ -323,8 +323,8 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 - API marketplace
 
 **Target Metrics:**
-- Revenue: в‚¬14M
-- EBITDA: в‚¬4.9M (35% margin)
+- Revenue: €14M
+- EBITDA: €4.9M (35% margin)
 - 60+ carrier partners
 - 800+ active shippers
 - 4 office locations
@@ -332,7 +332,7 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 ---
 
-## рџ‘Ґ Team & Partners
+## 👥 Team & Partners
 
 ### Current Core Team
 
@@ -355,7 +355,7 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 #### **Lion Projects GmbH** (Germany) - PRIMARY PARTNER
 **Proposed Role:**
-- Co-investor (в‚¬500K-1M equity stake)
+- Co-investor (€500K-1M equity stake)
 - European operations lead
 - Carrier network in Germany
 - Customer acquisition in EU market
@@ -376,7 +376,7 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 ---
 
-## рџ›ЎпёЏ Risk Analysis & Mitigation
+## 🛡️ Risk Analysis & Mitigation
 
 ### Key Risks
 
@@ -453,29 +453,29 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 ---
 
-## рџ’ј Investment Proposition
+## 💼 Investment Proposition
 
-### The Ask: в‚¬2.5M Seed Round
+### The Ask: €2.5M Seed Round
 
 #### **Allocation**
-- **65%** Platform & Infrastructure (в‚¬1.625M)
-- **20%** Operations & Pilot (в‚¬500K)
-- **10%** Marketing & Sales (в‚¬250K)
-- **5%** Legal & Admin (в‚¬125K)
+- **65%** Platform & Infrastructure (€1.625M)
+- **20%** Operations & Pilot (€500K)
+- **10%** Marketing & Sales (€250K)
+- **5%** Legal & Admin (€125K)
 
 #### **Investor Structure (Proposed)**
-- **Lion Projects:** в‚¬500K-1M (20-35% equity)
-- **Strategic Logistics Investor:** в‚¬500K-1M
-- **Angel Investors / Family Offices:** в‚¬500K-1M
-- **Founder / Team:** в‚¬0-500K (secondary from future revenue)
+- **Lion Projects:** €500K-1M (20-35% equity)
+- **Strategic Logistics Investor:** €500K-1M
+- **Angel Investors / Family Offices:** €500K-1M
+- **Founder / Team:** €0-500K (secondary from future revenue)
 
 ### Equity & Terms
 
-**Pre-money Valuation:** в‚¬8M  
-**Post-money Valuation:** в‚¬10.5M  
+**Pre-money Valuation:** €8M  
+**Post-money Valuation:** €10.5M  
 
 **Seed Round Terms:**
-- **Equity offered:** 24% (в‚¬2.5M / в‚¬10.5M)
+- **Equity offered:** 24% (€2.5M / €10.5M)
 - **Instrument:** Convertible note or priced equity (flexible)
 - **Board seats:** 1 for lead investor (Lion Projects)
 - **Liquidation preference:** 1x non-participating
@@ -484,7 +484,7 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 **Lion Projects Specific:**
 - **Equity:** 15-25% (depending on involvement level)
-- **Investment:** в‚¬500K-1M cash + in-kind (office space, network, advisory)
+- **Investment:** €500K-1M cash + in-kind (office space, network, advisory)
 - **Board seat:** Yes
 - **Advisory role:** European strategy, carrier relations
 - **Revenue share:** 5% of EU-originated gross profit (optional alternative to full equity)
@@ -493,8 +493,8 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 | Scenario | Timeline | Valuation | Lion ROI |
 |----------|----------|-----------|----------|
-| **Strategic Acquisition** | 2028-2030 | в‚¬50-100M | 5-10x |
-| **Series B → IPO** | 2030-2032 | в‚¬200M+ | 20x+ |
+| **Strategic Acquisition** | 2028-2030 | €50-100M | 5-10x |
+| **Series B → IPO** | 2030-2032 | €200M+ | 20x+ |
 | **Dividend Flow** | 2027+ | - | 15-25% annual yield |
 
 **Comparable Exits:**
@@ -507,7 +507,7 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 ---
 
-## рџ¤ќ Partnership Model with Lion Projects
+## 🤝 Partnership Model with Lion Projects
 
 ### Why Lion Projects?
 
@@ -532,7 +532,7 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
 
 #### **Phase 1: Partnership Launch (Q1 2026)**
 - Legal structure: Joint venture or strategic investment (TBD)
-- Lion invests в‚¬500K-1M for 15-25% equity
+- Lion invests €500K-1M for 15-25% equity
 - MOU signed covering roles, responsibilities, IP, revenue split
 - Joint team meetings (weekly in Q1, bi-weekly after)
 
@@ -563,7 +563,7 @@ Our architecture follows **Fractal Metascience Paradigm (FMP)** principles:
   
 - **Decision-making:**
   - Operational: CEO has authority
-  - Strategic (fundraising, M&A, budget >в‚¬500K): Board approval
+  - Strategic (fundraising, M&A, budget >€500K): Board approval
   - Major changes: Supermajority (75%)
 
 ---
@@ -577,10 +577,10 @@ FSR Hub is not just a logistics platform - it's the **first commercial node** in
 #### **Revenue Reinvestment Model**
 Once profitable (Q2 2027+), **10-20% of net profits** will fund:
 
-1. **Terrapedia** (в‚¬1.8M) - Fractal knowledge management system
-2. **Hub Network** (в‚¬5.2M) - Physical infrastructure for global coordination
-3. **Terra Ubique** (в‚¬800K) - Local services platform (Uzbekistan pilot)
-4. **Civilization 2.0 Projects** (в‚¬50M+) - National transformation initiatives
+1. **Terrapedia** (€1.8M) - Fractal knowledge management system
+2. **Hub Network** (€5.2M) - Physical infrastructure for global coordination
+3. **Terra Ubique** (€800K) - Local services platform (Uzbekistan pilot)
+4. **Civilization 2.0 Projects** (€50M+) - National transformation initiatives
 
 **Investor benefit:** These projects create additional revenue streams and ecosystem value, compounding returns.
 
@@ -602,7 +602,7 @@ Once profitable (Q2 2027+), **10-20% of net profits** will fund:
 
 ---
 
-## рџ“ћ Next Steps
+## 📞 Next Steps
 
 ### For Lion Projects
 
@@ -638,7 +638,7 @@ Once profitable (Q2 2027+), **10-20% of net profits** will fund:
 
 ---
 
-## рџ“Ћ Appendices
+## 📎 Appendices
 
 ### A. Comparable Company Analysis
 
@@ -646,8 +646,8 @@ Once profitable (Q2 2027+), **10-20% of net profits** will fund:
 |---------|---------|----------------|------------------|-------|
 | Flexport | 2013 | $8.0B (2022) | $3.3B (2022) | Freight forwarding + tech |
 | Freightos | 2012 | $800M (IPO 2022) | $120M (2022) | Booking platform |
-| Forto | 2016 | $1.2B (2021) | в‚¬400M (2022) | Digital freight forwarding |
-| Sennder | 2015 | $1.3B (2021) | в‚¬600M (2022) | EU road freight network |
+| Forto | 2016 | $1.2B (2021) | €400M (2022) | Digital freight forwarding |
+| Sennder | 2015 | $1.3B (2021) | €600M (2022) | EU road freight network |
 | Convoy | 2015 | $3.8B (2022) | $300M (2021) | US trucking marketplace (shut down 2023) |
 
 **FSR Hub positioning:** Niche focus (USA-EU-CA), capital-efficient, fractal architecture, proven in Terra ecosystem.
@@ -710,16 +710,16 @@ Once profitable (Q2 2027+), **10-20% of net profits** will fund:
 ### E. Financial Model Assumptions
 
 **Revenue:**
-- Average shipment value: в‚¬100K
+- Average shipment value: €100K
 - Transaction fee: 4% (blended shipper + carrier)
-- Subscription: 30% of customers (в‚¬499/month avg)
+- Subscription: 30% of customers (€499/month avg)
 - Premium services: 15% take rate
 
 **Costs:**
-- Platform development: в‚¬900K (capitalized, 3-year amortization)
-- Personnel: в‚¬85K avg salary (fully loaded)
-- Technology: в‚¬35K/month (AWS, licenses, tools)
-- Customer acquisition cost: в‚¬500 per shipper
+- Platform development: €900K (capitalized, 3-year amortization)
+- Personnel: €85K avg salary (fully loaded)
+- Technology: €35K/month (AWS, licenses, tools)
+- Customer acquisition cost: €500 per shipper
 - Churn rate: 20% annual (80% retention)
 
 **Growth:**
@@ -757,7 +757,7 @@ Once profitable (Q2 2027+), **10-20% of net profits** will fund:
 1. **Fractal architecture:** Proven in Terra ecosystem, unmatched scalability
 2. **Niche focus:** Only USA-Germany-Central Asia platform
 3. **Founder expertise:** Deep Central Asia knowledge + technical capability
-4. **Capital efficiency:** в‚¬2.5M to break-even vs. в‚¬50M+ for competitors
+4. **Capital efficiency:** €2.5M to break-even vs. €50M+ for competitors
 5. **First-mover advantage:** Market window open for 12-18 months before giants notice
 6. **Impact alignment:** Not just profit - building planetary-scale infrastructure
 
@@ -797,7 +797,7 @@ Founder & CEO, Fractal Silk Route Hub
 
 📧 **Email:** a.abdukarimov@fractal-metascience.org  
 🔗 **ORCID:** 0009-0000-6394-4912  
-рџ“Ќ **Location:** Tashkent, Uzbekistan  
+📍 **Location:** Tashkent, Uzbekistan  
 🌐ђ **Website:** [To be launched Q1 2026]  
 
 **For Lion Projects Team:**  
@@ -809,11 +809,11 @@ Please direct all inquiries, questions, and feedback to the email above. We aim 
 
 Thank you for taking the time to review this proposal. We believe **Fractal Silk Route Hub** represents a rare opportunity to:
 
-вњ… Capture a **$180B+ market** with no integrated digital platform  
-вњ… Build on **proven fractal architecture** from Terra ecosystem  
-вњ… Achieve **profitability within 14 months** with capital-efficient model  
-вњ… Create **lasting impact** beyond financial returns  
-вњ… Establish **USA-Germany-Central Asia** as premier trade corridor  
+✅ Capture a **$180B+ market** with no integrated digital platform  
+✅ Build on **proven fractal architecture** from Terra ecosystem  
+✅ Achieve **profitability within 14 months** with capital-efficient model  
+✅ Create **lasting impact** beyond financial returns  
+✅ Establish **USA-Germany-Central Asia** as premier trade corridor  
 
 We look forward to exploring partnership with **Lion Projects** and building something extraordinary together.
 
@@ -843,7 +843,7 @@ We look forward to exploring partnership with **Lion Projects** and building som
 
 ---
 
-## рџЋ¬ Closing Statement
+## 🎬 Closing Statement
 
 In 2013, a small team launched Flexport with a vision to fix global trade. Today it's worth $8 billion.
 
@@ -854,7 +854,7 @@ In 2016, Forto started with a simple idea: make freight forwarding digital. By 2
 But unlike them, we have:
 - **Proven architecture** (not theory - tested in Terra ecosystem)
 - **Untapped corridor** (USA-Germany-Central Asia, $180B/year)
-- **Capital efficiency** (в‚¬2.5M to break-even, not в‚¬50M+)
+- **Capital efficiency** (€2.5M to break-even, not €50M+)
 - **Strategic partner ready** (Lion Projects - you)
 
 The question is not "Can this work?"  
@@ -923,4 +923,4 @@ We adapt to what works best for Lion Projects' capacity and strategic priorities
 
 **Fractal Silk Route Hub × Lion Projects = The Future of USA-EU-Central Asia Trade**
 
-рџ“© **Next Step:** Your move, Lion Projects. Let's talk.
+📩 **Next Step:** Your move, Lion Projects. Let's talk.

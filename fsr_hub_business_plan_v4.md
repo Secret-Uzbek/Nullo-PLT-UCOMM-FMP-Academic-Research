@@ -39,30 +39,30 @@ The USA-Germany-Central Asia trade corridor represents a **$180-195B market oppo
 **Key Market Developments (Verified September 2025):**
 - **$105B** USA-Uzbekistan investment portfolio (UN Summit, Sept 2025)
 - **$4.2B** USA-Kazakhstan Wabtec locomotive contract
-- **в‚¬48-55B** EU-Central Asia infrastructure funding (2024-2030)
+- **€48-55B** EU-Central Asia infrastructure funding (2024-2030)
 - **$15-25B** current annual trade flows, growing 15-25% YoY
 
 ### 1.2 Our Solution
 
 **Fractal Silk Route Hub (FSR Hub)** is a digital marketplace connecting shippers, carriers, and customs authorities across the USA ↔ Germany ↔ Central Asia corridor through:
 
-вњ… Multi-modal route optimization (AI-powered)  
-вњ… Real-time tracking and transparency  
-вњ… Automated customs integration (2-3 days vs 7-14 days)  
-вњ… Multi-currency native operations (USD/EUR/UZS/KZT/RUB)  
-вњ… Verified provider network with quality guarantees  
-вњ… Fractal architecture for natural scalability  
+✅ Multi-modal route optimization (AI-powered)  
+✅ Real-time tracking and transparency  
+✅ Automated customs integration (2-3 days vs 7-14 days)  
+✅ Multi-currency native operations (USD/EUR/UZS/KZT/RUB)  
+✅ Verified provider network with quality guarantees  
+✅ Fractal architecture for natural scalability  
 
 ### 1.3 The Ask
 
-**в‚¬2.5M Seed Round** for:
+**€2.5M Seed Round** for:
 - Platform development & infrastructure (65%)
 - Operations & pilot shipments (20%)
 - Marketing & sales (10%)
 - Legal & administration (5%)
 
 **For Lion Projects specifically:**
-- Investment: в‚¬500K-1M
+- Investment: €500K-1M
 - Equity: 15-25% (negotiable)
 - Board seat: Yes
 - Strategic role: European operations lead
@@ -72,9 +72,9 @@ The USA-Germany-Central Asia trade corridor represents a **$180-195B market oppo
 | Metric | Year 1 (2026) | Year 2 (2027) | Year 3 (2028) |
 |--------|---------------|---------------|---------------|
 | Shipments | 850 | 3,200 | 8,500 |
-| GMV | в‚¬85M | в‚¬320M | в‚¬850M |
-| Revenue | в‚¬3.8M | в‚¬14.1M | в‚¬36.6M |
-| EBITDA | (в‚¬0.3M) | в‚¬4.9M | в‚¬17.6M |
+| GMV | €85M | €320M | €850M |
+| Revenue | €3.8M | €14.1M | €36.6M |
+| EBITDA | (€0.3M) | €4.9M | €17.6M |
 | Net Margin | -7% | 26% | 36% |
 
 **Break-even:** Month 14 (Q2 2027)  
@@ -82,10 +82,10 @@ The USA-Germany-Central Asia trade corridor represents a **$180-195B market oppo
 
 ### 1.5 Return Scenarios
 
-| Exit Path | Timeline | Valuation | Lion ROI (в‚¬1M @ 20%) |
+| Exit Path | Timeline | Valuation | Lion ROI (€1M @ 20%) |
 |-----------|----------|-----------|---------------------|
-| Strategic Acquisition | 2028-2030 | в‚¬50-100M | 10-20x (в‚¬10-20M) |
-| Series B → IPO | 2030-2032 | в‚¬200M+ | 40x+ (в‚¬40M+) |
+| Strategic Acquisition | 2028-2030 | €50-100M | 10-20x (€10-20M) |
+| Series B → IPO | 2030-2032 | €200M+ | 40x+ (€40M+) |
 | Dividend Flow | 2027+ | Ongoing | 15-25% annual yield |
 
 ---
@@ -118,26 +118,26 @@ The USA-Germany-Central Asia trade corridor represents a **$180-195B market oppo
 ### 3.5 Differentiation: Why FSR Hub Wins
 
 **vs. Traditional Freight Forwarders (DHL, Kuehne+Nagel):**
-- вњ… 25-30% lower cost (automation)
-- вњ… Real-time visibility (vs black box)
-- вњ… 2-3 day customs (vs 7-14 days)
-- вњ… Digital-native (vs legacy systems)
-- вњ… Multi-currency native (vs bolt-on)
+- ✅ 25-30% lower cost (automation)
+- ✅ Real-time visibility (vs black box)
+- ✅ 2-3 day customs (vs 7-14 days)
+- ✅ Digital-native (vs legacy systems)
+- ✅ Multi-currency native (vs bolt-on)
 
 **vs. Digital Platforms (Flexport, Freightos, Forto):**
-- вњ… Niche focus (USA-Germany-CA only)
-- вњ… Fractal architecture (natural scaling)
-- вњ… Local expertise (founder in Tashkent)
-- вњ… Multi-currency native (built-in day 1)
-- вњ… Capital efficient (в‚¬2.5M vs в‚¬50M+)
-- вњ… First-mover (2-3 year head start)
+- ✅ Niche focus (USA-Germany-CA only)
+- ✅ Fractal architecture (natural scaling)
+- ✅ Local expertise (founder in Tashkent)
+- ✅ Multi-currency native (built-in day 1)
+- ✅ Capital efficient (€2.5M vs €50M+)
+- ✅ First-mover (2-3 year head start)
 
 **vs. Doing Nothing:**
-- вњ… 30-40% cost savings
-- вњ… 50% faster customs clearance
-- вњ… 80% reduction in errors
-- вњ… 100% shipment visibility
-- вњ… Predictable outcomes
+- ✅ 30-40% cost savings
+- ✅ 50% faster customs clearance
+- ✅ 80% reduction in errors
+- ✅ 100% shipment visibility
+- ✅ Predictable outcomes
 
 ---
 
@@ -161,28 +161,28 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 **Technical Implementation:**
 
 ```
-в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
-в”‚                      User Interface Layer                    в”‚
-в”‚   Web App (React) | Mobile (React Native) | API (REST)     в”‚
-в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
+┌─────────────────────────────────────────────────────────────┐
+│                      User Interface Layer                    │
+│   Web App (React) | Mobile (React Native) | API (REST)     │
+└─────────────────────────────────────────────────────────────в”
                               ↓
-в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
-в”‚                    Business Logic Layer                      в”‚
-в”‚  Route Optimizer | Booking Engine | Payment Processor      в”‚
-в”‚  Tracking System | Customs Auto | Analytics Engine         в”‚
-в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
+┌─────────────────────────────────────────────────────────────┐
+│                    Business Logic Layer                      │
+│  Route Optimizer | Booking Engine | Payment Processor      │
+│  Tracking System | Customs Auto | Analytics Engine         │
+└─────────────────────────────────────────────────────────────в”
                               ↓
-в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
-в”‚                    Integration Layer                         в”‚
-в”‚  Carrier APIs | Customs APIs | Payment Gateways            в”‚
-в”‚  GPS Tracking | Blockchain | Currency Exchange             в”‚
-в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
+┌─────────────────────────────────────────────────────────────┐
+│                    Integration Layer                         │
+│  Carrier APIs | Customs APIs | Payment Gateways            │
+│  GPS Tracking | Blockchain | Currency Exchange             │
+└─────────────────────────────────────────────────────────────в”
                               ↓
-в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
-в”‚                      Data Layer                              в”‚
-в”‚  PostgreSQL (Transactional) | MongoDB (Documents)          в”‚
-в”‚  Redis (Cache) | Elasticsearch (Search) | S3 (Files)       в”‚
-в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
+┌─────────────────────────────────────────────────────────────┐
+│                      Data Layer                              │
+│  PostgreSQL (Transactional) | MongoDB (Documents)          │
+│  Redis (Cache) | Elasticsearch (Search) | S3 (Files)       │
+└─────────────────────────────────────────────────────────────в”
 ```
 
 ### 4.2 Core Technology Stack
@@ -361,7 +361,7 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 
 ### 5.1 Revenue Model Overview
 
-**Target:** в‚¬4,500 average revenue per shipment through 4 complementary streams
+**Target:** €4,500 average revenue per shipment through 4 complementary streams
 
 ### 5.2 Transaction Fees (60% of revenue)
 
@@ -373,10 +373,10 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 - **Blended rate:** 3-5% total (4% average)
 
 **Example:**
-- Shipment value: в‚¬100,000
-- Shipper fee: в‚¬2,500 (2.5%)
-- Carrier fee: в‚¬1,500 (1.5%)
-- Total FSR Hub revenue: в‚¬4,000
+- Shipment value: €100,000
+- Shipper fee: €2,500 (2.5%)
+- Carrier fee: €1,500 (1.5%)
+- Total FSR Hub revenue: €4,000
 
 **Volume Discounts:**
 - 10+ shipments/year: -10%
@@ -395,9 +395,9 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 
 | Plan | Price | Features | Target Segment |
 |------|-------|----------|----------------|
-| **Basic** | в‚¬99/month | Unlimited quotes, basic tracking, email support | Small shippers (<5 shipments/year) |
-| **Professional** | в‚¬499/month | Priority routing, advanced analytics, API access, phone support | Medium shippers (5-50/year) |
-| **Enterprise** | в‚¬2,999/month | Dedicated account manager, custom integrations, SLA guarantees, white-label | Large shippers (50+/year) |
+| **Basic** | €99/month | Unlimited quotes, basic tracking, email support | Small shippers (<5 shipments/year) |
+| **Professional** | €499/month | Priority routing, advanced analytics, API access, phone support | Medium shippers (5-50/year) |
+| **Enterprise** | €2,999/month | Dedicated account manager, custom integrations, SLA guarantees, white-label | Large shippers (50+/year) |
 
 **Adoption Forecast:**
 - Year 1: 20% subscribe (learning curve)
@@ -405,12 +405,12 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 - Year 3: 35% subscribe (standard practice)
 
 **Average subscription revenue:**
-- 30% × в‚¬499 (weighted average) = в‚¬150/customer/year
+- 30% × €499 (weighted average) = €150/customer/year
 - On top of transaction fees
 
 ### 5.4 Premium Services (15% of revenue)
 
-**Expedited Customs:** в‚¬500-2,000 per shipment
+**Expedited Customs:** €500-2,000 per shipment
 - Fast-track clearance (1-2 days vs 2-3 days)
 - Dedicated customs broker
 - 15% of shippers opt-in
@@ -420,12 +420,12 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 - Claims processing included
 - 40% opt-in rate
 
-**Cargo Inspection:** в‚¬300-800 per container
+**Cargo Inspection:** €300-800 per container
 - Pre-shipment quality check
 - Photo/video documentation
 - 10% opt-in
 
-**Warehousing/Consolidation:** в‚¬50-200/day
+**Warehousing/Consolidation:** €50-200/day
 - Hamburg, Tashkent, Almaty facilities
 - Order consolidation
 - Last-mile delivery
@@ -439,19 +439,19 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 
 ### 5.5 Data & Analytics (10% of revenue)
 
-**Market Reports:** в‚¬5,000-50,000 per report
+**Market Reports:** €5,000-50,000 per report
 - Quarterly trade flow analysis
 - Pricing trend forecasts
 - Carrier performance benchmarks
 - Target: 50 reports/year sold
 
-**API Access:** в‚¬10,000-100,000/year
+**API Access:** €10,000-100,000/year
 - Real-time pricing data
 - Route optimization algorithms
 - Shipment tracking integration
 - Target: 20 API customers Year 3
 
-**White-Label Platform:** в‚¬200,000-500,000/year
+**White-Label Platform:** €200,000-500,000/year
 - Licensed to freight forwarders
 - Co-branded solution
 - Revenue share on transactions
@@ -463,17 +463,17 @@ FSR Hub is built on FMP principles - a proven mathematical framework where syste
 
 Average shipper profile:
 - Ships 15 times over 3 years
-- в‚¬100K average shipment value
-- 4% take rate = в‚¬4,000 transaction fee
-- в‚¬500/year subscription
-- в‚¬800/shipment premium services
-- Total: в‚¬76,500 over 3 years
+- €100K average shipment value
+- 4% take rate = €4,000 transaction fee
+- €500/year subscription
+- €800/shipment premium services
+- Total: €76,500 over 3 years
 
 **Customer Acquisition Cost (CAC):**
-- Direct sales: в‚¬800/customer
-- Partnership referrals: в‚¬300/customer
-- Organic (SEO/content): в‚¬200/customer
-- Weighted average: в‚¬500/customer
+- Direct sales: €800/customer
+- Partnership referrals: €300/customer
+- Organic (SEO/content): €200/customer
+- Weighted average: €500/customer
 
 **LTV/CAC Ratio:** 153:1 (76,500 / 500)
 
@@ -492,52 +492,52 @@ Average shipper profile:
 | Service | Traditional Forwarder | FSR Hub | Savings |
 |---------|---------------------|---------|---------|
 | Base fee | 5-7% of value | 4% of value | 20-40% |
-| Customs | в‚¬1,500-3,000 | в‚¬500-2,000 | 33-67% |
+| Customs | €1,500-3,000 | €500-2,000 | 33-67% |
 | Insurance | 2-3% of value | 0.5-1.5% | 50-75% |
-| **Total** | **в‚¬10,000-15,000** | **в‚¬6,000-9,000** | **30-40%** |
+| **Total** | **€10,000-15,000** | **€6,000-9,000** | **30-40%** |
 
-(For в‚¬100K shipment)
+(For €100K shipment)
 
 **Price sensitivity analysis:**
 - 10% increase: -5% volume
 - 10% decrease: +8% volume
-- Optimal point: Current pricing (в‚¬4,000-5,000 per shipment)
+- Optimal point: Current pricing (€4,000-5,000 per shipment)
 
 ### 5.8 Revenue Projections
 
 **Year 1 (2026):**
-- 850 shipments × в‚¬100K avg × 4% = в‚¬3.4M transaction fees
-- 170 subscribers × в‚¬499 × 12 = в‚¬1.0M subscriptions (annual)
-- 850 shipments × 30% × в‚¬800 = в‚¬204K premium services
-- Data/API: в‚¬50K
-- **Total: в‚¬3.8M**
+- 850 shipments × €100K avg × 4% = €3.4M transaction fees
+- 170 subscribers × €499 × 12 = €1.0M subscriptions (annual)
+- 850 shipments × 30% × €800 = €204K premium services
+- Data/API: €50K
+- **Total: €3.8M**
 
 **Year 2 (2027):**
-- 3,200 × в‚¬100K × 4% = в‚¬12.8M transaction fees
-- 960 × в‚¬499 × 12 = в‚¬5.7M subscriptions
-- 3,200 × 35% × в‚¬900 = в‚¬1.0M premium services
-- Data/API: в‚¬300K
-- **Total: в‚¬14.1M**
+- 3,200 × €100K × 4% = €12.8M transaction fees
+- 960 × €499 × 12 = €5.7M subscriptions
+- 3,200 × 35% × €900 = €1.0M premium services
+- Data/API: €300K
+- **Total: €14.1M**
 
 **Year 3 (2028):**
-- 8,500 × в‚¬100K × 4% = в‚¬34.0M transaction fees
-- 2,975 × в‚¬499 × 12 = в‚¬17.8M subscriptions (overlap - net adds)
-- Actually subscription: в‚¬1.5M (30% of shippers × avg sub)
-- 8,500 × 40% × в‚¬1,000 = в‚¬3.4M premium services
-- Data/API: в‚¬1.2M
-- **Total: в‚¬36.6M**
+- 8,500 × €100K × 4% = €34.0M transaction fees
+- 2,975 × €499 × 12 = €17.8M subscriptions (overlap - net adds)
+- Actually subscription: €1.5M (30% of shippers × avg sub)
+- 8,500 × 40% × €1,000 = €3.4M premium services
+- Data/API: €1.2M
+- **Total: €36.6M**
 
 **Revenue Mix (Year 3):**
-- Transaction fees: 60% (в‚¬21.96M)
-- Subscriptions: 15% (в‚¬5.49M)
-- Premium services: 15% (в‚¬5.49M)
-- Data & analytics: 10% (в‚¬3.66M)
+- Transaction fees: 60% (€21.96M)
+- Subscriptions: 15% (€5.49M)
+- Premium services: 15% (€5.49M)
+- Data & analytics: 10% (€3.66M)
 
 ---
 
 ## 6. Financial Projections & Metrics
 
-### 6.1 Summary Income Statement (в‚¬ thousands)
+### 6.1 Summary Income Statement (€ thousands)
 
 | Line Item | 2026 | 2027 | 2028 | 2029 | 2030 |
 |-----------|------|------|------|------|------|
@@ -574,7 +574,7 @@ Average shipper profile:
 | **Net Income** | **(423)** | **3,684** | **13,692** | **33,758** | **66,821** |
 | Net Margin | -11% | 26% | 37% | 43% | 47% |
 
-### 6.2 Cash Flow Statement (в‚¬ thousands)
+### 6.2 Cash Flow Statement (€ thousands)
 
 | Item | 2026 | 2027 | 2028 | 2029 | 2030 |
 |------|------|------|------|------|------|
@@ -598,7 +598,7 @@ Average shipper profile:
 | Beginning Cash | 0 | 1,127 | 4,542 | 16,772 | 48,132 |
 | **Ending Cash** | **1,127** | **4,542** | **16,772** | **48,132** | **111,347** |
 
-### 6.3 Balance Sheet (в‚¬ thousands)
+### 6.3 Balance Sheet (€ thousands)
 
 | Item | 2026 | 2027 | 2028 | 2029 | 2030 |
 |------|------|------|------|------|------|
@@ -642,15 +642,15 @@ Average shipper profile:
 | Net Margin | -11% | 26% | 37% | 43% | 47% |
 | | | | | | |
 | **Efficiency** | | | | | |
-| Revenue per Shipment | в‚¬4,500 | в‚¬4,400 | в‚¬4,300 | в‚¬4,200 | в‚¬4,200 |
-| CAC | в‚¬500 | в‚¬450 | в‚¬400 | в‚¬350 | в‚¬300 |
-| LTV | в‚¬85,000 | в‚¬92,000 | в‚¬98,000 | в‚¬102,000 | в‚¬105,000 |
+| Revenue per Shipment | €4,500 | €4,400 | €4,300 | €4,200 | €4,200 |
+| CAC | €500 | €450 | €400 | €350 | €300 |
+| LTV | €85,000 | €92,000 | €98,000 | €102,000 | €105,000 |
 | LTV/CAC | 170 | 204 | 245 | 291 | 350 |
 | Payback (months) | 2.1 | 1.9 | 1.7 | 1.5 | 1.3 |
 | | | | | | |
 | **Scale** | | | | | |
 | Employees | 18 | 32 | 56 | 98 | 165 |
-| Revenue/Employee | в‚¬212K | в‚¬440K | в‚¬653K | в‚¬796K | в‚¬860K |
+| Revenue/Employee | €212K | €440K | €653K | €796K | €860K |
 | | | | | | |
 | **Leverage** | | | | | |
 | Debt/Equity | 0% | 8% | 2% | 0% | 0% |
@@ -662,27 +662,27 @@ Average shipper profile:
 #### Base Case (Presented Above)
 - Assumptions: 850 Y1 shipments, 4% take rate, 80% retention
 - Break-even: Month 14
-- Year 3 revenue: в‚¬36.6M
+- Year 3 revenue: €36.6M
 - Year 3 EBITDA margin: 48%
 
 #### Upside Case (+30% shipments)
 - 1,100 Y1 shipments, 4.5% take rate, 85% retention
 - Break-even: Month 11
-- Year 3 revenue: в‚¬52.M
+- Year 3 revenue: €52.M
 - Year 3 EBITDA margin: 52%
-- Year 3 valuation: в‚¬150-200M (3-4x revenue)
+- Year 3 valuation: €150-200M (3-4x revenue)
 
 #### Downside Case (-30% shipments)
 - 600 Y1 shipments, 3.5% take rate, 75% retention
 - Break-even: Month 18
-- Year 3 revenue: в‚¬23.8M
+- Year 3 revenue: €23.8M
 - Year 3 EBITDA margin: 42%
 - Still profitable, but slower path
 
 #### Stress Test (50% of base)
 - 425 Y1 shipments
 - Break-even: Month 24
-- Year 3 revenue: в‚¬16.3M
+- Year 3 revenue: €16.3M
 - Year 3 EBITDA margin: 35%
 - **Still viable business, just need more runway**
 
@@ -727,7 +727,7 @@ Average shipper profile:
    - Lion Projects: 10 shipments/month
    - Chambers of Commerce: Germany, Uzbekistan, Kazakhstan
    - Trade associations: FIATA, CLECAT, national federations
-   - Referral incentive: в‚¬500/successful shipment
+   - Referral incentive: €500/successful shipment
 
 2. **Content marketing** (30% of customers 2.1.1 USA-Central Asia Investment Pipeline: $110-115B
 
@@ -776,23 +776,23 @@ Major components:
   - Chevron, ExxonMobil, Boeing, others
   - Energy sector dominance
 
-#### 2.1.2 EU-Central Asia Infrastructure: в‚¬44-50B ($48-55B)
+#### 2.1.2 EU-Central Asia Infrastructure: €44-50B ($48-55B)
 
 **Source:** EU Commission announcements 2024-2025
 
-**Global Gateway Initiative:** в‚¬12B (~$13B)
+**Global Gateway Initiative:** €12B (~$13B)
 - Transport connectivity enhancement
 - Digital infrastructure
 - Energy sector cooperation
 - Critical materials partnerships
 
-**Trans-Caspian/Middle Corridor:** в‚¬22B (~$24B)
+**Trans-Caspian/Middle Corridor:** €22B (~$24B)
 - Railway infrastructure modernization
 - Port development (Aktau, Turkmenbashi, Baku)
 - Logistics hubs and warehouses
 - Border crossing digitalization
 
-**Additional Bilateral Programs:** в‚¬10-15B (~$11-16B)
+**Additional Bilateral Programs:** €10-15B (~$11-16B)
 - Germany-Central Asia cooperation
 - France, Netherlands, other EU members
 - Technical assistance and capacity building
@@ -833,11 +833,11 @@ Segments where digital logistics platform is immediately applicable:
 
 | Year | GMV Target | % of SAM | Shipments | Rationale |
 |------|------------|----------|-----------|-----------|
-| 2026 | в‚¬85M | 0.14% | 850 | Pilot phase, MVP platform |
-| 2027 | в‚¬320M | 0.53% | 3,200 | Scale-up, proven model |
-| 2028 | в‚¬850M | 1.4% | 8,500 | Market leader positioning |
-| 2029 | в‚¬2.1B | 3.5% | 21,000 | Network effects dominant |
-| 2030 | в‚¬4.2B | 7.0% | 42,000 | Category leader established |
+| 2026 | €85M | 0.14% | 850 | Pilot phase, MVP platform |
+| 2027 | €320M | 0.53% | 3,200 | Scale-up, proven model |
+| 2028 | €850M | 1.4% | 8,500 | Market leader positioning |
+| 2029 | €2.1B | 3.5% | 21,000 | Network effects dominant |
+| 2030 | €4.2B | 7.0% | 42,000 | Category leader established |
 
 **Comparison to Competitors:**
 - Flexport: Achieved 3-5% of addressable market in 3 years
@@ -874,7 +874,7 @@ Segments where digital logistics platform is immediately applicable:
 
 **Bottom-Up Validation:**
 
-Average shipment: в‚¬100,000
+Average shipment: €100,000
 - Verified through trade statistics
 - Typical container: $50K-150K
 - LCL consolidations: $10K-50K
@@ -885,13 +885,13 @@ Target shipments Year 1: 850
 - 200 shippers × 3-5 shipments/year average
 - Pilot converts at 60% rate
 
-GMV Year 1: в‚¬85M
-- 850 shipments × в‚¬100K average
-- Conservative vs industry (most do в‚¬150K+ average)
+GMV Year 1: €85M
+- 850 shipments × €100K average
+- Conservative vs industry (most do €150K+ average)
 
 **Top-Down Validation:**
 
-$45B SAM × 0.14% = $63M ≈ в‚¬85M ✓
+$45B SAM × 0.14% = $63M ≈ €85M ✓
 Checks out independently
 
 ---
@@ -911,32 +911,32 @@ Despite $180B+ in investments and trade, the USA-Germany-Central Asia corridor o
 ### 3.2 Pain Points by Stakeholder
 
 #### For Shippers:
-вќЊ No unified platform for quotes/booking  
-вќЊ Can't compare carriers/routes easily  
-вќЊ Zero tracking during 15-30 day transit  
-вќЊ Surprise fees and delays  
-вќЊ Currency exchange complexity  
-вќЊ Customs paperwork nightmare  
-вќЊ No recourse for problems  
+❌ No unified platform for quotes/booking  
+❌ Can't compare carriers/routes easily  
+❌ Zero tracking during 15-30 day transit  
+❌ Surprise fees and delays  
+❌ Currency exchange complexity  
+❌ Customs paperwork nightmare  
+❌ No recourse for problems  
 
 **Impact:** 20-40% higher costs, 30% longer transit times, 15% shipment damage/loss rates
 
 #### For Carriers:
-вќЊ 40-60% empty return trips  
-вќЊ Fragmented customer acquisition  
-вќЊ Payment delays (30-90 days)  
-вќЊ No route optimization tools  
-вќЊ Manual quoting/booking  
-вќЊ High administrative overhead  
+❌ 40-60% empty return trips  
+❌ Fragmented customer acquisition  
+❌ Payment delays (30-90 days)  
+❌ No route optimization tools  
+❌ Manual quoting/booking  
+❌ High administrative overhead  
 
 **Impact:** 25-35% lower margins, 40% capacity underutilization
 
 #### For Governments:
-вќЊ Limited trade data visibility  
-вќЊ Manual customs clearance  
-вќЊ Revenue leakage  
-вќЊ Compliance challenges  
-вќЊ Inefficient processes  
+❌ Limited trade data visibility  
+❌ Manual customs clearance  
+❌ Revenue leakage  
+❌ Compliance challenges  
+❌ Inefficient processes  
 
 **Impact:** 10-15% lost customs revenue, security gaps
 

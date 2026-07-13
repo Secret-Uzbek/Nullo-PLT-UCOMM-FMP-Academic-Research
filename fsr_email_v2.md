@@ -119,8 +119,8 @@ Despite $180B+ in announced investments and trade between USA, Germany, and Cent
 
 | Scenario | Timeline | Exit Value | Your Return |
 |----------|----------|------------|-------------|
-| Strategic Acquisition | 2028-2030 | в‚¬50-100M | в‚¬10-20M (10-20x) |
-| Series B → IPO | 2030-2032 | в‚¬200M+ | в‚¬40M+ (40x+) |
+| Strategic Acquisition | 2028-2030 | €50-100M | €10-20M (10-20x) |
+| Series B → IPO | 2030-2032 | €200M+ | €40M+ (40x+) |
 | Dividend Flow | 2027+ | Ongoing | 15-25% annual yield |
 
 **Comparables:**  
@@ -300,7 +300,7 @@ Fractal Silk Route Hub
 
 📧 a.abdukarimov@fractal-metascience.org  
 🔗 ORCID: 0009-0000-6394-4912  
-рџ“Ќ Tashkent, Uzbekistan  
+📍 Tashkent, Uzbekistan  
 🌐ђ [Website coming Q1 2026]
 
 ---

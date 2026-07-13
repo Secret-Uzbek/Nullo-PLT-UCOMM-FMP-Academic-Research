@@ -299,11 +299,11 @@ where $\alpha_{fractal}$ is the self-similarity degree.
 
 \subsection{Planetary Boundaries}
 
-RockstrГ¶m et al. \cite{rockstrom2023safe} demonstrate that safe-operating-space thresholds scale hierarchically with constant normalized variance (CV $\approx$ 0.3) across three orders of magnitude.
+Rockström et al. \cite{rockstrom2023safe} demonstrate that safe-operating-space thresholds scale hierarchically with constant normalized variance (CV $\approx$ 0.3) across three orders of magnitude.
 
 \subsection{Knowledge Infrastructure}
 
-BarabГЎsi's preferential attachment \cite{mitchell2009complexity} yields fractal degree distributions ($\gamma \approx 3.0$) identical to river-network scaling.
+Barabási's preferential attachment \cite{mitchell2009complexity} yields fractal degree distributions ($\gamma \approx 3.0$) identical to river-network scaling.
 
 \subsection{Ethical Attractors}
 

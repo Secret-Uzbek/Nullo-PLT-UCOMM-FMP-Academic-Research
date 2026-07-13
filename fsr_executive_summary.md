@@ -196,7 +196,7 @@ Founder & CEO, Fractal Silk Route Hub
 
 📧 a.abdukarimov@fractal-metascience.org  
 🔗 ORCID: 0009-0000-6394-4912  
-рџ“Ќ Tashkent, Uzbekistan  
+📍 Tashkent, Uzbekistan  
 
 **Response time:** Within 24 hours for all partnership inquiries
 

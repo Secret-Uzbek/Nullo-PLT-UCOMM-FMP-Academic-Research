@@ -139,7 +139,7 @@ The author acknowledges the AI systems (ChatGPT, Claude, Perplexity, Kimmi, Hutc
 
 \begin{thebibliography}{99}
 \bibitem[Zawacki-Richter et~al.(2019)]{Zawacki2019}
-Zawacki-Richter, O., MarГ­n, V. I., Bond, M., \& Gouverneur, F. (2019).
+Zawacki-Richter, O., Marín, V. I., Bond, M., \& Gouverneur, F. (2019).
 Systematic review of research on artificial intelligence in higher education.
 \textit{International Journal of Educational Technology in Higher Education}, 16(39).
 

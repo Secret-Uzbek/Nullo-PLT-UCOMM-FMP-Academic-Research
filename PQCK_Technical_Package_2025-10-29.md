@@ -97,7 +97,7 @@ Base URL: `http://localhost:8080/fmp`
 - **Carbon-negative**: solar only – no diesel
 - **Water-positive**: entropy sensor – water reuse ↑
 - **Biodiversity**: each qDNA-node = +1 native plant
-- **Fair labor**: KARMA-task = В«translate mining manual to UzbekВ» – local jobs
+- **Fair labor**: KARMA-task = «translate mining manual to Uzbek» – local jobs
 - **Transparency**: all data – IPFS – public SHA256
 
 ========== SHA256SUMS.txt ==========

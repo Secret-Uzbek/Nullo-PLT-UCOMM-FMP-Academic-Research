@@ -60,9 +60,9 @@
 
 *EN:* The stirrup changed rider–horse dynamics and amplified mobility and military leverage across the steppe. FMP interpretation: the stirrup is an architecture of power — a small mechanical node that reorganizes societal structure.
 
-**3.2. Шёлк**
+**3.2. ظлк**
 
-[ФАКТ] Шёлковая нить и технологии шёлководства породили трансрегиональные сети обмена (Шелковый путь) и культурный обмен между Востоком и Западом.
+[ФАКТ] ظлковая нить и технологии шёлководства породили трансрегиональные сети обмена (Шелковый путь) и культурный обмен между Востоком и Западом.
 
 *EN:* Silk production catalyzed transregional exchange networks (the Silk Road), enabling deep cultural transfers East–West.
 

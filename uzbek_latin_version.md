@@ -3,15 +3,15 @@
 **UAT TsRB NGMK boshlig'iga**
 **Mavlonov Sh.M.ga**
 
-| Tab. в„– | Muallifning familiyasi, ismi, otasining ismi | Ish joyi | Lavozimi | Ma'lumoti | Tug'ilgan yili |
+| Tab. № | Muallifning familiyasi, ismi, otasining ismi | Ish joyi | Lavozimi | Ma'lumoti | Tug'ilgan yili |
 |--------|-------------------------------------------|----------|-----------|-----------|----------------|
-| [Sizning tab.в„–] | [Sizning F.I.O.] | UAT TsRB NGMK | [Sizning lavozimingiz] | [Sizning ma'lumotingiz] | [Tug'ilgan yilingiz] |
+| [Sizning tab.№] | [Sizning F.I.O.] | UAT TsRB NGMK | [Sizning lavozimingiz] | [Sizning ma'lumotingiz] | [Tug'ilgan yilingiz] |
 
 ## ARIZA
 
 Quyidagi nomlanish ostida taklifni ko'rib chiqishni so'rayman:
 
-**В«UAT TsRB NGMK texnik ehtiyojlari uchun havoda suv ajratib olish texnologiyasi asosida yopiq resirkulyatsiya konturi bilan avtonom suv ta'minoti tizimiВ»**
+**«UAT TsRB NGMK texnik ehtiyojlari uchun havoda suv ajratib olish texnologiyasi asosida yopiq resirkulyatsiya konturi bilan avtonom suv ta'minoti tizimi»**
 
 ---
 
@@ -52,15 +52,15 @@ Taklif qilinadigan yechimning asosi "Navoiy" EIZ zonasida sinovdan o'tkazilgan "
 #### Havodan suv ajratish bloki:
 - **Asosiy texnologiya:** "Akvadjenka" (rossiyalik ishlanma, O'zbekistonda sinovdan o'tgan)
 - **Unumdorlik:** kuniga 2500 l (har biri 1000 l dan 2 ta o'rnatma + zaxira)
-- **Ish sharoitlari:** harorat -10°C dan +70°C gacha, namlik 4 g/mВі dan
-- **Energiya iste'moli:** 1 litr suvga 5-6 kVtв‹…soat
+- **Ish sharoitlari:** harorat -10°C dan +70°C gacha, namlik 4 g/m³ dan
+- **Energiya iste'moli:** 1 litr suvga 5-6 kVt⋅soat
 - **Afzalliklar:** Qizilqum cho'lining haddan tashqari quruq iqlimida ishlash
 
 #### Resirkulyatsiya tizimi:
 - Ishlatilgan suv uchun yig'uvchi rezervuarlar - 5000 l
 - Ko'p bosqichli filtratsiya tizimi (mexanik, ko'mir, UB-sterilizatsiya)
 - Toza texnik suv to'plash baklari - 3000 l
-- Suv uzatish nasos stantsiyasi - har biri 5 mВі/soat dan 2 ta nasos
+- Suv uzatish nasos stantsiyasi - har biri 5 m³/soat dan 2 ta nasos
 - Suv sifatining avtomatik nazorat tizimi
 
 ### Ish tamoyili
@@ -88,8 +88,8 @@ Taklif qilinadigan yechimning asosi "Navoiy" EIZ zonasida sinovdan o'tkazilgan "
 ### Joriy etish joyi
 
 UAT markaziy ta'mir bazasi quyidagiga kengaytirish imkoniyati bilan:
-- "Muruntov" kareridagi transport sexД±
-- Tog' ishlarini mexanizatsiyalash sexД±
+- "Muruntov" kareridagi transport sexı
+- Tog' ishlarini mexanizatsiyalash sexı
 - "Ouminzo-Amantoy", "Balpantov-Tamdibulaq", "Turbay" transport sexlari
 
 ---
@@ -116,8 +116,8 @@ UAT markaziy ta'mir bazasi quyidagiga kengaytirish imkoniyati bilan:
 
 #### Mavjud tizim:
 **Suv ta'minoti bo'yicha asosiy xarajatlar:**
-- OESVES dan suv narxi: 730 mВі/yil × 45,000 so'm/mВі = 32,850,000 so'm
-- Tarmoqlar bo'ylab transport uchun to'lov: 730 mВі/yil × 15,000 so'm/mВі = 10,950,000 so'm
+- OESVES dan suv narxi: 730 m³/yil × 45,000 so'm/m³ = 32,850,000 so'm
+- Tarmoqlar bo'ylab transport uchun to'lov: 730 m³/yil × 15,000 so'm/m³ = 10,950,000 so'm
 - Tarmoqlardagi yo'qotishlar va ortiqcha to'lovlar (25%): 10,950,000 so'm/yil
 - UAT suv uzatish tarmoqlarini xizmat ko'rsatish: 8,500,000 so'm/yil
 - Limitlarni oshirganlik uchun jarimalar: 4,200,000 so'm/yil
@@ -127,7 +127,7 @@ UAT markaziy ta'mir bazasi quyidagiga kengaytirish imkoniyati bilan:
 
 #### Taklif qilinadigan tizim:
 **Ekspluatatsiya xarajatlari:**
-- Elektr energiya: 18,250 kVtв‹…soat/yil × 950 so'm/kVtв‹…soat = 17,337,500 so'm/yil
+- Elektr energiya: 18,250 kVt⋅soat/yil × 950 so'm/kVt⋅soat = 17,337,500 so'm/yil
 - Uskunalarga xizmat ko'rsatish va ta'mirlash: 12,500,000 so'm/yil
 - Filtrlar va sarflanuvchi materiallarni almashtirish: 8,200,000 so'm/yil
 - Xizmat ko'rsatuvchi xodim maoshi (1 kishi): 36,000,000 so'm/yil
@@ -143,7 +143,7 @@ UAT markaziy ta'mir bazasi quyidagiga kengaytirish imkoniyati bilan:
 - **Suv uzatish tarmoqlarini texnik xizmat ko'rsatish xarajatlarini kamaytirish:** 15,000,000 so'm/yil
 
 #### Iqtisodiy baholash bilan ESG-effektlar:
-- **Tabiiy suv tejash:** 550 mВі/yil × 75,000 so'm/mВі = 41,250,000 so'm/yil
+- **Tabiiy suv tejash:** 550 m³/yil × 75,000 so'm/m³ = 41,250,000 so'm/yil
 - **Ekologik to'lovlarni kamaytirish:** 8,500,000 so'm/yil
 - **ESG-reytingni yaxshilash** (kredit narxini 0.1% ga kamaytirish): 15,000,000 so'm/yil
 
